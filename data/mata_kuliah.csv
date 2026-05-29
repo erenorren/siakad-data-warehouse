@@ -1,0 +1,181 @@
+id_mk,kode_mk,nama_mk,sks,semester_ke,id_prodi,jenis_mk
+1,TIF001,Statistika (TIF),3,3,1,Pilihan
+2,TIF002,Skripsi (TIF),6,8,1,Pilihan
+3,TIF003,Rekayasa Perangkat Lunak (TIF),3,4,1,Wajib
+4,TIF004,Algoritma & Pemrograman (TIF),3,2,1,Wajib
+5,TIF005,Basis Data (TIF),3,3,1,Wajib
+6,TIF006,Ekonomi Mikro (TIF),3,1,1,Wajib
+7,TIF007,Manajemen Keuangan (TIF),3,3,1,Wajib
+8,TIF008,Anatomi (TIF),3,1,1,Wajib
+9,TIF009,Jaringan Komputer (TIF),3,3,1,Wajib
+10,TIF010,Audit (TIF),3,5,1,Wajib
+11,TIF011,Data Mining (TIF),3,5,1,Wajib
+12,TIF012,Matematika Diskrit (TIF),3,2,1,Wajib
+13,TIF013,Sistem Operasi (TIF),3,4,1,Wajib
+14,TIF014,Manajemen Proyek TI (TIF),2,6,1,Wajib
+15,TIF015,Struktur Data (TIF),3,2,1,Wajib
+16,TSI016,Sistem Operasi (TSI),3,4,2,Wajib
+17,TSI017,Probabilitas (TSI),3,3,2,Wajib
+18,TSI018,Audit (TSI),3,5,2,Wajib
+19,TSI019,Akuntansi Dasar (TSI),3,1,2,Wajib
+20,TSI020,Skripsi (TSI),6,8,2,Wajib
+21,TSI021,Kalkulus (TSI),4,1,2,Wajib
+22,TSI022,Ekonomi Mikro (TSI),3,1,2,Wajib
+23,TSI023,Kerja Praktek (TSI),3,7,2,Wajib
+24,TSI024,Fisiologi (TSI),3,2,2,Pilihan
+25,TSI025,Pemrograman Dasar (TSI),3,1,2,Pilihan
+26,TSI026,Matematika Diskrit (TSI),3,2,2,Wajib
+27,TSI027,Algoritma & Pemrograman (TSI),3,2,2,Wajib
+28,TSI028,Biokimia (TSI),3,2,2,Wajib
+29,TSI029,Hukum Bisnis (TSI),2,5,2,Wajib
+30,TSI030,Kecerdasan Buatan (TSI),3,5,2,Wajib
+31,TE031,Akuntansi Dasar (TE),3,1,3,Wajib
+32,TE032,Algoritma & Pemrograman (TE),3,2,3,Wajib
+33,TE033,Struktur Data (TE),3,2,3,Wajib
+34,TE034,Pemasaran (TE),3,4,3,Wajib
+35,TE035,Manajemen Proyek TI (TE),2,6,3,Wajib
+36,TE036,Kerja Praktek (TE),3,7,3,Pilihan
+37,TE037,Manajemen Keuangan (TE),3,3,3,Pilihan
+38,TE038,Machine Learning (TE),3,6,3,Wajib
+39,TE039,Audit (TE),3,5,3,Wajib
+40,TE040,Kalkulus (TE),4,1,3,Wajib
+41,TE041,Pemrograman Dasar (TE),3,1,3,Wajib
+42,TE042,Bahasa Inggris (TE),2,1,3,Wajib
+43,TE043,Matematika Diskrit (TE),3,2,3,Wajib
+44,TE044,Fisika Dasar (TE),3,1,3,Pilihan
+45,TE045,Ekonomi Mikro (TE),3,1,3,Pilihan
+46,PBI046,Pemasaran (PBI),3,4,4,Pilihan
+47,PBI047,Matematika Diskrit (PBI),3,2,4,Pilihan
+48,PBI048,Jaringan Komputer (PBI),3,3,4,Wajib
+49,PBI049,Struktur Data (PBI),3,2,4,Pilihan
+50,PBI050,Audit (PBI),3,5,4,Wajib
+51,PBI051,Machine Learning (PBI),3,6,4,Wajib
+52,PBI052,Kalkulus (PBI),4,1,4,Wajib
+53,PBI053,Hukum Bisnis (PBI),2,5,4,Wajib
+54,PBI054,Rekayasa Perangkat Lunak (PBI),3,4,4,Wajib
+55,PBI055,Fisiologi (PBI),3,2,4,Wajib
+56,PBI056,Anatomi (PBI),3,1,4,Wajib
+57,PBI057,Algoritma & Pemrograman (PBI),3,2,4,Pilihan
+58,PBI058,Ekonomi Mikro (PBI),3,1,4,Pilihan
+59,PBI059,Pemrograman Dasar (PBI),3,1,4,Wajib
+60,PBI060,Basis Data (PBI),3,3,4,Wajib
+61,PMA061,Data Mining (PMAT),3,5,5,Wajib
+62,PMA062,Ekonomi Mikro (PMAT),3,1,5,Wajib
+63,PMA063,Anatomi (PMAT),3,1,5,Wajib
+64,PMA064,Kerja Praktek (PMAT),3,7,5,Wajib
+65,PMA065,Rekayasa Perangkat Lunak (PMAT),3,4,5,Wajib
+66,PMA066,Kalkulus (PMAT),4,1,5,Wajib
+67,PMA067,Pemrograman Dasar (PMAT),3,1,5,Wajib
+68,PMA068,Algoritma & Pemrograman (PMAT),3,2,5,Wajib
+69,PMA069,Struktur Data (PMAT),3,2,5,Wajib
+70,PMA070,Statistika (PMAT),3,3,5,Pilihan
+71,PMA071,Biokimia (PMAT),3,2,5,Wajib
+72,PMA072,Fisika Dasar (PMAT),3,1,5,Wajib
+73,PMA073,Manajemen Keuangan (PMAT),3,3,5,Wajib
+74,PMA074,Machine Learning (PMAT),3,6,5,Wajib
+75,PMA075,Akuntansi Dasar (PMAT),3,1,5,Wajib
+76,MAN076,Bahasa Inggris (MAN),2,1,6,Wajib
+77,MAN077,Ekonomi Mikro (MAN),3,1,6,Wajib
+78,MAN078,Rekayasa Perangkat Lunak (MAN),3,4,6,Pilihan
+79,MAN079,Probabilitas (MAN),3,3,6,Wajib
+80,MAN080,Anatomi (MAN),3,1,6,Pilihan
+81,MAN081,Biokimia (MAN),3,2,6,Wajib
+82,MAN082,Pemrograman Dasar (MAN),3,1,6,Wajib
+83,MAN083,Sistem Operasi (MAN),3,4,6,Wajib
+84,MAN084,Skripsi (MAN),6,8,6,Wajib
+85,MAN085,Pemasaran (MAN),3,4,6,Wajib
+86,MAN086,Machine Learning (MAN),3,6,6,Wajib
+87,MAN087,Hukum Bisnis (MAN),2,5,6,Wajib
+88,MAN088,Data Mining (MAN),3,5,6,Wajib
+89,MAN089,Audit (MAN),3,5,6,Wajib
+90,MAN090,Algoritma & Pemrograman (MAN),3,2,6,Wajib
+91,AKT091,Basis Data (AKT),3,3,7,Pilihan
+92,AKT092,Skripsi (AKT),6,8,7,Wajib
+93,AKT093,Etika Profesi (AKT),2,7,7,Wajib
+94,AKT094,Audit (AKT),3,5,7,Pilihan
+95,AKT095,Pemasaran (AKT),3,4,7,Wajib
+96,AKT096,Struktur Data (AKT),3,2,7,Wajib
+97,AKT097,Ekonomi Mikro (AKT),3,1,7,Wajib
+98,AKT098,Bahasa Inggris (AKT),2,1,7,Pilihan
+99,AKT099,Sistem Operasi (AKT),3,4,7,Wajib
+100,AKT100,Biokimia (AKT),3,2,7,Wajib
+101,AKT101,Rekayasa Perangkat Lunak (AKT),3,4,7,Wajib
+102,AKT102,Manajemen Keuangan (AKT),3,3,7,Wajib
+103,AKT103,Jaringan Komputer (AKT),3,3,7,Wajib
+104,AKT104,Akuntansi Dasar (AKT),3,1,7,Wajib
+105,AKT105,Pemrograman Dasar (AKT),3,1,7,Pilihan
+106,MTK106,Biokimia (MTK),3,2,8,Pilihan
+107,MTK107,Hukum Bisnis (MTK),2,5,8,Wajib
+108,MTK108,Pemrograman Dasar (MTK),3,1,8,Pilihan
+109,MTK109,Fisiologi (MTK),3,2,8,Wajib
+110,MTK110,Machine Learning (MTK),3,6,8,Pilihan
+111,MTK111,Jaringan Komputer (MTK),3,3,8,Pilihan
+112,MTK112,Struktur Data (MTK),3,2,8,Wajib
+113,MTK113,Skripsi (MTK),6,8,8,Wajib
+114,MTK114,Manajemen Proyek TI (MTK),2,6,8,Wajib
+115,MTK115,Fisika Dasar (MTK),3,1,8,Pilihan
+116,MTK116,Kerja Praktek (MTK),3,7,8,Wajib
+117,MTK117,Pemasaran (MTK),3,4,8,Pilihan
+118,MTK118,Anatomi (MTK),3,1,8,Wajib
+119,MTK119,Akuntansi Dasar (MTK),3,1,8,Wajib
+120,MTK120,Bahasa Inggris (MTK),2,1,8,Wajib
+121,KIM121,Jaringan Komputer (KIM),3,3,9,Wajib
+122,KIM122,Anatomi (KIM),3,1,9,Pilihan
+123,KIM123,Akuntansi Dasar (KIM),3,1,9,Wajib
+124,KIM124,Algoritma & Pemrograman (KIM),3,2,9,Wajib
+125,KIM125,Hukum Bisnis (KIM),2,5,9,Wajib
+126,KIM126,Skripsi (KIM),6,8,9,Wajib
+127,KIM127,Etika Profesi (KIM),2,7,9,Wajib
+128,KIM128,Biokimia (KIM),3,2,9,Wajib
+129,KIM129,Fisiologi (KIM),3,2,9,Wajib
+130,KIM130,Audit (KIM),3,5,9,Wajib
+131,KIM131,Manajemen Proyek TI (KIM),2,6,9,Wajib
+132,KIM132,Bahasa Inggris (KIM),2,1,9,Pilihan
+133,KIM133,Sistem Operasi (KIM),3,4,9,Wajib
+134,KIM134,Ekonomi Mikro (KIM),3,1,9,Wajib
+135,KIM135,Matematika Diskrit (KIM),3,2,9,Pilihan
+136,HKM136,Kalkulus (HKM),4,1,10,Wajib
+137,HKM137,Biokimia (HKM),3,2,10,Wajib
+138,HKM138,Hukum Bisnis (HKM),2,5,10,Wajib
+139,HKM139,Statistika (HKM),3,3,10,Wajib
+140,HKM140,Data Mining (HKM),3,5,10,Wajib
+141,HKM141,Etika Profesi (HKM),2,7,10,Wajib
+142,HKM142,Fisiologi (HKM),3,2,10,Pilihan
+143,HKM143,Kecerdasan Buatan (HKM),3,5,10,Pilihan
+144,HKM144,Sistem Operasi (HKM),3,4,10,Pilihan
+145,HKM145,Anatomi (HKM),3,1,10,Wajib
+146,HKM146,Machine Learning (HKM),3,6,10,Pilihan
+147,HKM147,Kerja Praktek (HKM),3,7,10,Wajib
+148,HKM148,Jaringan Komputer (HKM),3,3,10,Wajib
+149,HKM149,Pemasaran (HKM),3,4,10,Wajib
+150,HKM150,Pemrograman Dasar (HKM),3,1,10,Wajib
+151,PDK151,Biokimia (PDK),3,2,11,Pilihan
+152,PDK152,Manajemen Proyek TI (PDK),2,6,11,Wajib
+153,PDK153,Struktur Data (PDK),3,2,11,Wajib
+154,PDK154,Fisika Dasar (PDK),3,1,11,Wajib
+155,PDK155,Algoritma & Pemrograman (PDK),3,2,11,Pilihan
+156,PDK156,Data Mining (PDK),3,5,11,Wajib
+157,PDK157,Rekayasa Perangkat Lunak (PDK),3,4,11,Wajib
+158,PDK158,Basis Data (PDK),3,3,11,Pilihan
+159,PDK159,Fisiologi (PDK),3,2,11,Wajib
+160,PDK160,Manajemen Keuangan (PDK),3,3,11,Wajib
+161,PDK161,Probabilitas (PDK),3,3,11,Wajib
+162,PDK162,Pemasaran (PDK),3,4,11,Pilihan
+163,PDK163,Hukum Bisnis (PDK),2,5,11,Wajib
+164,PDK164,Machine Learning (PDK),3,6,11,Wajib
+165,PDK165,Matematika Diskrit (PDK),3,2,11,Wajib
+166,TIF166,Pemrograman Dasar (TIF2),3,1,12,Wajib
+167,TIF167,Statistika (TIF2),3,3,12,Wajib
+168,TIF168,Basis Data (TIF2),3,3,12,Wajib
+169,TIF169,Manajemen Proyek TI (TIF2),2,6,12,Pilihan
+170,TIF170,Manajemen Keuangan (TIF2),3,3,12,Wajib
+171,TIF171,Algoritma & Pemrograman (TIF2),3,2,12,Wajib
+172,TIF172,Kecerdasan Buatan (TIF2),3,5,12,Wajib
+173,TIF173,Struktur Data (TIF2),3,2,12,Wajib
+174,TIF174,Probabilitas (TIF2),3,3,12,Wajib
+175,TIF175,Akuntansi Dasar (TIF2),3,1,12,Wajib
+176,TIF176,Fisiologi (TIF2),3,2,12,Wajib
+177,TIF177,Ekonomi Mikro (TIF2),3,1,12,Pilihan
+178,TIF178,Sistem Operasi (TIF2),3,4,12,Wajib
+179,TIF179,Biokimia (TIF2),3,2,12,Wajib
+180,TIF180,Skripsi (TIF2),6,8,12,Pilihan

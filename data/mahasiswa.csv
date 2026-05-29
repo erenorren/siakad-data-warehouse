@@ -1,0 +1,1501 @@
+id_mhs,nim,nama_mhs,jenis_kelamin,tgl_lahir,kode_provinsi_asal,nama_sma_asal,akreditasi_sma_asal,id_prodi,tahun_masuk,status_mhs
+1,A22010001,"Putri Usamah, S.Gz",P,2002-03-20,64,SMA Negeri 24 Kalimantan Timur,C,1,2022,Aktif
+2,A23020002,Hana Suryatmi,L,2001-09-18,91,SMA Negeri 27 Papua Barat,B,2,2023,Aktif
+3,A21080003,Nyana Sudiati,P,2006-11-21,17,SMA Negeri 30 Bengkulu,B,8,2021,Lulus
+4,A21120004,Maida Narpati,P,2000-03-08,21,SMA Negeri 42 Kepulauan Riau,A,12,2021,Lulus
+5,A21050005,Hana Iswahyudi,P,2006-11-19,81,SMA Negeri 21 Maluku,C,5,2021,Lulus
+6,A20040006,"Dalima Usamah, S.Farm",L,2001-06-19,16,SMA Negeri 37 Sumatera Selatan,TT,4,2020,Lulus
+7,A20100007,Nilam Setiawan,L,2001-06-18,71,SMA Negeri 12 Sulawesi Utara,A,10,2020,Lulus
+8,A20080008,"dr. Azalea Sihombing, S.Pd",L,2006-02-24,34,SMA Negeri 39 DI Yogyakarta,B,8,2020,Aktif
+9,A22120009,Lala Prakasa,P,2002-12-13,52,SMA Negeri 13 Nusa Tenggara Barat,A,12,2022,Aktif
+10,A23020010,"Mala Yuliarti, S.E.I",L,2007-09-17,36,SMA Negeri 36 Banten,C,2,2023,Aktif
+11,A23040011,"Dt. Banara Jailani, M.Ak",L,2006-04-14,81,SMA Negeri 2 Maluku,TT,4,2023,Aktif
+12,A19020012,Agnes Kusmawati,P,2005-06-03,53,SMA Negeri 43 Nusa Tenggara Timur,C,2,2019,Aktif
+13,A21100013,Rusman Maryati,L,2007-05-08,65,SMA Negeri 36 Kalimantan Utara,B,10,2021,Cuti
+14,A23060014,Drs. Zaenab Thamrin,L,2007-01-07,64,SMA Negeri 20 Kalimantan Timur,TT,6,2023,Aktif
+15,A18050015,Sabrina Wijaya,L,1998-10-16,35,SMA Negeri 35 Jawa Timur,B,5,2018,Aktif
+16,A19120016,Indah Najmudin,P,2005-04-28,32,SMA Negeri 47 Jawa Barat,B,12,2019,Aktif
+17,A22100017,Karimah Permata,L,2004-05-19,94,SMA Negeri 13 Papua,B,10,2022,Aktif
+18,A20050018,Prabu Pratiwi,L,2003-01-22,35,SMA Negeri 35 Jawa Timur,A,5,2020,Aktif
+19,A18030019,R. Dimas Farida,P,1999-06-23,52,SMA Negeri 9 Nusa Tenggara Barat,A,3,2018,Aktif
+20,A18110020,Garan Jailani,P,2000-01-17,82,SMA Negeri 31 Maluku Utara,A,11,2018,Aktif
+21,A19080021,Intan Manullang,L,2006-03-05,63,SMA Negeri 31 Kalimantan Selatan,A,8,2019,DO
+22,A21020022,Rizki Dongoran,L,1999-07-28,15,SMA Negeri 44 Jambi,TT,2,2021,Lulus
+23,A19010023,Victoria Prasasta,L,2002-10-13,21,SMA Negeri 8 Kepulauan Riau,B,1,2019,Cuti
+24,A22090024,Mursinin Waluyo,P,2006-03-04,73,SMA Negeri 25 Sulawesi Selatan,B,9,2022,Aktif
+25,A20080025,"Drs. Uchita Samosir, M.M.",L,2004-03-26,75,SMA Negeri 4 Gorontalo,C,8,2020,Lulus
+26,A19100026,Titi Wahyuni,L,2004-12-21,17,SMA Negeri 11 Bengkulu,B,10,2019,Lulus
+27,A22040027,Dacin Samosir,L,2007-08-25,32,SMA Negeri 1 Jawa Barat,A,4,2022,Aktif
+28,A23070028,Hj. Irma Agustina,L,2004-10-05,75,SMA Negeri 3 Gorontalo,TT,7,2023,Aktif
+29,A23040029,Widya Siregar,P,2001-05-02,53,SMA Negeri 30 Nusa Tenggara Timur,B,4,2023,Aktif
+30,A20020030,dr. Malika Uyainah,L,1998-08-13,35,SMA Negeri 15 Jawa Timur,B,2,2020,Aktif
+31,A20110031,Fathonah Tamba,L,1997-11-26,21,SMA Negeri 20 Kepulauan Riau,A,11,2020,Aktif
+32,A21100032,Banara Wacana,L,2003-11-07,53,SMA Negeri 45 Nusa Tenggara Timur,A,10,2021,Lulus
+33,A22070033,Tira Pratama,L,2002-03-11,52,SMA Negeri 6 Nusa Tenggara Barat,TT,7,2022,Aktif
+34,A21100034,"R.M. Viman Pradana, S.Psi",P,2001-04-17,13,SMA Negeri 6 Sumatera Barat,B,10,2021,Aktif
+35,A23040035,"Ikin Manullang, S.I.Kom",P,2005-10-30,12,SMA Negeri 3 Sumatera Utara,B,4,2023,Aktif
+36,A22030036,"Tgk. Salman Yuliarti, S.T.",L,2008-03-21,81,SMA Negeri 12 Maluku,TT,3,2022,Aktif
+37,A23100037,Jane Haryanto,L,1997-06-18,74,SMA Negeri 31 Sulawesi Tenggara,TT,10,2023,Aktif
+38,A20060038,Teguh Prasetya,P,1998-01-13,73,SMA Negeri 11 Sulawesi Selatan,B,6,2020,Aktif
+39,A23060039,Virman Tamba,L,2007-08-13,73,SMA Negeri 43 Sulawesi Selatan,TT,6,2023,Aktif
+40,A21070040,Karimah Sitompul,L,2005-06-02,13,SMA Negeri 8 Sumatera Barat,A,7,2021,Aktif
+41,A18070041,Putri Suryono,L,1998-10-07,91,SMA Negeri 34 Papua Barat,TT,7,2018,Aktif
+42,A23060042,"Drs. Rosman Hastuti, M.Pd",L,2006-11-25,82,SMA Negeri 14 Maluku Utara,TT,6,2023,Aktif
+43,A20050043,Elisa Firgantoro,P,2005-10-18,19,SMA Negeri 2 Kepulauan Bangka Belitung,TT,5,2020,Aktif
+44,A23110044,Elvina Halim,L,1999-03-30,36,SMA Negeri 36 Banten,A,11,2023,Aktif
+45,A18010045,"Prasetya Waluyo, S.H.",L,2006-09-27,73,SMA Negeri 8 Sulawesi Selatan,B,1,2018,Aktif
+46,A21110046,Gandi Safitri,P,1998-12-14,21,SMA Negeri 27 Kepulauan Riau,B,11,2021,Lulus
+47,A19080047,Jagapati Anggriawan,P,2003-09-08,81,SMA Negeri 13 Maluku,TT,8,2019,Aktif
+48,A23100048,Rendy Prasasta,L,2003-03-31,91,SMA Negeri 18 Papua Barat,A,10,2023,Aktif
+49,A22070049,Ajeng Halimah,L,2004-04-11,63,SMA Negeri 19 Kalimantan Selatan,B,7,2022,Aktif
+50,A22120050,T. Banawa Nainggolan,L,2002-03-30,61,SMA Negeri 29 Kalimantan Barat,TT,12,2022,Aktif
+51,A20090051,"Mujur Haryanti, S.IP",P,1999-04-24,81,SMA Negeri 25 Maluku,B,9,2020,Lulus
+52,A19080052,Damu Wibowo,P,2005-02-02,62,SMA Negeri 50 Kalimantan Tengah,B,8,2019,Aktif
+53,A20070053,Faizah Agustina,P,2008-01-28,13,SMA Negeri 25 Sumatera Barat,TT,7,2020,DO
+54,A21070054,"Putri Natsir, M.Kom.",L,2008-04-23,21,SMA Negeri 38 Kepulauan Riau,A,7,2021,Lulus
+55,A21060055,"Kayla Purnawati, S.T.",P,2006-02-09,17,SMA Negeri 1 Bengkulu,A,6,2021,DO
+56,A21120056,"Ilyas Suartini, M.Ak",L,2007-11-28,21,SMA Negeri 17 Kepulauan Riau,A,12,2021,Aktif
+57,A23060057,"Lala Andriani, S.E.I",L,2008-04-07,72,SMA Negeri 44 Sulawesi Tengah,A,6,2023,Aktif
+58,A20090058,Drs. Sakura Wacana,P,1997-08-17,71,SMA Negeri 5 Sulawesi Utara,TT,9,2020,Aktif
+59,A19040059,Nilam Purwanti,L,2003-03-24,53,SMA Negeri 49 Nusa Tenggara Timur,A,4,2019,Cuti
+60,A21110060,Vivi Prasasta,P,1997-12-21,17,SMA Negeri 2 Bengkulu,A,11,2021,Aktif
+61,A18010061,Ade Zulaika,L,2005-09-27,62,SMA Negeri 10 Kalimantan Tengah,B,1,2018,Aktif
+62,A21040062,"R. Dimas Maulana, M.Farm",L,2000-11-12,94,SMA Negeri 40 Papua,A,4,2021,Aktif
+63,A21070063,Lidya Ardianto,L,1999-02-14,36,SMA Negeri 17 Banten,A,7,2021,Aktif
+64,A23080064,Yuni Anggraini,L,2000-06-07,51,SMA Negeri 19 Bali,A,8,2023,Aktif
+65,A18110065,Yunita Yolanda,L,2005-12-20,31,SMA Negeri 20 DKI Jakarta,TT,11,2018,Cuti
+66,A23110066,"R. Opan Budiman, M.TI.",L,2005-04-03,74,SMA Negeri 20 Sulawesi Tenggara,B,11,2023,Aktif
+67,A21040067,Mursinin Rajata,L,2004-11-01,71,SMA Negeri 23 Sulawesi Utara,A,4,2021,Aktif
+68,A23100068,"Eja Laksmiwati, M.M.",L,1999-12-19,53,SMA Negeri 43 Nusa Tenggara Timur,B,10,2023,Aktif
+69,A18070069,Ami Pratama,P,1999-05-25,52,SMA Negeri 19 Nusa Tenggara Barat,A,7,2018,Lulus
+70,A19040070,"Saadat Simbolon, S.Sos",P,2002-07-04,64,SMA Negeri 49 Kalimantan Timur,B,4,2019,Aktif
+71,A23120071,Mutia Prasetya,P,1998-06-16,19,SMA Negeri 42 Kepulauan Bangka Belitung,A,12,2023,Aktif
+72,A21010072,Jamal Latupono,P,2003-11-05,61,SMA Negeri 9 Kalimantan Barat,A,1,2021,Aktif
+73,A20020073,Dadap Uwais,L,2001-03-06,53,SMA Negeri 35 Nusa Tenggara Timur,C,2,2020,Aktif
+74,A22060074,"Kenes Rahmawati, S.Psi",L,2002-04-08,94,SMA Negeri 17 Papua,B,6,2022,Aktif
+75,A23080075,KH. Prasetya Kurniawan,L,2007-04-07,53,SMA Negeri 30 Nusa Tenggara Timur,B,8,2023,Aktif
+76,A19020076,"H. Jaeman Prayoga, S.Sos",P,2002-08-01,21,SMA Negeri 26 Kepulauan Riau,C,2,2019,Aktif
+77,A22010077,Bagus Haryanto,L,2003-04-29,51,SMA Negeri 24 Bali,A,1,2022,Aktif
+78,A22110078,Bakidin Maulana,P,2000-06-07,51,SMA Negeri 24 Bali,C,11,2022,Aktif
+79,A21020079,"dr. Hilda Winarno, S.Psi",P,2001-10-30,35,SMA Negeri 36 Jawa Timur,A,2,2021,Lulus
+80,A23060080,"Cawisono Maulana, S.Kom",P,1998-03-28,35,SMA Negeri 30 Jawa Timur,A,6,2023,Aktif
+81,A23120081,Sari Sudiati,L,1999-07-10,61,SMA Negeri 9 Kalimantan Barat,C,12,2023,Aktif
+82,A20010082,Azalea Wijayanti,L,2001-05-10,13,SMA Negeri 35 Sumatera Barat,TT,1,2020,Aktif
+83,A21030083,Bahuwarna Marbun,P,1997-12-31,71,SMA Negeri 45 Sulawesi Utara,B,3,2021,DO
+84,A22090084,Patricia Hutapea,L,2005-09-24,73,SMA Negeri 42 Sulawesi Selatan,A,9,2022,Aktif
+85,A22020085,Caket Hariyah,L,2000-12-22,82,SMA Negeri 3 Maluku Utara,C,2,2022,Aktif
+86,A19120086,"Ilsa Saputra, M.M.",L,2008-04-14,65,SMA Negeri 24 Kalimantan Utara,TT,12,2019,Cuti
+87,A22020087,"Halima Mayasari, S.T.",L,2004-02-12,65,SMA Negeri 26 Kalimantan Utara,B,2,2022,Aktif
+88,A18050088,Sutan Hasim Dongoran,L,1999-09-20,33,SMA Negeri 42 Jawa Tengah,TT,5,2018,Lulus
+89,A18110089,Rahmi Latupono,L,2002-04-14,12,SMA Negeri 37 Sumatera Utara,B,11,2018,Cuti
+90,A22040090,Ilyas Oktaviani,P,2003-07-29,15,SMA Negeri 14 Jambi,B,4,2022,Aktif
+91,A19040091,Putu Mangunsong,L,2001-10-23,63,SMA Negeri 10 Kalimantan Selatan,A,4,2019,Lulus
+92,A19030092,"T. Lanang Pudjiastuti, S.Farm",P,2005-07-23,51,SMA Negeri 9 Bali,A,3,2019,Lulus
+93,A19010093,"Rosman Suryatmi, M.Ak",L,2006-06-06,64,SMA Negeri 4 Kalimantan Timur,B,1,2019,Aktif
+94,A22030094,Belinda Fujiati,P,1999-01-30,73,SMA Negeri 5 Sulawesi Selatan,A,3,2022,Aktif
+95,A20080095,Wawan Siregar,L,2003-01-11,75,SMA Negeri 40 Gorontalo,A,8,2020,Lulus
+96,A20010096,Titin Riyanti,P,2006-04-11,94,SMA Negeri 4 Papua,TT,1,2020,Cuti
+97,A21080097,Jaeman Tarihoran,L,2002-05-19,72,SMA Negeri 29 Sulawesi Tengah,A,8,2021,Lulus
+98,A20020098,Oliva Latupono,L,2007-09-03,16,SMA Negeri 40 Sumatera Selatan,A,2,2020,Aktif
+99,A21110099,Drs. Cemeti Suryono,L,2001-07-09,62,SMA Negeri 28 Kalimantan Tengah,B,11,2021,Lulus
+100,A23020100,Ida Hutasoit,L,2004-11-22,18,SMA Negeri 29 Lampung,B,2,2023,Aktif
+101,A20040101,Margana Saragih,L,2006-05-29,73,SMA Negeri 7 Sulawesi Selatan,TT,4,2020,Aktif
+102,A20060102,Dalima Saragih,L,2005-09-10,74,SMA Negeri 44 Sulawesi Tenggara,B,6,2020,Cuti
+103,A18080103,Ihsan Wahyudin,L,2003-07-30,15,SMA Negeri 48 Jambi,A,8,2018,Aktif
+104,A19120104,Nadia Ardianto,P,1998-08-01,65,SMA Negeri 36 Kalimantan Utara,A,12,2019,Cuti
+105,A21060105,R. Tina Saptono,P,1999-12-21,18,SMA Negeri 28 Lampung,B,6,2021,DO
+106,A20120106,Uda Pratama,L,2005-05-26,14,SMA Negeri 33 Riau,B,12,2020,Aktif
+107,A23040107,Halim Lestari,L,1998-04-27,21,SMA Negeri 7 Kepulauan Riau,TT,4,2023,Aktif
+108,A18060108,Vera Iswahyudi,P,2000-04-19,65,SMA Negeri 28 Kalimantan Utara,B,6,2018,Aktif
+109,A22090109,Cornelia Sihombing,L,2003-06-25,12,SMA Negeri 12 Sumatera Utara,B,9,2022,Aktif
+110,A20050110,Sabri Uwais,L,1998-04-26,61,SMA Negeri 10 Kalimantan Barat,B,5,2020,Aktif
+111,A18100111,"Kasiyah Usada, M.TI.",P,2002-01-21,72,SMA Negeri 2 Sulawesi Tengah,A,10,2018,Lulus
+112,A19020112,Danuja Palastri,L,2001-08-12,94,SMA Negeri 11 Papua,C,2,2019,Aktif
+113,A23060113,Puti Habibi,P,2006-02-25,61,SMA Negeri 39 Kalimantan Barat,B,6,2023,Aktif
+114,A19020114,"Sutan Ihsan Iswahyudi, S.Sos",P,2000-04-05,14,SMA Negeri 6 Riau,A,2,2019,Aktif
+115,A23050115,Puti Maria Lailasari,L,1999-01-10,75,SMA Negeri 39 Gorontalo,C,5,2023,Aktif
+116,A20080116,Iriana Wijaya,P,2001-02-03,73,SMA Negeri 28 Sulawesi Selatan,B,8,2020,Aktif
+117,A23020117,Humaira Widiastuti,P,2002-05-04,53,SMA Negeri 43 Nusa Tenggara Timur,TT,2,2023,Aktif
+118,A19050118,Ir. Elon Widiastuti,P,2001-03-02,13,SMA Negeri 14 Sumatera Barat,C,5,2019,Aktif
+119,A19050119,Cut Mutia Lailasari,L,2002-03-18,34,SMA Negeri 1 DI Yogyakarta,B,5,2019,Aktif
+120,A19080120,Opan Mandala,L,2004-01-16,74,SMA Negeri 15 Sulawesi Tenggara,A,8,2019,Lulus
+121,A18090121,Nugraha Laksita,P,2000-02-04,64,SMA Negeri 2 Kalimantan Timur,C,9,2018,Aktif
+122,A20080122,Kenari Nugroho,P,2001-11-01,15,SMA Negeri 41 Jambi,C,8,2020,Aktif
+123,A18070123,"dr. Ajeng Marbun, M.M.",L,1998-06-04,53,SMA Negeri 11 Nusa Tenggara Timur,C,7,2018,Cuti
+124,A23100124,Bahuraksa Kuswoyo,L,2004-12-15,76,SMA Negeri 28 Sulawesi Barat,B,10,2023,Aktif
+125,A21020125,drg. Balidin Adriansyah,P,1997-12-03,36,SMA Negeri 20 Banten,C,2,2021,Aktif
+126,A19120126,Titin Kusmawati,L,2002-01-17,63,SMA Negeri 41 Kalimantan Selatan,B,12,2019,Aktif
+127,A22020127,Mulyono Nurdiyanti,L,2006-06-02,94,SMA Negeri 23 Papua,B,2,2022,Aktif
+128,A19120128,Ciaobella Sitorus,L,2000-07-30,21,SMA Negeri 12 Kepulauan Riau,A,12,2019,Aktif
+129,A23100129,Martaka Yuniar,L,2005-06-24,21,SMA Negeri 50 Kepulauan Riau,A,10,2023,Aktif
+130,A21110130,"Puput Tamba, S.Gz",P,2001-08-20,82,SMA Negeri 37 Maluku Utara,TT,11,2021,DO
+131,A23110131,KH. Prayoga Pertiwi,L,1999-09-01,62,SMA Negeri 29 Kalimantan Tengah,B,11,2023,Aktif
+132,A21020132,dr. Pangeran Purnawati,L,2006-11-04,81,SMA Negeri 23 Maluku,B,2,2021,Lulus
+133,A20090133,Balapati Simanjuntak,L,2000-05-10,15,SMA Negeri 24 Jambi,TT,9,2020,Aktif
+134,A23050134,"Soleh Nababan, S.Ked",P,2003-06-02,15,SMA Negeri 39 Jambi,A,5,2023,Aktif
+135,A21090135,Gantar Simanjuntak,L,2007-10-18,71,SMA Negeri 37 Sulawesi Utara,A,9,2021,DO
+136,A20110136,"dr. Zahra Thamrin, S.Pd",P,2001-01-18,33,SMA Negeri 4 Jawa Tengah,TT,11,2020,Aktif
+137,A20080137,Drs. Anita Rahayu,P,2002-07-04,17,SMA Negeri 3 Bengkulu,A,8,2020,Lulus
+138,A21040138,"Opan Wacana, S.Kom",L,2002-12-22,75,SMA Negeri 19 Gorontalo,A,4,2021,Aktif
+139,A20070139,Ellis Nababan,P,1998-06-03,73,SMA Negeri 5 Sulawesi Selatan,A,7,2020,Lulus
+140,A22060140,Kawaca Pranowo,L,1999-05-01,17,SMA Negeri 17 Bengkulu,C,6,2022,Aktif
+141,A20120141,Ilsa Usamah,P,2007-12-09,21,SMA Negeri 23 Kepulauan Riau,A,12,2020,Lulus
+142,A19050142,Hasna Rajasa,L,2003-07-10,72,SMA Negeri 42 Sulawesi Tengah,A,5,2019,Lulus
+143,A23060143,Jaga Pranowo,P,2002-05-06,19,SMA Negeri 43 Kepulauan Bangka Belitung,A,6,2023,Aktif
+144,A20070144,Ellis Rahimah,L,2007-11-14,91,SMA Negeri 14 Papua Barat,A,7,2020,Aktif
+145,A19060145,Cici Yuliarti,L,2006-04-06,82,SMA Negeri 19 Maluku Utara,B,6,2019,Aktif
+146,A22020146,Puti Laila Kusumo,P,2002-11-16,91,SMA Negeri 22 Papua Barat,A,2,2022,Aktif
+147,A22100147,Cornelia Hidayat,L,1998-04-05,19,SMA Negeri 11 Kepulauan Bangka Belitung,C,10,2022,Aktif
+148,A23030148,Cinthia Salahudin,L,2007-07-25,31,SMA Negeri 27 DKI Jakarta,TT,3,2023,Aktif
+149,A21060149,Luthfi Waluyo,P,2002-06-27,36,SMA Negeri 15 Banten,B,6,2021,Lulus
+150,A20090150,Humaira Santoso,L,2005-12-01,36,SMA Negeri 37 Banten,TT,9,2020,Aktif
+151,A20080151,Cici Utama,P,2002-08-26,76,SMA Negeri 11 Sulawesi Barat,C,8,2020,Lulus
+152,A20040152,Septi Mulyani,P,1998-07-21,19,SMA Negeri 24 Kepulauan Bangka Belitung,A,4,2020,Aktif
+153,A23090153,Rachel Wibisono,L,2002-06-30,17,SMA Negeri 6 Bengkulu,A,9,2023,Aktif
+154,A21030154,Hani Sihotang,L,2001-11-16,52,SMA Negeri 15 Nusa Tenggara Barat,A,3,2021,Aktif
+155,A18080155,Hilda Waluyo,L,2002-02-27,64,SMA Negeri 24 Kalimantan Timur,C,8,2018,Aktif
+156,A18040156,Icha Putra,L,2008-02-20,71,SMA Negeri 7 Sulawesi Utara,B,4,2018,Aktif
+157,A19120157,Prasetya Mansur,L,2004-07-03,63,SMA Negeri 31 Kalimantan Selatan,A,12,2019,Aktif
+158,A23120158,"Mulyanto Wibowo, S.Pd",L,2006-02-11,19,SMA Negeri 40 Kepulauan Bangka Belitung,TT,12,2023,Aktif
+159,A18010159,"Sarah Iswahyudi, S.Kom",L,2006-11-27,16,SMA Negeri 36 Sumatera Selatan,B,1,2018,Lulus
+160,A21120160,Sutan Vinsen Setiawan,L,2007-12-08,94,SMA Negeri 8 Papua,A,12,2021,Aktif
+161,A21010161,R. Indah Nababan,L,1999-04-20,36,SMA Negeri 32 Banten,TT,1,2021,Aktif
+162,A23100162,Umay Waluyo,P,1997-12-24,12,SMA Negeri 10 Sumatera Utara,B,10,2023,Aktif
+163,A18050163,Hj. Restu Rahimah,L,2000-12-14,74,SMA Negeri 12 Sulawesi Tenggara,B,5,2018,Lulus
+164,A22110164,"Clara Permata, S.Psi",L,2000-10-07,16,SMA Negeri 34 Sumatera Selatan,B,11,2022,Aktif
+165,A22090165,"T. Gamblang Suryatmi, M.Pd",L,2000-05-05,91,SMA Negeri 31 Papua Barat,A,9,2022,Aktif
+166,A20010166,Amelia Situmorang,P,2000-11-08,71,SMA Negeri 5 Sulawesi Utara,B,1,2020,Aktif
+167,A23060167,"Drs. Xanana Jailani, S.I.Kom",P,2001-05-08,36,SMA Negeri 48 Banten,A,6,2023,Aktif
+168,A18060168,Darijan Gunarto,P,2001-08-12,19,SMA Negeri 42 Kepulauan Bangka Belitung,B,6,2018,Aktif
+169,A23030169,Wani Suartini,P,2003-12-04,76,SMA Negeri 12 Sulawesi Barat,TT,3,2023,Aktif
+170,A23030170,Agnes Uwais,L,2003-09-05,15,SMA Negeri 19 Jambi,TT,3,2023,Aktif
+171,A19040171,"Gading Jailani, S.Ked",L,1998-01-22,13,SMA Negeri 33 Sumatera Barat,A,4,2019,DO
+172,A20070172,Ophelia Laksita,P,2005-08-11,81,SMA Negeri 23 Maluku,A,7,2020,Aktif
+173,A20010173,Gamanto Sirait,L,2006-12-23,63,SMA Negeri 26 Kalimantan Selatan,A,1,2020,Aktif
+174,A21120174,Rafid Suryatmi,L,1997-11-03,75,SMA Negeri 32 Gorontalo,B,12,2021,Aktif
+175,A20060175,Cayadi Wibowo,P,2000-01-20,94,SMA Negeri 28 Papua,A,6,2020,Aktif
+176,A22100176,Mursinin Saragih,L,2001-03-03,32,SMA Negeri 7 Jawa Barat,B,10,2022,Aktif
+177,A23020177,Harjo Pertiwi,L,2001-07-17,62,SMA Negeri 29 Kalimantan Tengah,B,2,2023,Aktif
+178,A19100178,"Puti Devi Winarno, S.I.Kom",L,2006-12-03,74,SMA Negeri 47 Sulawesi Tenggara,TT,10,2019,Aktif
+179,A20060179,"Karen Irawan, M.Ak",L,2001-08-02,74,SMA Negeri 26 Sulawesi Tenggara,A,6,2020,Lulus
+180,A23060180,"H. Yono Saptono, S.Kom",L,1999-11-10,91,SMA Negeri 10 Papua Barat,A,6,2023,Aktif
+181,A18100181,Safina Pradipta,L,1997-08-09,75,SMA Negeri 42 Gorontalo,A,10,2018,Aktif
+182,A21060182,"Genta Puspita, S.Gz",P,2006-04-16,65,SMA Negeri 29 Kalimantan Utara,A,6,2021,Aktif
+183,A21060183,Paiman Pratiwi,P,2007-05-30,65,SMA Negeri 24 Kalimantan Utara,A,6,2021,Aktif
+184,A23070184,"Ir. Widya Siregar, S.Psi",L,2006-08-22,62,SMA Negeri 8 Kalimantan Tengah,B,7,2023,Aktif
+185,A21010185,Ozy Hutagalung,P,1998-02-26,32,SMA Negeri 50 Jawa Barat,C,1,2021,Aktif
+186,A19050186,"Dt. Dirja Gunarto, M.M.",P,2002-08-09,75,SMA Negeri 32 Gorontalo,B,5,2019,DO
+187,A19040187,"Rini Marbun, S.T.",L,2006-02-11,18,SMA Negeri 46 Lampung,A,4,2019,Aktif
+188,A23080188,Alika Pranowo,P,2001-10-26,16,SMA Negeri 23 Sumatera Selatan,B,8,2023,Aktif
+189,A22120189,Natalia Hutapea,L,2004-05-22,15,SMA Negeri 11 Jambi,B,12,2022,Aktif
+190,A20120190,Paramita Sinaga,L,2004-12-21,32,SMA Negeri 9 Jawa Barat,B,12,2020,Cuti
+191,A18040191,Jessica Ardianto,P,2001-12-01,82,SMA Negeri 30 Maluku Utara,B,4,2018,Lulus
+192,A22090192,Tira Mustofa,L,2007-01-06,19,SMA Negeri 20 Kepulauan Bangka Belitung,A,9,2022,Aktif
+193,A22070193,H. Wardi Hassanah,L,1999-06-08,81,SMA Negeri 37 Maluku,C,7,2022,Aktif
+194,A20020194,"Elvin Marpaung, S.E.I",L,1997-08-10,19,SMA Negeri 34 Kepulauan Bangka Belitung,A,2,2020,Aktif
+195,A22060195,Shania Safitri,L,2000-12-28,19,SMA Negeri 28 Kepulauan Bangka Belitung,A,6,2022,Aktif
+196,A18090196,Suci Oktaviani,L,2000-03-10,14,SMA Negeri 21 Riau,A,9,2018,Aktif
+197,A20120197,"Dr. Mahdi Maryadi, S.I.Kom",L,2002-11-29,35,SMA Negeri 41 Jawa Timur,B,12,2020,Aktif
+198,A19090198,"Ana Maulana, M.Kom.",P,2003-07-10,52,SMA Negeri 33 Nusa Tenggara Barat,B,9,2019,Lulus
+199,A22110199,R. Rachel Maryadi,L,2005-05-30,31,SMA Negeri 43 DKI Jakarta,A,11,2022,Aktif
+200,A22100200,Mala Hardiansyah,L,2006-10-15,63,SMA Negeri 6 Kalimantan Selatan,A,10,2022,Aktif
+201,A23010201,"Ganjaran Waluyo, S.T.",P,1999-06-23,51,SMA Negeri 27 Bali,B,1,2023,Aktif
+202,A21100202,Gasti Prasetyo,P,2002-08-02,12,SMA Negeri 31 Sumatera Utara,B,10,2021,Cuti
+203,A20040203,Ophelia Manullang,L,2005-01-22,72,SMA Negeri 11 Sulawesi Tengah,TT,4,2020,Lulus
+204,A21080204,Ani Maryati,L,2006-07-16,73,SMA Negeri 10 Sulawesi Selatan,TT,8,2021,Aktif
+205,A23060205,Ifa Pratiwi,L,2000-01-14,62,SMA Negeri 9 Kalimantan Tengah,B,6,2023,Aktif
+206,A22060206,Elvin Nasyiah,L,1999-01-27,91,SMA Negeri 16 Papua Barat,A,6,2022,Aktif
+207,A20080207,"Eka Pertiwi, S.T.",L,2006-12-08,18,SMA Negeri 4 Lampung,TT,8,2020,Aktif
+208,A22050208,Puput Wahyudin,L,2000-07-14,71,SMA Negeri 11 Sulawesi Utara,C,5,2022,Aktif
+209,A19060209,"Nasim Budiyanto, S.Sos",L,2001-08-07,62,SMA Negeri 30 Kalimantan Tengah,A,6,2019,Cuti
+210,A21080210,"Septi Permata, M.M.",L,2006-08-28,61,SMA Negeri 33 Kalimantan Barat,A,8,2021,DO
+211,A19080211,Rizki Prasasta,L,2004-09-10,36,SMA Negeri 32 Banten,B,8,2019,Aktif
+212,A20100212,"Prabowo Wulandari, M.Kom.",L,2006-04-27,81,SMA Negeri 17 Maluku,A,10,2020,Aktif
+213,A21120213,Rafi Suwarno,L,2004-11-05,65,SMA Negeri 37 Kalimantan Utara,B,12,2021,Aktif
+214,A20090214,Legawa Yolanda,L,2002-03-10,33,SMA Negeri 29 Jawa Tengah,B,9,2020,Aktif
+215,A22090215,Drs. Marsito Hutasoit,L,2006-08-06,52,SMA Negeri 7 Nusa Tenggara Barat,A,9,2022,Aktif
+216,A20070216,dr. Vera Saragih,L,1998-12-08,65,SMA Negeri 33 Kalimantan Utara,B,7,2020,Aktif
+217,A18070217,H. Pardi Tamba,L,2007-09-24,91,SMA Negeri 22 Papua Barat,A,7,2018,Aktif
+218,A21080218,Rusman Kusumo,P,1998-01-30,94,SMA Negeri 9 Papua,A,8,2021,Lulus
+219,A19060219,Darsirah Adriansyah,P,2005-05-28,62,SMA Negeri 20 Kalimantan Tengah,C,6,2019,Lulus
+220,A22100220,Rini Kusmawati,P,2002-11-03,63,SMA Negeri 37 Kalimantan Selatan,TT,10,2022,Aktif
+221,A18050221,drg. Usyi Napitupulu,L,2001-12-13,81,SMA Negeri 27 Maluku,B,5,2018,Lulus
+222,A23100222,Jaya Safitri,P,2006-05-29,61,SMA Negeri 31 Kalimantan Barat,A,10,2023,Aktif
+223,A23050223,Putri Permata,P,2007-09-20,35,SMA Negeri 31 Jawa Timur,A,5,2023,Aktif
+224,A23030224,Tgk. Harja Novitasari,L,2004-02-02,94,SMA Negeri 44 Papua,C,3,2023,Aktif
+225,A22040225,Jati Wijayanti,L,2008-02-24,13,SMA Negeri 2 Sumatera Barat,A,4,2022,Aktif
+226,A21080226,Malika Maheswara,L,2000-11-30,62,SMA Negeri 27 Kalimantan Tengah,A,8,2021,Lulus
+227,A23090227,Rachel Saragih,P,2008-02-11,81,SMA Negeri 9 Maluku,A,9,2023,Aktif
+228,A22090228,"Sutan Daniswara Handayani, S.Sos",P,1999-12-09,34,SMA Negeri 31 DI Yogyakarta,B,9,2022,Aktif
+229,A20090229,"Dt. Galak Nuraini, S.Psi",L,2001-06-10,71,SMA Negeri 22 Sulawesi Utara,A,9,2020,DO
+230,A23090230,"R.A. Malika Prasasta, S.Gz",P,2006-03-20,64,SMA Negeri 31 Kalimantan Timur,B,9,2023,Aktif
+231,A20040231,Jayeng Hastuti,L,2008-05-26,36,SMA Negeri 20 Banten,B,4,2020,DO
+232,A23050232,"R. Azalea Gunarto, S.Pd",L,2004-07-14,34,SMA Negeri 31 DI Yogyakarta,TT,5,2023,Aktif
+233,A20060233,Kariman Nababan,P,2007-09-03,52,SMA Negeri 25 Nusa Tenggara Barat,A,6,2020,Lulus
+234,A19070234,"drg. Karen Pratiwi, M.Pd",L,2007-10-28,64,SMA Negeri 46 Kalimantan Timur,B,7,2019,Aktif
+235,A21020235,"Umi Winarsih, S.Psi",P,2004-07-13,64,SMA Negeri 13 Kalimantan Timur,B,2,2021,Aktif
+236,A22090236,Baktianto Pratiwi,L,1998-02-13,52,SMA Negeri 7 Nusa Tenggara Barat,B,9,2022,Aktif
+237,A19100237,Ajimat Jailani,P,2002-07-28,36,SMA Negeri 15 Banten,A,10,2019,DO
+238,A18110238,"Tasdik Farida, S.E.I",L,1997-12-02,35,SMA Negeri 31 Jawa Timur,A,11,2018,Aktif
+239,A18020239,Raharja Budiman,L,2004-09-17,19,SMA Negeri 31 Kepulauan Bangka Belitung,A,2,2018,Lulus
+240,A20080240,KH. Balijan Yolanda,L,1998-08-21,33,SMA Negeri 50 Jawa Tengah,B,8,2020,Lulus
+241,A22020241,Raden Hakim,L,2003-02-13,35,SMA Negeri 27 Jawa Timur,A,2,2022,Aktif
+242,A21030242,Cahyanto Permata,L,1997-09-30,13,SMA Negeri 19 Sumatera Barat,TT,3,2021,DO
+243,A20010243,T. Jumadi Sinaga,L,2003-06-14,11,SMA Negeri 42 Aceh,A,1,2020,Aktif
+244,A21090244,"Puti Putri Yuliarti, S.H.",P,2002-03-22,94,SMA Negeri 13 Papua,A,9,2021,Aktif
+245,A19020245,"Mursita Winarno, S.E.",P,2004-09-17,63,SMA Negeri 12 Kalimantan Selatan,TT,2,2019,Aktif
+246,A20010246,Dr. Sadina Saputra,L,2006-12-10,63,SMA Negeri 41 Kalimantan Selatan,B,1,2020,Lulus
+247,A22070247,Baktiono Riyanti,L,2002-07-27,74,SMA Negeri 26 Sulawesi Tenggara,B,7,2022,Aktif
+248,A19110248,Eja Safitri,L,2003-11-22,17,SMA Negeri 16 Bengkulu,A,11,2019,Aktif
+249,A21010249,"Latif Utami, S.Psi",L,2008-04-10,51,SMA Negeri 22 Bali,B,1,2021,Lulus
+250,A20050250,Respati Novitasari,P,2004-04-20,11,SMA Negeri 43 Aceh,B,5,2020,Aktif
+251,A20020251,Opung Usada,L,2002-01-12,76,SMA Negeri 46 Sulawesi Barat,A,2,2020,Lulus
+252,A23050252,dr. Daliman Utama,L,1998-06-05,18,SMA Negeri 40 Lampung,B,5,2023,Aktif
+253,A19040253,Cahyadi Oktaviani,L,2002-08-23,35,SMA Negeri 39 Jawa Timur,TT,4,2019,Aktif
+254,A23060254,"R. Ikin Marpaung, S.Pd",P,2007-06-14,73,SMA Negeri 43 Sulawesi Selatan,TT,6,2023,Aktif
+255,A23040255,R. Lalita Nurdiyanti,P,2000-03-31,36,SMA Negeri 29 Banten,A,4,2023,Aktif
+256,A18090256,Bagas Puspita,L,2005-10-22,65,SMA Negeri 33 Kalimantan Utara,A,9,2018,Lulus
+257,A19040257,"Dr. Lurhur Novitasari, S.Pt",P,2002-09-15,21,SMA Negeri 44 Kepulauan Riau,B,4,2019,Aktif
+258,A18040258,Cut Ulya Jailani,L,1998-05-15,82,SMA Negeri 33 Maluku Utara,TT,4,2018,Aktif
+259,A22070259,Ir. Juli Wacana,P,2005-01-06,76,SMA Negeri 30 Sulawesi Barat,A,7,2022,Aktif
+260,A23110260,Bakiadi Rahmawati,L,2005-02-07,61,SMA Negeri 17 Kalimantan Barat,A,11,2023,Aktif
+261,A22010261,"Ciaobella Widodo, S.Pd",L,2000-10-05,34,SMA Negeri 28 DI Yogyakarta,A,1,2022,Aktif
+262,A22060262,"Syahrini Simbolon, S.Ked",L,2001-01-18,15,SMA Negeri 31 Jambi,A,6,2022,Aktif
+263,A21010263,Malik Nugroho,L,2004-05-02,53,SMA Negeri 47 Nusa Tenggara Timur,A,1,2021,Lulus
+264,A20110264,Wani Najmudin,L,2007-02-14,73,SMA Negeri 25 Sulawesi Selatan,C,11,2020,Lulus
+265,A23070265,Uchita Prakasa,P,2007-05-06,16,SMA Negeri 23 Sumatera Selatan,A,7,2023,Aktif
+266,A22020266,"drg. Soleh Wastuti, S.H.",P,2001-06-24,32,SMA Negeri 9 Jawa Barat,C,2,2022,Aktif
+267,A18120267,Michelle Pratama,L,1999-03-11,35,SMA Negeri 47 Jawa Timur,A,12,2018,Aktif
+268,A22090268,"Drs. Gilda Lailasari, S.Pd",L,1998-08-26,74,SMA Negeri 16 Sulawesi Tenggara,C,9,2022,Aktif
+269,A19080269,"Daru Sihombing, M.Farm",L,2007-04-23,64,SMA Negeri 47 Kalimantan Timur,B,8,2019,DO
+270,A23020270,Kuncara Wibowo,P,2005-04-05,13,SMA Negeri 50 Sumatera Barat,C,2,2023,Aktif
+271,A19010271,"R.M. Jumadi Kusumo, S.Farm",L,2005-12-16,36,SMA Negeri 29 Banten,A,1,2019,Lulus
+272,A19100272,"R.A. Jelita Marpaung, S.H.",L,2007-01-03,14,SMA Negeri 35 Riau,A,10,2019,Aktif
+273,A19040273,"Raihan Prabowo, S.I.Kom",L,2000-05-30,14,SMA Negeri 47 Riau,B,4,2019,Lulus
+274,A22100274,Kariman Pertiwi,L,1999-01-19,62,SMA Negeri 20 Kalimantan Tengah,B,10,2022,Aktif
+275,A19030275,Zelaya Saputra,L,1999-03-26,94,SMA Negeri 36 Papua,C,3,2019,Aktif
+276,A23100276,Zulfa Prastuti,P,1997-10-14,32,SMA Negeri 32 Jawa Barat,C,10,2023,Aktif
+277,A23010277,Lala Handayani,P,1999-10-02,64,SMA Negeri 21 Kalimantan Timur,C,1,2023,Aktif
+278,A21120278,"R.A. Aisyah Siregar, S.Pd",L,2007-09-22,73,SMA Negeri 49 Sulawesi Selatan,A,12,2021,Aktif
+279,A19090279,Praba Marbun,L,2001-09-25,81,SMA Negeri 10 Maluku,B,9,2019,Lulus
+280,A22080280,Talia Rahayu,L,2000-11-21,14,SMA Negeri 36 Riau,C,8,2022,Aktif
+281,A21090281,"R. Kezia Dongoran, S.E.I",L,2006-12-06,19,SMA Negeri 42 Kepulauan Bangka Belitung,B,9,2021,Aktif
+282,A20020282,"Dr. Puput Pudjiastuti, M.Ak",P,2004-07-18,75,SMA Negeri 13 Gorontalo,A,2,2020,Lulus
+283,A21010283,Tgk. Ayu Kusumo,L,1999-10-18,52,SMA Negeri 49 Nusa Tenggara Barat,A,1,2021,Aktif
+284,A21100284,Atma Haryanto,L,2005-03-29,34,SMA Negeri 1 DI Yogyakarta,B,10,2021,Aktif
+285,A23040285,Padma Mangunsong,P,2000-11-23,33,SMA Negeri 49 Jawa Tengah,A,4,2023,Aktif
+286,A23080286,H. Endra Nasyiah,L,2003-09-06,36,SMA Negeri 16 Banten,B,8,2023,Aktif
+287,A20090287,drg. Talia Permadi,L,2002-11-16,62,SMA Negeri 23 Kalimantan Tengah,C,9,2020,Lulus
+288,A20050288,"Ozy Winarno, S.E.I",L,1997-10-13,51,SMA Negeri 47 Bali,TT,5,2020,Aktif
+289,A19080289,"drg. Widya Suartini, S.H.",L,1998-10-28,62,SMA Negeri 37 Kalimantan Tengah,B,8,2019,Aktif
+290,A18040290,Cut Padmi Mayasari,P,2004-02-28,21,SMA Negeri 38 Kepulauan Riau,B,4,2018,DO
+291,A20120291,Rachel Mangunsong,L,2000-07-31,73,SMA Negeri 25 Sulawesi Selatan,A,12,2020,Aktif
+292,A21100292,Ani Prasasta,L,1999-11-11,36,SMA Negeri 32 Banten,B,10,2021,Lulus
+293,A21120293,Banara Pranowo,P,1998-05-24,82,SMA Negeri 11 Maluku Utara,A,12,2021,Lulus
+294,A19030294,"Nabila Zulaika, S.IP",P,2007-03-30,82,SMA Negeri 5 Maluku Utara,A,3,2019,Aktif
+295,A18110295,Nalar Hastuti,L,2000-11-24,14,SMA Negeri 15 Riau,C,11,2018,Lulus
+296,A18020296,Tasdik Prastuti,P,2007-04-20,21,SMA Negeri 4 Kepulauan Riau,B,2,2018,Aktif
+297,A23100297,Ir. Dewi Prayoga,L,2004-09-24,81,SMA Negeri 1 Maluku,TT,10,2023,Aktif
+298,A18090298,Mustofa Kusumo,P,2008-02-16,73,SMA Negeri 35 Sulawesi Selatan,A,9,2018,Lulus
+299,A22050299,Ir. Violet Susanti,L,2007-01-04,12,SMA Negeri 7 Sumatera Utara,C,5,2022,Aktif
+300,A19020300,Taswir Rajasa,L,2003-06-11,94,SMA Negeri 17 Papua,B,2,2019,Lulus
+301,A21060301,Citra Anggriawan,L,1999-06-08,52,SMA Negeri 30 Nusa Tenggara Barat,A,6,2021,Cuti
+302,A23100302,Eva Wacana,L,2002-10-18,36,SMA Negeri 44 Banten,B,10,2023,Aktif
+303,A18020303,Clara Lestari,L,1998-02-04,13,SMA Negeri 31 Sumatera Barat,C,2,2018,Aktif
+304,A23010304,Sutan Damar Habibi,L,2006-02-19,11,SMA Negeri 32 Aceh,A,1,2023,Aktif
+305,A22070305,Cici Firmansyah,P,2000-04-20,63,SMA Negeri 3 Kalimantan Selatan,A,7,2022,Aktif
+306,A23040306,Cakrabuana Mandala,L,2005-08-05,34,SMA Negeri 3 DI Yogyakarta,TT,4,2023,Aktif
+307,A22020307,Puti Kezia Mayasari,L,2003-10-13,52,SMA Negeri 21 Nusa Tenggara Barat,A,2,2022,Aktif
+308,A22010308,Yuni Rajasa,P,1998-01-11,34,SMA Negeri 26 DI Yogyakarta,A,1,2022,Aktif
+309,A19020309,Tirta Zulaika,P,1998-05-16,61,SMA Negeri 25 Kalimantan Barat,B,2,2019,Lulus
+310,A21110310,Hartana Winarsih,P,2001-11-20,63,SMA Negeri 33 Kalimantan Selatan,A,11,2021,Lulus
+311,A18120311,Michelle Hardiansyah,L,2004-03-13,64,SMA Negeri 5 Kalimantan Timur,A,12,2018,Aktif
+312,A20060312,Omar Adriansyah,P,2004-09-13,72,SMA Negeri 29 Sulawesi Tengah,A,6,2020,Aktif
+313,A20080313,T. Mulya Prasetyo,L,2007-11-13,35,SMA Negeri 38 Jawa Timur,C,8,2020,Aktif
+314,A18110314,Yunita Lestari,L,2006-06-05,71,SMA Negeri 6 Sulawesi Utara,B,11,2018,Lulus
+315,A21050315,"Mila Mustofa, S.E.",P,2007-01-18,21,SMA Negeri 24 Kepulauan Riau,A,5,2021,Aktif
+316,A18020316,Maida Zulaika,L,2006-05-28,16,SMA Negeri 18 Sumatera Selatan,B,2,2018,Aktif
+317,A18020317,Hari Pertiwi,L,2005-05-02,19,SMA Negeri 36 Kepulauan Bangka Belitung,A,2,2018,Aktif
+318,A18090318,"Ir. Candra Wijayanti, S.Gz",L,2005-01-16,73,SMA Negeri 6 Sulawesi Selatan,A,9,2018,Aktif
+319,A21100319,Kadir Simbolon,L,1999-05-30,62,SMA Negeri 50 Kalimantan Tengah,A,10,2021,Aktif
+320,A22020320,Siska Mangunsong,P,2004-03-16,36,SMA Negeri 25 Banten,A,2,2022,Aktif
+321,A20030321,Ana Rahimah,L,2005-10-06,19,SMA Negeri 5 Kepulauan Bangka Belitung,B,3,2020,Aktif
+322,A20030322,Drs. Mala Hassanah,L,2005-11-27,74,SMA Negeri 5 Sulawesi Tenggara,C,3,2020,Aktif
+323,A19060323,"Drs. Marsudi Suartini, S.H.",P,2007-09-13,51,SMA Negeri 30 Bali,TT,6,2019,Lulus
+324,A20020324,Samsul Anggriawan,L,2001-06-08,19,SMA Negeri 40 Kepulauan Bangka Belitung,A,2,2020,Aktif
+325,A21070325,Carub Saptono,L,2007-08-01,63,SMA Negeri 42 Kalimantan Selatan,B,7,2021,Lulus
+326,A20100326,"KH. Empluk Mandala, M.Kom.",P,2005-06-23,19,SMA Negeri 13 Kepulauan Bangka Belitung,B,10,2020,DO
+327,A19080327,Nurul Zulaika,L,2001-07-31,62,SMA Negeri 45 Kalimantan Tengah,C,8,2019,Aktif
+328,A22110328,Lili Laksita,L,2001-01-01,82,SMA Negeri 25 Maluku Utara,B,11,2022,Aktif
+329,A20050329,Ajimat Ramadan,P,2003-06-30,72,SMA Negeri 35 Sulawesi Tengah,A,5,2020,Aktif
+330,A23030330,Karma Rajata,P,2007-07-08,12,SMA Negeri 14 Sumatera Utara,TT,3,2023,Aktif
+331,A23080331,"Sutan Dadi Sinaga, M.Pd",L,1997-10-19,53,SMA Negeri 44 Nusa Tenggara Timur,A,8,2023,Aktif
+332,A23080332,Hana Mandasari,L,2003-02-26,19,SMA Negeri 17 Kepulauan Bangka Belitung,B,8,2023,Aktif
+333,A23110333,KH. Arta Sitompul,L,2004-05-05,21,SMA Negeri 5 Kepulauan Riau,C,11,2023,Aktif
+334,A22080334,Darsirah Saputra,P,2002-09-26,81,SMA Negeri 33 Maluku,C,8,2022,Aktif
+335,A22120335,Cemplunk Mustofa,L,1999-03-30,73,SMA Negeri 45 Sulawesi Selatan,A,12,2022,Aktif
+336,A18090336,T. Raden Januar,P,2004-10-17,16,SMA Negeri 11 Sumatera Selatan,B,9,2018,Lulus
+337,A22110337,Victoria Mahendra,L,2007-12-05,13,SMA Negeri 28 Sumatera Barat,C,11,2022,Aktif
+338,A18020338,Victoria Agustina,L,2008-05-19,11,SMA Negeri 34 Aceh,B,2,2018,Lulus
+339,A21090339,Putri Wahyudin,L,2000-09-03,35,SMA Negeri 44 Jawa Timur,B,9,2021,Aktif
+340,A19100340,"Jaswadi Napitupulu, M.Pd",L,2005-01-04,91,SMA Negeri 19 Papua Barat,B,10,2019,Aktif
+341,A18070341,Mahdi Utama,L,2004-07-08,16,SMA Negeri 30 Sumatera Selatan,A,7,2018,Aktif
+342,A21040342,Janet Saefullah,L,2001-03-10,94,SMA Negeri 47 Papua,B,4,2021,Aktif
+343,A20120343,Makuta Hidayat,L,2003-05-17,75,SMA Negeri 46 Gorontalo,A,12,2020,Aktif
+344,A20020344,Galih Usamah,P,2000-03-09,12,SMA Negeri 48 Sumatera Utara,A,2,2020,Lulus
+345,A19040345,"Jaya Namaga, S.Gz",L,1999-04-13,94,SMA Negeri 30 Papua,A,4,2019,Lulus
+346,A23040346,Karimah Purnawati,L,2004-06-11,72,SMA Negeri 41 Sulawesi Tengah,A,4,2023,Aktif
+347,A21110347,Ir. Jasmin Saputra,P,2008-03-23,74,SMA Negeri 13 Sulawesi Tenggara,A,11,2021,Lulus
+348,A21080348,Anastasia Putra,P,2001-09-27,74,SMA Negeri 18 Sulawesi Tenggara,A,8,2021,Aktif
+349,A22120349,Teguh Salahudin,P,2002-11-14,15,SMA Negeri 12 Jambi,A,12,2022,Aktif
+350,A19060350,Humaira Saefullah,L,2007-11-14,62,SMA Negeri 32 Kalimantan Tengah,TT,6,2019,Aktif
+351,A22090351,Anastasia Dongoran,P,2006-07-26,62,SMA Negeri 26 Kalimantan Tengah,C,9,2022,Aktif
+352,A20100352,Salsabila Palastri,L,2006-10-25,18,SMA Negeri 44 Lampung,B,10,2020,Lulus
+353,A22120353,Raina Padmasari,P,2004-12-04,61,SMA Negeri 9 Kalimantan Barat,A,12,2022,Aktif
+354,A19060354,Tania Firgantoro,L,2003-01-25,18,SMA Negeri 45 Lampung,B,6,2019,Aktif
+355,A21030355,Humaira Haryanti,P,2002-12-05,91,SMA Negeri 25 Papua Barat,C,3,2021,Aktif
+356,A21070356,Margana Mustofa,P,2004-10-15,32,SMA Negeri 19 Jawa Barat,A,7,2021,Aktif
+357,A20030357,Ivan Iswahyudi,P,2000-04-14,32,SMA Negeri 23 Jawa Barat,TT,3,2020,Aktif
+358,A19010358,Halim Laksita,L,2001-05-13,82,SMA Negeri 33 Maluku Utara,B,1,2019,Cuti
+359,A21110359,Arsipatra Hassanah,L,2000-08-25,82,SMA Negeri 29 Maluku Utara,TT,11,2021,Lulus
+360,A18080360,"Nilam Pertiwi, S.T.",L,1999-11-28,31,SMA Negeri 18 DKI Jakarta,A,8,2018,Aktif
+361,A19040361,Amalia Waskita,P,2005-10-27,53,SMA Negeri 50 Nusa Tenggara Timur,TT,4,2019,Lulus
+362,A18080362,"dr. Salimah Nuraini, S.Farm",L,2001-07-07,91,SMA Negeri 24 Papua Barat,A,8,2018,Lulus
+363,A23090363,Humaira Prakasa,P,2005-03-11,13,SMA Negeri 14 Sumatera Barat,TT,9,2023,Aktif
+364,A23070364,H. Kacung Yuniar,L,2006-07-01,17,SMA Negeri 3 Bengkulu,B,7,2023,Aktif
+365,A20080365,Hj. Yunita Winarno,L,2001-10-30,51,SMA Negeri 8 Bali,A,8,2020,Lulus
+366,A23040366,Ratna Adriansyah,P,2000-09-22,34,SMA Negeri 40 DI Yogyakarta,B,4,2023,Aktif
+367,A19110367,Ophelia Pratama,L,2002-08-14,74,SMA Negeri 4 Sulawesi Tenggara,A,11,2019,Lulus
+368,A22100368,Lala Andriani,P,2001-02-04,64,SMA Negeri 35 Kalimantan Timur,B,10,2022,Aktif
+369,A23030369,Citra Lailasari,L,2003-10-23,62,SMA Negeri 37 Kalimantan Tengah,B,3,2023,Aktif
+370,A23050370,"H. Galuh Pratiwi, S.I.Kom",L,2007-02-04,91,SMA Negeri 49 Papua Barat,A,5,2023,Aktif
+371,A20070371,Vicky Namaga,P,2001-10-02,14,SMA Negeri 16 Riau,A,7,2020,Lulus
+372,A19030372,"Ikhsan Damanik, S.IP",L,1998-02-26,62,SMA Negeri 41 Kalimantan Tengah,C,3,2019,Aktif
+373,A21050373,Prabu Hidayat,L,2006-10-07,73,SMA Negeri 50 Sulawesi Selatan,TT,5,2021,Lulus
+374,A22020374,Eko Maryadi,P,1997-06-05,72,SMA Negeri 24 Sulawesi Tengah,B,2,2022,Aktif
+375,A20080375,Estiawan Usamah,P,2005-03-12,82,SMA Negeri 30 Maluku Utara,A,8,2020,Aktif
+376,A18110376,"Omar Rajata, S.Ked",L,2006-08-21,64,SMA Negeri 14 Kalimantan Timur,C,11,2018,Cuti
+377,A20080377,Suci Mulyani,L,2003-11-09,52,SMA Negeri 9 Nusa Tenggara Barat,B,8,2020,Lulus
+378,A20100378,Azalea Waluyo,L,1999-01-25,82,SMA Negeri 30 Maluku Utara,A,10,2020,Aktif
+379,A19010379,"Dr. Cayadi Jailani, S.E.",L,2004-07-04,18,SMA Negeri 28 Lampung,TT,1,2019,Aktif
+380,A23040380,Drs. Ikhsan Hutagalung,L,1998-05-19,19,SMA Negeri 18 Kepulauan Bangka Belitung,B,4,2023,Aktif
+381,A20020381,"Damu Hutagalung, S.IP",L,2001-03-06,65,SMA Negeri 42 Kalimantan Utara,A,2,2020,Lulus
+382,A21030382,Tami Lestari,P,2004-05-04,14,SMA Negeri 15 Riau,B,3,2021,Lulus
+383,A23070383,Bakianto Nainggolan,L,1997-07-11,16,SMA Negeri 14 Sumatera Selatan,A,7,2023,Aktif
+384,A19080384,Tgk. Bahuraksa Mandasari,P,2002-01-24,15,SMA Negeri 1 Jambi,B,8,2019,Lulus
+385,A18010385,Kiandra Siregar,P,2002-08-29,63,SMA Negeri 5 Kalimantan Selatan,C,1,2018,Aktif
+386,A18040386,"Ir. Emil Sitompul, S.IP",L,2000-08-01,71,SMA Negeri 20 Sulawesi Utara,A,4,2018,Aktif
+387,A19030387,Ika Hutasoit,L,2007-11-29,71,SMA Negeri 1 Sulawesi Utara,A,3,2019,Lulus
+388,A21100388,"dr. Putu Pradipta, S.H.",P,2003-02-04,31,SMA Negeri 48 DKI Jakarta,B,10,2021,Aktif
+389,A22030389,"Candra Rahayu, S.Kom",L,2006-12-21,73,SMA Negeri 6 Sulawesi Selatan,TT,3,2022,Aktif
+390,A18020390,Lantar Kuswandari,L,1999-01-27,19,SMA Negeri 21 Kepulauan Bangka Belitung,C,2,2018,Cuti
+391,A20030391,Irnanto Maheswara,L,2000-06-22,36,SMA Negeri 39 Banten,A,3,2020,Lulus
+392,A23120392,Bakijan Kusumo,P,1999-12-12,53,SMA Negeri 20 Nusa Tenggara Timur,A,12,2023,Aktif
+393,A22040393,Eja Halim,P,2005-04-15,94,SMA Negeri 26 Papua,B,4,2022,Aktif
+394,A19050394,H. Heru Wibowo,L,2005-07-19,14,SMA Negeri 32 Riau,TT,5,2019,Aktif
+395,A22110395,"Teddy Anggraini, S.Gz",L,1999-09-02,15,SMA Negeri 21 Jambi,A,11,2022,Aktif
+396,A22030396,R.M. Drajat Wahyuni,L,2005-03-28,71,SMA Negeri 35 Sulawesi Utara,C,3,2022,Aktif
+397,A21110397,Hasna Januar,L,1997-08-04,32,SMA Negeri 1 Jawa Barat,A,11,2021,Lulus
+398,A18050398,"KH. Indra Tarihoran, S.Farm",L,1998-10-07,34,SMA Negeri 41 DI Yogyakarta,A,5,2018,Lulus
+399,A21120399,Darmana Pratama,P,2003-11-27,91,SMA Negeri 41 Papua Barat,C,12,2021,Aktif
+400,A20090400,Siska Wahyuni,L,1998-10-31,21,SMA Negeri 14 Kepulauan Riau,A,9,2020,Aktif
+401,A21030401,Natalia Rahimah,L,2005-12-08,62,SMA Negeri 47 Kalimantan Tengah,A,3,2021,Lulus
+402,A19040402,Bakiman Yulianti,L,2001-11-22,14,SMA Negeri 40 Riau,A,4,2019,Aktif
+403,A20100403,Vanya Gunawan,L,2001-09-23,14,SMA Negeri 9 Riau,A,10,2020,Aktif
+404,A19120404,"Gara Prasetya, S.Farm",L,1999-11-10,11,SMA Negeri 47 Aceh,TT,12,2019,Lulus
+405,A20050405,Tgk. Simon Saefullah,P,1998-02-09,31,SMA Negeri 18 DKI Jakarta,A,5,2020,Lulus
+406,A18120406,"Ir. Suci Safitri, M.Pd",L,2002-07-19,18,SMA Negeri 5 Lampung,B,12,2018,Aktif
+407,A21050407,Luhung Sudiati,P,2001-10-08,15,SMA Negeri 32 Jambi,TT,5,2021,Aktif
+408,A20100408,"Hani Wijaya, S.T.",L,2002-04-11,31,SMA Negeri 37 DKI Jakarta,A,10,2020,Lulus
+409,A19110409,drg. Mitra Astuti,L,1999-03-25,18,SMA Negeri 1 Lampung,A,11,2019,Lulus
+410,A21040410,Tgk. Iriana Waluyo,L,1999-05-01,13,SMA Negeri 12 Sumatera Barat,B,4,2021,DO
+411,A19010411,Ira Simanjuntak,L,2005-11-11,73,SMA Negeri 47 Sulawesi Selatan,B,1,2019,Aktif
+412,A18060412,dr. Eva Hassanah,L,2006-04-29,52,SMA Negeri 4 Nusa Tenggara Barat,B,6,2018,Lulus
+413,A22030413,"Rahmi Uwais, S.H.",L,1997-12-10,35,SMA Negeri 5 Jawa Timur,A,3,2022,Aktif
+414,A20080414,Tgk. Putu Agustina,L,2006-03-15,53,SMA Negeri 1 Nusa Tenggara Timur,B,8,2020,Lulus
+415,A20060415,Nalar Rajata,P,2005-07-31,33,SMA Negeri 30 Jawa Tengah,B,6,2020,Lulus
+416,A19060416,"Agus Sirait, S.H.",L,1997-08-01,82,SMA Negeri 27 Maluku Utara,B,6,2019,Aktif
+417,A22010417,"Drs. Cawisono Wacana, M.Ak",P,2003-03-15,35,SMA Negeri 45 Jawa Timur,B,1,2022,Aktif
+418,A18010418,Sutan Bakda Salahudin,P,2001-04-02,63,SMA Negeri 7 Kalimantan Selatan,C,1,2018,Lulus
+419,A19040419,Emong Lazuardi,L,1998-11-14,94,SMA Negeri 10 Papua,C,4,2019,Cuti
+420,A18120420,Hamzah Saptono,L,2000-08-06,52,SMA Negeri 34 Nusa Tenggara Barat,A,12,2018,Lulus
+421,A21070421,Putri Sitorus,P,2000-07-17,65,SMA Negeri 9 Kalimantan Utara,A,7,2021,Aktif
+422,A18110422,Maryanto Tampubolon,L,2002-08-14,72,SMA Negeri 9 Sulawesi Tengah,A,11,2018,Lulus
+423,A20040423,Sabar Mayasari,L,2007-09-05,53,SMA Negeri 48 Nusa Tenggara Timur,B,4,2020,Lulus
+424,A21060424,Warsita Kuswandari,L,2007-07-27,62,SMA Negeri 13 Kalimantan Tengah,B,6,2021,Aktif
+425,A19030425,Karimah Prakasa,L,2006-07-30,17,SMA Negeri 21 Bengkulu,A,3,2019,Aktif
+426,A22070426,"Wisnu Zulkarnain, S.Ked",L,2006-10-29,18,SMA Negeri 29 Lampung,B,7,2022,Aktif
+427,A20050427,Clara Usamah,L,2001-05-09,76,SMA Negeri 44 Sulawesi Barat,A,5,2020,Aktif
+428,A19050428,"Jagapati Rajata, M.Ak",L,2008-01-25,13,SMA Negeri 16 Sumatera Barat,B,5,2019,Aktif
+429,A22060429,Shakila Hakim,P,1999-07-17,72,SMA Negeri 20 Sulawesi Tengah,A,6,2022,Aktif
+430,A18050430,Yance Rahmawati,L,2005-10-01,32,SMA Negeri 36 Jawa Barat,C,5,2018,Lulus
+431,A21040431,Gandewa Riyanti,L,2006-02-03,17,SMA Negeri 4 Bengkulu,A,4,2021,Aktif
+432,A19040432,"Drs. Eli Prakasa, S.Kom",L,2003-04-11,19,SMA Negeri 42 Kepulauan Bangka Belitung,C,4,2019,Lulus
+433,A18020433,"Ir. Nadia Hartati, M.Ak",L,1999-02-09,51,SMA Negeri 42 Bali,A,2,2018,Aktif
+434,A18080434,Cahyanto Saragih,L,2003-10-29,19,SMA Negeri 30 Kepulauan Bangka Belitung,B,8,2018,Aktif
+435,A22010435,"Sutan Bala Tarihoran, S.Pd",P,2000-11-15,31,SMA Negeri 26 DKI Jakarta,C,1,2022,Aktif
+436,A21080436,Kairav Haryanto,L,1997-09-11,12,SMA Negeri 12 Sumatera Utara,C,8,2021,Aktif
+437,A21050437,Cagak Damanik,L,1998-01-26,52,SMA Negeri 40 Nusa Tenggara Barat,A,5,2021,Lulus
+438,A21040438,Salsabila Saefullah,P,2000-10-24,53,SMA Negeri 6 Nusa Tenggara Timur,C,4,2021,Aktif
+439,A19050439,Eva Prastuti,L,1999-12-04,71,SMA Negeri 34 Sulawesi Utara,C,5,2019,Lulus
+440,A21040440,"Sarah Rajasa, S.E.I",L,2005-03-22,12,SMA Negeri 32 Sumatera Utara,B,4,2021,Lulus
+441,A20060441,"Ir. Atmaja Pranowo, M.Kom.",L,2000-09-09,91,SMA Negeri 21 Papua Barat,C,6,2020,Aktif
+442,A18100442,Laksana Permata,L,2007-08-05,35,SMA Negeri 31 Jawa Timur,B,10,2018,Lulus
+443,A22090443,Hani Maheswara,L,1999-10-08,64,SMA Negeri 7 Kalimantan Timur,B,9,2022,Aktif
+444,A20040444,Putri Andriani,L,2001-01-22,36,SMA Negeri 25 Banten,A,4,2020,Lulus
+445,A19060445,R.M. Balangga Jailani,P,1999-04-04,32,SMA Negeri 48 Jawa Barat,B,6,2019,Aktif
+446,A22120446,Tgk. Azalea Palastri,P,2006-03-31,64,SMA Negeri 45 Kalimantan Timur,A,12,2022,Aktif
+447,A22060447,Anastasia Samosir,L,2003-03-25,21,SMA Negeri 35 Kepulauan Riau,B,6,2022,Aktif
+448,A21050448,Nabila Prastuti,L,2002-08-02,32,SMA Negeri 39 Jawa Barat,A,5,2021,Aktif
+449,A22040449,"Hj. Rahayu Rajasa, S.Ked",L,2002-06-02,12,SMA Negeri 22 Sumatera Utara,TT,4,2022,Aktif
+450,A19100450,Rahayu Saptono,P,2006-07-07,33,SMA Negeri 21 Jawa Tengah,B,10,2019,Aktif
+451,A19010451,"Drs. Prabawa Damanik, S.Pt",L,2004-03-08,12,SMA Negeri 24 Sumatera Utara,A,1,2019,Lulus
+452,A23020452,R.M. Danang Wasita,P,2000-08-13,65,SMA Negeri 7 Kalimantan Utara,C,2,2023,Aktif
+453,A20060453,"Cakrabirawa Melani, M.Farm",L,1997-11-30,61,SMA Negeri 28 Kalimantan Barat,A,6,2020,Lulus
+454,A23110454,Drs. Omar Sihombing,L,2006-11-24,82,SMA Negeri 46 Maluku Utara,B,11,2023,Aktif
+455,A19090455,"Puji Kuswoyo, M.Kom.",L,2005-03-28,64,SMA Negeri 45 Kalimantan Timur,A,9,2019,Aktif
+456,A19050456,Rahman Pertiwi,P,1998-10-05,19,SMA Negeri 26 Kepulauan Bangka Belitung,A,5,2019,DO
+457,A19100457,Prima Nababan,P,2002-09-27,13,SMA Negeri 37 Sumatera Barat,B,10,2019,Aktif
+458,A19020458,Kasiran Ramadan,P,2006-05-01,82,SMA Negeri 23 Maluku Utara,B,2,2019,Aktif
+459,A23060459,Ridwan Sudiati,P,2002-04-01,31,SMA Negeri 43 DKI Jakarta,A,6,2023,Aktif
+460,A21110460,"Karna Anggraini, S.Ked",L,1998-08-25,63,SMA Negeri 45 Kalimantan Selatan,A,11,2021,Aktif
+461,A20020461,Cakrawangsa Rahimah,P,2006-07-28,64,SMA Negeri 25 Kalimantan Timur,A,2,2020,Aktif
+462,A19080462,"Fitria Yolanda, M.M.",L,2000-10-10,73,SMA Negeri 23 Sulawesi Selatan,C,8,2019,Lulus
+463,A18090463,T. Mulya Kuswandari,P,2002-04-03,71,SMA Negeri 44 Sulawesi Utara,TT,9,2018,Lulus
+464,A21040464,Asmadi Saefullah,L,2006-07-05,31,SMA Negeri 21 DKI Jakarta,A,4,2021,Aktif
+465,A18050465,KH. Sidiq Novitasari,L,2003-03-31,17,SMA Negeri 11 Bengkulu,B,5,2018,Lulus
+466,A22120466,Ade Sihombing,L,2000-05-18,15,SMA Negeri 39 Jambi,A,12,2022,Aktif
+467,A23100467,Kuncara Anggraini,L,2007-06-19,81,SMA Negeri 42 Maluku,A,10,2023,Aktif
+468,A19030468,Yulia Gunawan,L,2008-04-06,74,SMA Negeri 13 Sulawesi Tenggara,A,3,2019,Aktif
+469,A23070469,Putri Maheswara,L,1998-08-06,51,SMA Negeri 16 Bali,B,7,2023,Aktif
+470,A21020470,Luwar Mandala,L,2005-11-29,14,SMA Negeri 1 Riau,TT,2,2021,Aktif
+471,A20070471,Iriana Nuraini,L,2007-03-24,16,SMA Negeri 14 Sumatera Selatan,TT,7,2020,Aktif
+472,A18030472,"Tari Oktaviani, M.TI.",L,2007-03-02,53,SMA Negeri 26 Nusa Tenggara Timur,TT,3,2018,Aktif
+473,A23080473,Zulaikha Mardhiyah,L,1999-09-29,82,SMA Negeri 42 Maluku Utara,B,8,2023,Aktif
+474,A19090474,Gandi Kuswandari,L,2002-05-25,71,SMA Negeri 29 Sulawesi Utara,B,9,2019,Aktif
+475,A21010475,Gandi Maheswara,L,1998-02-05,51,SMA Negeri 18 Bali,TT,1,2021,Aktif
+476,A19100476,Drs. Saka Prasasta,L,2007-05-12,14,SMA Negeri 35 Riau,A,10,2019,Lulus
+477,A22070477,Maimunah Halim,L,2008-05-02,35,SMA Negeri 34 Jawa Timur,A,7,2022,Aktif
+478,A22070478,drg. Mujur Sihotang,L,2006-07-24,81,SMA Negeri 20 Maluku,B,7,2022,Aktif
+479,A23020479,Hamima Maheswara,P,2000-08-24,72,SMA Negeri 37 Sulawesi Tengah,A,2,2023,Aktif
+480,A18090480,Hamima Permata,L,2001-06-19,21,SMA Negeri 11 Kepulauan Riau,TT,9,2018,DO
+481,A19040481,Febi Rajasa,L,2003-12-17,33,SMA Negeri 44 Jawa Tengah,A,4,2019,Aktif
+482,A23070482,Jaya Suryono,P,2004-08-14,33,SMA Negeri 17 Jawa Tengah,A,7,2023,Aktif
+483,A18060483,R.A. Elvina Prasetya,P,2002-08-07,15,SMA Negeri 21 Jambi,C,6,2018,Aktif
+484,A21050484,Ozy Wulandari,P,2005-02-18,94,SMA Negeri 34 Papua,A,5,2021,Lulus
+485,A21070485,Paiman Sitompul,L,2007-11-25,18,SMA Negeri 38 Lampung,A,7,2021,Lulus
+486,A22020486,Raditya Situmorang,L,2004-09-16,17,SMA Negeri 35 Bengkulu,A,2,2022,Aktif
+487,A20060487,"Nalar Tarihoran, S.Ked",P,2002-06-08,73,SMA Negeri 39 Sulawesi Selatan,C,6,2020,Aktif
+488,A19080488,"Ratna Farida, S.Farm",L,1999-01-09,13,SMA Negeri 39 Sumatera Barat,B,8,2019,Aktif
+489,A18110489,Aisyah Sirait,L,2000-03-21,72,SMA Negeri 4 Sulawesi Tengah,C,11,2018,Lulus
+490,A20120490,Dt. Jais Sinaga,L,1999-03-31,81,SMA Negeri 20 Maluku,B,12,2020,Aktif
+491,A21050491,"Drs. Betania Pratama, M.TI.",L,2001-08-27,52,SMA Negeri 48 Nusa Tenggara Barat,A,5,2021,Aktif
+492,A20080492,Jumadi Wacana,P,2000-08-27,62,SMA Negeri 13 Kalimantan Tengah,C,8,2020,Lulus
+493,A21080493,Agus Hutapea,P,2003-08-03,34,SMA Negeri 4 DI Yogyakarta,TT,8,2021,Lulus
+494,A18090494,Harsanto Gunawan,P,2000-03-02,31,SMA Negeri 9 DKI Jakarta,B,9,2018,Lulus
+495,A19090495,Panji Sudiati,L,2005-05-23,12,SMA Negeri 16 Sumatera Utara,B,9,2019,Lulus
+496,A18010496,KH. Cahyadi Prakasa,P,1998-09-27,76,SMA Negeri 24 Sulawesi Barat,B,1,2018,Aktif
+497,A21080497,Cinthia Wahyuni,P,2005-04-12,91,SMA Negeri 24 Papua Barat,A,8,2021,Aktif
+498,A19080498,Sutan Gambira Winarsih,P,2006-06-28,75,SMA Negeri 23 Gorontalo,TT,8,2019,Lulus
+499,A23030499,Chelsea Waskita,L,2003-06-24,51,SMA Negeri 2 Bali,A,3,2023,Aktif
+500,A19070500,R.A. Karen Prayoga,L,2000-08-19,14,SMA Negeri 44 Riau,B,7,2019,Lulus
+501,A23040501,"R.A. Mala Lestari, S.Sos",P,1998-08-16,52,SMA Negeri 2 Nusa Tenggara Barat,C,4,2023,Aktif
+502,A21110502,Citra Siregar,P,2004-05-02,11,SMA Negeri 1 Aceh,A,11,2021,Aktif
+503,A22040503,"Zaenab Haryanto, S.H.",P,2004-05-05,51,SMA Negeri 46 Bali,B,4,2022,Aktif
+504,A21110504,Maya Rajasa,L,2008-05-15,52,SMA Negeri 14 Nusa Tenggara Barat,C,11,2021,Aktif
+505,A23080505,Jessica Mulyani,P,2003-01-31,61,SMA Negeri 7 Kalimantan Barat,C,8,2023,Aktif
+506,A23010506,Lanjar Purwanti,P,1999-05-30,91,SMA Negeri 42 Papua Barat,B,1,2023,Aktif
+507,A20100507,Lidya Gunawan,L,2006-01-21,53,SMA Negeri 18 Nusa Tenggara Timur,A,10,2020,Aktif
+508,A20110508,Suci Waskita,P,2007-04-18,62,SMA Negeri 42 Kalimantan Tengah,B,11,2020,Lulus
+509,A19050509,Wirda Firmansyah,L,2004-03-31,33,SMA Negeri 39 Jawa Tengah,B,5,2019,Lulus
+510,A23070510,Ilsa Puspita,P,2002-02-21,62,SMA Negeri 2 Kalimantan Tengah,A,7,2023,Aktif
+511,A20110511,Mariadi Hutapea,L,2008-01-11,82,SMA Negeri 48 Maluku Utara,B,11,2020,Aktif
+512,A20010512,Carla Halim,P,2007-10-09,33,SMA Negeri 31 Jawa Tengah,B,1,2020,Lulus
+513,A22110513,"Indah Prabowo, S.Kom",L,2001-06-29,64,SMA Negeri 43 Kalimantan Timur,B,11,2022,Aktif
+514,A20090514,Melinda Wibowo,L,2000-11-05,32,SMA Negeri 17 Jawa Barat,A,9,2020,Aktif
+515,A23120515,Yance Rahayu,P,2003-06-28,32,SMA Negeri 6 Jawa Barat,B,12,2023,Aktif
+516,A19040516,Dr. Jarwi Haryanti,L,2002-02-10,64,SMA Negeri 22 Kalimantan Timur,B,4,2019,Lulus
+517,A22060517,Mahesa Yuliarti,L,1999-11-21,51,SMA Negeri 8 Bali,B,6,2022,Aktif
+518,A23080518,Lala Rahayu,L,2001-06-23,14,SMA Negeri 13 Riau,A,8,2023,Aktif
+519,A23090519,Balidin Nuraini,P,2007-01-15,18,SMA Negeri 20 Lampung,C,9,2023,Aktif
+520,A19070520,"Martani Hardiansyah, M.Kom.",L,2000-05-17,14,SMA Negeri 37 Riau,A,7,2019,Aktif
+521,A20080521,T. Among Zulkarnain,L,2004-03-03,21,SMA Negeri 41 Kepulauan Riau,A,8,2020,Aktif
+522,A23030522,"Nadia Januar, S.Sos",L,2004-07-21,62,SMA Negeri 29 Kalimantan Tengah,A,3,2023,Aktif
+523,A19050523,Hafshah Purnawati,L,1998-02-24,34,SMA Negeri 50 DI Yogyakarta,A,5,2019,Lulus
+524,A22020524,Shania Saputra,P,2006-03-24,19,SMA Negeri 28 Kepulauan Bangka Belitung,C,2,2022,Aktif
+525,A21070525,Tgk. Suci Wastuti,L,2007-07-23,74,SMA Negeri 13 Sulawesi Tenggara,C,7,2021,Aktif
+526,A18120526,Tantri Dabukke,P,2006-03-13,65,SMA Negeri 44 Kalimantan Utara,B,12,2018,Aktif
+527,A19010527,Mumpuni Salahudin,L,2006-10-17,36,SMA Negeri 25 Banten,B,1,2019,Aktif
+528,A19090528,Nrima Saputra,L,2004-10-14,61,SMA Negeri 19 Kalimantan Barat,A,9,2019,Aktif
+529,A22080529,"Empluk Namaga, M.Pd",L,2005-03-19,94,SMA Negeri 44 Papua,B,8,2022,Aktif
+530,A21030530,Kamila Laksmiwati,L,1998-11-23,63,SMA Negeri 26 Kalimantan Selatan,B,3,2021,Aktif
+531,A19010531,"Hj. Cinta Latupono, S.Pt",L,2001-12-08,35,SMA Negeri 38 Jawa Timur,A,1,2019,Lulus
+532,A18090532,Halima Putra,P,2005-02-13,31,SMA Negeri 3 DKI Jakarta,B,9,2018,Lulus
+533,A22070533,Ade Permadi,P,2007-04-23,51,SMA Negeri 4 Bali,A,7,2022,Aktif
+534,A23110534,Emin Thamrin,L,2007-09-26,17,SMA Negeri 45 Bengkulu,A,11,2023,Aktif
+535,A21020535,Jayeng Prasetyo,L,2005-12-10,73,SMA Negeri 31 Sulawesi Selatan,C,2,2021,Lulus
+536,A19120536,dr. Hesti Sudiati,L,2003-02-05,21,SMA Negeri 7 Kepulauan Riau,A,12,2019,Aktif
+537,A20110537,"Tgk. Ika Megantara, S.Sos",L,1997-10-09,94,SMA Negeri 7 Papua,A,11,2020,Lulus
+538,A20090538,"Akarsana Laksita, M.M.",L,1997-06-26,18,SMA Negeri 39 Lampung,A,9,2020,Aktif
+539,A22040539,"Puti Laila Firgantoro, S.H.",L,2004-06-23,51,SMA Negeri 46 Bali,B,4,2022,Aktif
+540,A19070540,Empluk Permadi,P,2007-07-25,53,SMA Negeri 14 Nusa Tenggara Timur,A,7,2019,Aktif
+541,A20120541,Tami Sirait,L,2004-08-04,81,SMA Negeri 6 Maluku,B,12,2020,Aktif
+542,A19020542,Balamantri Widiastuti,P,2002-07-02,82,SMA Negeri 47 Maluku Utara,A,2,2019,Aktif
+543,A23020543,Labuh Permata,L,2005-01-01,51,SMA Negeri 19 Bali,B,2,2023,Aktif
+544,A18050544,Purwanto Saefullah,L,2007-05-14,76,SMA Negeri 19 Sulawesi Barat,A,5,2018,Lulus
+545,A21060545,Eka Kuswandari,L,2006-11-05,62,SMA Negeri 3 Kalimantan Tengah,A,6,2021,Lulus
+546,A23010546,Nadine Haryanti,L,2006-08-24,19,SMA Negeri 23 Kepulauan Bangka Belitung,A,1,2023,Aktif
+547,A23080547,Talia Pradana,L,2007-05-23,52,SMA Negeri 22 Nusa Tenggara Barat,A,8,2023,Aktif
+548,A21030548,"dr. Zahra Wulandari, S.Gz",L,2005-11-04,18,SMA Negeri 25 Lampung,C,3,2021,Aktif
+549,A21120549,Waluyo Narpati,L,2005-01-22,81,SMA Negeri 47 Maluku,A,12,2021,Aktif
+550,A18010550,"Hj. Keisha Pradana, S.Gz",P,2002-03-16,31,SMA Negeri 37 DKI Jakarta,C,1,2018,Aktif
+551,A19110551,Cut Septi Wijaya,L,2007-09-22,75,SMA Negeri 44 Gorontalo,C,11,2019,Lulus
+552,A21120552,Edison Sudiati,L,2002-04-27,19,SMA Negeri 29 Kepulauan Bangka Belitung,TT,12,2021,Lulus
+553,A20010553,Ega Hasanah,L,2003-06-13,15,SMA Negeri 44 Jambi,B,1,2020,Lulus
+554,A23090554,Rachel Agustina,P,2002-07-01,35,SMA Negeri 34 Jawa Timur,B,9,2023,Aktif
+555,A21120555,Melinda Prastuti,L,1998-08-18,17,SMA Negeri 44 Bengkulu,B,12,2021,Aktif
+556,A19110556,R.M. Satya Melani,L,1999-10-25,71,SMA Negeri 11 Sulawesi Utara,A,11,2019,Lulus
+557,A21090557,Ajeng Wijayanti,L,2008-05-04,81,SMA Negeri 21 Maluku,A,9,2021,Lulus
+558,A20040558,Raina Prastuti,P,2003-06-22,63,SMA Negeri 42 Kalimantan Selatan,A,4,2020,Aktif
+559,A19070559,"Alika Putra, S.Pt",L,2003-05-14,72,SMA Negeri 37 Sulawesi Tengah,A,7,2019,Aktif
+560,A21080560,"R. Salman Maryadi, M.TI.",L,2001-10-22,16,SMA Negeri 32 Sumatera Selatan,TT,8,2021,Aktif
+561,A18120561,Dewi Hardiansyah,L,2003-01-11,12,SMA Negeri 36 Sumatera Utara,C,12,2018,Aktif
+562,A22010562,Ir. Sakura Siregar,P,2005-12-13,16,SMA Negeri 36 Sumatera Selatan,B,1,2022,Aktif
+563,A20040563,Ika Sihotang,L,2008-03-23,76,SMA Negeri 30 Sulawesi Barat,B,4,2020,Lulus
+564,A23060564,drg. Wardaya Prastuti,P,2001-11-18,81,SMA Negeri 29 Maluku,B,6,2023,Aktif
+565,A23020565,Maimunah Najmudin,L,2000-04-21,17,SMA Negeri 22 Bengkulu,B,2,2023,Aktif
+566,A22060566,Pandu Dabukke,P,2006-09-27,53,SMA Negeri 7 Nusa Tenggara Timur,B,6,2022,Aktif
+567,A21010567,Lintang Wastuti,P,2003-08-25,31,SMA Negeri 27 DKI Jakarta,A,1,2021,Lulus
+568,A22020568,Yosef Pertiwi,L,2002-07-10,51,SMA Negeri 8 Bali,B,2,2022,Aktif
+569,A21070569,"Titin Budiyanto, M.M.",P,2002-05-04,34,SMA Negeri 49 DI Yogyakarta,B,7,2021,Aktif
+570,A23070570,"Warta Nasyidah, S.Gz",L,2005-12-06,13,SMA Negeri 30 Sumatera Barat,A,7,2023,Aktif
+571,A19110571,"Sutan Saka Siregar, S.H.",L,1997-07-01,91,SMA Negeri 4 Papua Barat,TT,11,2019,Lulus
+572,A22090572,Patricia Pradana,P,2004-04-23,74,SMA Negeri 50 Sulawesi Tenggara,TT,9,2022,Aktif
+573,A23030573,Elvina Saefullah,L,2000-10-12,32,SMA Negeri 25 Jawa Barat,A,3,2023,Aktif
+574,A22110574,Zelaya Nurdiyanti,L,2003-09-12,62,SMA Negeri 39 Kalimantan Tengah,C,11,2022,Aktif
+575,A20120575,Puspa Mangunsong,L,2001-03-23,36,SMA Negeri 29 Banten,C,12,2020,Cuti
+576,A21030576,Purwa Budiman,P,2007-02-03,19,SMA Negeri 21 Kepulauan Bangka Belitung,B,3,2021,Lulus
+577,A19120577,Legawa Nugroho,P,2005-01-23,34,SMA Negeri 44 DI Yogyakarta,B,12,2019,Lulus
+578,A23060578,Naradi Nainggolan,P,2007-06-15,19,SMA Negeri 35 Kepulauan Bangka Belitung,A,6,2023,Aktif
+579,A23120579,Hj. Nabila Manullang,L,2002-01-15,62,SMA Negeri 36 Kalimantan Tengah,A,12,2023,Aktif
+580,A23080580,R. Koko Oktaviani,L,2008-04-21,73,SMA Negeri 1 Sulawesi Selatan,B,8,2023,Aktif
+581,A18090581,Cici Riyanti,L,2007-11-25,17,SMA Negeri 4 Bengkulu,C,9,2018,Aktif
+582,A19040582,"Zizi Pratama, S.Gz",P,2002-01-11,52,SMA Negeri 4 Nusa Tenggara Barat,B,4,2019,Aktif
+583,A19120583,Jaiman Wijaya,L,2004-12-11,53,SMA Negeri 7 Nusa Tenggara Timur,A,12,2019,Lulus
+584,A23100584,Puti Napitupulu,L,2005-02-12,35,SMA Negeri 33 Jawa Timur,C,10,2023,Aktif
+585,A23120585,Asmuni Zulaika,L,2003-01-26,53,SMA Negeri 25 Nusa Tenggara Timur,A,12,2023,Aktif
+586,A22070586,Hj. Puji Widiastuti,L,2007-01-09,62,SMA Negeri 48 Kalimantan Tengah,A,7,2022,Aktif
+587,A22050587,Icha Nugroho,L,1998-01-23,33,SMA Negeri 41 Jawa Tengah,TT,5,2022,Aktif
+588,A22120588,Dasa Mahendra,P,1999-08-21,65,SMA Negeri 13 Kalimantan Utara,B,12,2022,Aktif
+589,A19050589,R. Luluh Tarihoran,L,2004-04-08,75,SMA Negeri 48 Gorontalo,A,5,2019,Cuti
+590,A21090590,Winda Santoso,L,2007-04-19,18,SMA Negeri 17 Lampung,A,9,2021,Aktif
+591,A22030591,Ir. Cornelia Salahudin,L,2002-05-15,31,SMA Negeri 22 DKI Jakarta,B,3,2022,Aktif
+592,A18080592,R. Nabila Sihombing,L,2001-06-02,21,SMA Negeri 50 Kepulauan Riau,A,8,2018,Lulus
+593,A21110593,Ir. Damar Hutagalung,L,1999-12-03,61,SMA Negeri 21 Kalimantan Barat,B,11,2021,Lulus
+594,A19090594,Ophelia Hakim,P,1999-07-24,35,SMA Negeri 35 Jawa Timur,A,9,2019,Aktif
+595,A18090595,Rahmat Permata,L,1997-10-24,72,SMA Negeri 43 Sulawesi Tengah,B,9,2018,Lulus
+596,A20060596,Legawa Yuliarti,L,2002-09-19,63,SMA Negeri 40 Kalimantan Selatan,B,6,2020,Cuti
+597,A22090597,Indah Mansur,L,2007-10-27,81,SMA Negeri 43 Maluku,A,9,2022,Aktif
+598,A19060598,Cahya Suwarno,L,2007-01-22,75,SMA Negeri 21 Gorontalo,B,6,2019,Lulus
+599,A21070599,R.M. Panca Hutagalung,P,2006-07-05,18,SMA Negeri 2 Lampung,B,7,2021,Lulus
+600,A22090600,"dr. Prakosa Ardianto, S.Ked",L,2006-03-15,65,SMA Negeri 3 Kalimantan Utara,TT,9,2022,Aktif
+601,A20050601,Carub Wasita,L,2006-11-25,33,SMA Negeri 50 Jawa Tengah,A,5,2020,Aktif
+602,A23090602,Ulya Salahudin,L,2005-06-23,11,SMA Negeri 43 Aceh,A,9,2023,Aktif
+603,A23110603,Wirda Budiman,L,2002-05-19,34,SMA Negeri 14 DI Yogyakarta,C,11,2023,Aktif
+604,A23090604,"Lasmono Prayoga, S.H.",P,2003-11-18,74,SMA Negeri 44 Sulawesi Tenggara,A,9,2023,Aktif
+605,A21030605,R. Galar Usamah,L,2006-01-27,12,SMA Negeri 4 Sumatera Utara,B,3,2021,Aktif
+606,A22030606,Alika Wulandari,P,2002-12-20,51,SMA Negeri 15 Bali,A,3,2022,Aktif
+607,A21050607,Martaka Simbolon,P,2002-11-03,73,SMA Negeri 21 Sulawesi Selatan,TT,5,2021,Aktif
+608,A23010608,Vanya Pranowo,P,1999-09-20,71,SMA Negeri 1 Sulawesi Utara,A,1,2023,Aktif
+609,A23110609,Puti Lazuardi,P,2002-10-03,15,SMA Negeri 5 Jambi,A,11,2023,Aktif
+610,A18060610,Puti Zulaika,P,2004-03-22,91,SMA Negeri 6 Papua Barat,B,6,2018,Aktif
+611,A21050611,Tami Andriani,P,2001-01-30,75,SMA Negeri 11 Gorontalo,C,5,2021,Aktif
+612,A19090612,Garda Narpati,P,2001-05-21,35,SMA Negeri 41 Jawa Timur,C,9,2019,Aktif
+613,A23030613,Dt. Mursita Hutagalung,L,2000-01-20,61,SMA Negeri 36 Kalimantan Barat,B,3,2023,Aktif
+614,A18090614,"Restu Tampubolon, S.Pd",L,1998-10-09,21,SMA Negeri 26 Kepulauan Riau,A,9,2018,Lulus
+615,A20090615,"Leo Nababan, S.Farm",P,1999-07-02,16,SMA Negeri 47 Sumatera Selatan,B,9,2020,Lulus
+616,A21060616,Irnanto Rajasa,L,1998-04-14,34,SMA Negeri 40 DI Yogyakarta,A,6,2021,Aktif
+617,A18050617,Laksana Hidayat,P,2001-12-26,33,SMA Negeri 4 Jawa Tengah,A,5,2018,Lulus
+618,A23090618,Febi Purwanti,L,2007-05-18,76,SMA Negeri 43 Sulawesi Barat,A,9,2023,Aktif
+619,A18020619,"drg. Novi Simanjuntak, S.I.Kom",P,2002-02-02,51,SMA Negeri 22 Bali,B,2,2018,Lulus
+620,A23060620,Opan Nainggolan,L,2001-01-22,19,SMA Negeri 19 Kepulauan Bangka Belitung,B,6,2023,Aktif
+621,A19100621,"dr. Melinda Dongoran, M.M.",L,1999-01-15,15,SMA Negeri 40 Jambi,B,10,2019,Aktif
+622,A23110622,"Tami Mangunsong, M.Ak",P,1998-01-12,61,SMA Negeri 37 Kalimantan Barat,A,11,2023,Aktif
+623,A21060623,Silvia Laksita,L,2002-08-15,62,SMA Negeri 15 Kalimantan Tengah,A,6,2021,Aktif
+624,A20120624,"Tgk. Laila Pertiwi, S.Psi",L,2000-02-08,74,SMA Negeri 22 Sulawesi Tenggara,B,12,2020,Lulus
+625,A21080625,Raihan Mustofa,L,2002-03-31,76,SMA Negeri 7 Sulawesi Barat,B,8,2021,Aktif
+626,A20030626,"T. Jais Tampubolon, S.IP",P,1998-04-04,16,SMA Negeri 47 Sumatera Selatan,A,3,2020,Aktif
+627,A23110627,Eka Siregar,L,2002-02-10,15,SMA Negeri 33 Jambi,A,11,2023,Aktif
+628,A22110628,Dr. Azalea Novitasari,P,1999-05-05,12,SMA Negeri 14 Sumatera Utara,C,11,2022,Aktif
+629,A22010629,Raden Nainggolan,P,1998-07-09,51,SMA Negeri 50 Bali,TT,1,2022,Aktif
+630,A21030630,R. Patricia Puspita,P,1999-02-13,65,SMA Negeri 19 Kalimantan Utara,B,3,2021,Lulus
+631,A22030631,Putri Siregar,L,2005-12-31,76,SMA Negeri 24 Sulawesi Barat,A,3,2022,Aktif
+632,A23090632,"Tari Wibisono, S.Ked",P,1997-08-25,11,SMA Negeri 44 Aceh,B,9,2023,Aktif
+633,A19030633,Cici Wibowo,L,2006-03-31,91,SMA Negeri 37 Papua Barat,TT,3,2019,Aktif
+634,A23110634,Ir. Ciaobella Lailasari,L,2004-02-09,21,SMA Negeri 3 Kepulauan Riau,TT,11,2023,Aktif
+635,A19040635,Lanang Permadi,L,2002-12-02,82,SMA Negeri 3 Maluku Utara,A,4,2019,Aktif
+636,A22110636,Karen Prasasta,L,2003-08-11,34,SMA Negeri 31 DI Yogyakarta,B,11,2022,Aktif
+637,A18080637,Dewi Sihotang,L,2001-02-04,13,SMA Negeri 34 Sumatera Barat,B,8,2018,Lulus
+638,A23110638,Laras Manullang,P,1999-07-13,52,SMA Negeri 35 Nusa Tenggara Barat,B,11,2023,Aktif
+639,A21100639,Mahmud Siregar,L,2007-04-30,32,SMA Negeri 5 Jawa Barat,C,10,2021,Lulus
+640,A21090640,Mahesa Napitupulu,P,2006-04-21,51,SMA Negeri 23 Bali,B,9,2021,Aktif
+641,A22080641,"Cakrabuana Sinaga, M.TI.",P,2001-04-22,81,SMA Negeri 9 Maluku,A,8,2022,Aktif
+642,A19080642,Tiara Santoso,P,2000-03-15,31,SMA Negeri 14 DKI Jakarta,A,8,2019,Lulus
+643,A19030643,"Ana Hutasoit, M.Farm",P,2002-12-07,32,SMA Negeri 8 Jawa Barat,B,3,2019,Lulus
+644,A21110644,Gandewa Yulianti,P,1999-02-14,35,SMA Negeri 44 Jawa Timur,B,11,2021,Aktif
+645,A19080645,Banara Suwarno,P,2001-06-14,81,SMA Negeri 2 Maluku,A,8,2019,Lulus
+646,A19040646,Rafid Sihombing,L,2003-08-13,13,SMA Negeri 3 Sumatera Barat,A,4,2019,Lulus
+647,A18100647,Fitria Simbolon,L,2003-09-23,21,SMA Negeri 34 Kepulauan Riau,A,10,2018,DO
+648,A23070648,"Hasna Handayani, S.Ked",L,2000-05-11,12,SMA Negeri 14 Sumatera Utara,B,7,2023,Aktif
+649,A21080649,"Usyi Namaga, M.Ak",L,2007-04-06,81,SMA Negeri 39 Maluku,A,8,2021,Lulus
+650,A22030650,Dt. Capa Pertiwi,L,2006-08-03,32,SMA Negeri 47 Jawa Barat,B,3,2022,Aktif
+651,A21110651,Asirwada Saragih,L,1998-04-05,63,SMA Negeri 9 Kalimantan Selatan,A,11,2021,Aktif
+652,A19020652,Pangeran Rajasa,L,1999-12-01,12,SMA Negeri 12 Sumatera Utara,C,2,2019,Lulus
+653,A22080653,Ani Rajasa,L,1997-11-15,13,SMA Negeri 31 Sumatera Barat,A,8,2022,Aktif
+654,A22110654,"Ivan Purwanti, S.IP",P,2005-03-11,19,SMA Negeri 42 Kepulauan Bangka Belitung,A,11,2022,Aktif
+655,A21070655,Ir. Malika Sihombing,L,2001-07-14,94,SMA Negeri 28 Papua,B,7,2021,Lulus
+656,A21040656,Darman Marpaung,P,1998-11-13,81,SMA Negeri 49 Maluku,B,4,2021,Lulus
+657,A21120657,"Samiah Anggraini, S.Ked",L,1998-03-08,17,SMA Negeri 15 Bengkulu,A,12,2021,Aktif
+658,A22020658,Maida Mardhiyah,L,2000-12-12,53,SMA Negeri 13 Nusa Tenggara Timur,C,2,2022,Aktif
+659,A22010659,Hilda Mahendra,P,2001-03-09,11,SMA Negeri 1 Aceh,A,1,2022,Aktif
+660,A23070660,R.M. Mitra Nainggolan,L,2003-05-21,34,SMA Negeri 24 DI Yogyakarta,B,7,2023,Aktif
+661,A21020661,"Rangga Suryatmi, M.Ak",L,2001-03-24,21,SMA Negeri 28 Kepulauan Riau,B,2,2021,Lulus
+662,A22100662,Aswani Wacana,P,2004-07-30,65,SMA Negeri 26 Kalimantan Utara,B,10,2022,Aktif
+663,A22040663,"R. Icha Sitorus, S.Kom",L,2006-07-13,73,SMA Negeri 24 Sulawesi Selatan,TT,4,2022,Aktif
+664,A20090664,Wani Wibisono,P,1998-05-12,81,SMA Negeri 46 Maluku,B,9,2020,Aktif
+665,A23070665,Dimas Uwais,P,2006-09-26,19,SMA Negeri 15 Kepulauan Bangka Belitung,A,7,2023,Aktif
+666,A18080666,"Puti Rini Mulyani, S.Sos",P,2006-12-06,31,SMA Negeri 22 DKI Jakarta,B,8,2018,Aktif
+667,A19090667,Padmi Hasanah,P,2001-02-08,14,SMA Negeri 6 Riau,C,9,2019,Aktif
+668,A22030668,"Margana Widiastuti, M.Farm",L,2002-02-21,81,SMA Negeri 5 Maluku,C,3,2022,Aktif
+669,A20050669,Hendra Maryati,P,2004-02-18,35,SMA Negeri 25 Jawa Timur,A,5,2020,Aktif
+670,A20070670,Latika Jailani,L,2000-09-18,94,SMA Negeri 29 Papua,A,7,2020,Lulus
+671,A23010671,Tania Firgantoro,L,1999-05-07,33,SMA Negeri 3 Jawa Tengah,B,1,2023,Aktif
+672,A22100672,Gasti Maheswara,P,2000-06-16,91,SMA Negeri 11 Papua Barat,B,10,2022,Aktif
+673,A20110673,"drg. Dalima Wahyuni, S.Psi",P,1999-07-28,13,SMA Negeri 11 Sumatera Barat,B,11,2020,Aktif
+674,A21020674,Edward Hariyah,P,2005-08-08,52,SMA Negeri 38 Nusa Tenggara Barat,B,2,2021,Aktif
+675,A18040675,Drs. Oni Hastuti,L,2000-12-07,94,SMA Negeri 47 Papua,A,4,2018,Lulus
+676,A20090676,Tari Ramadan,L,2005-11-06,64,SMA Negeri 13 Kalimantan Timur,B,9,2020,Lulus
+677,A22080677,"R.M. Kajen Rahmawati, S.Psi",L,1998-12-21,72,SMA Negeri 12 Sulawesi Tengah,A,8,2022,Aktif
+678,A18070678,Unjani Nuraini,P,2004-02-09,91,SMA Negeri 8 Papua Barat,A,7,2018,Aktif
+679,A22090679,Gasti Winarsih,P,1997-09-06,51,SMA Negeri 29 Bali,B,9,2022,Aktif
+680,A19070680,Bahuraksa Mangunsong,L,2005-09-24,81,SMA Negeri 38 Maluku,B,7,2019,Lulus
+681,A18010681,"Ilsa Hardiansyah, S.Pd",L,2004-11-17,81,SMA Negeri 15 Maluku,B,1,2018,Aktif
+682,A20110682,Limar Mayasari,L,1998-01-20,35,SMA Negeri 1 Jawa Timur,C,11,2020,Lulus
+683,A19120683,Zelaya Wibisono,L,2002-12-30,51,SMA Negeri 48 Bali,B,12,2019,Aktif
+684,A22060684,Puti Eka Anggriawan,L,1999-10-23,15,SMA Negeri 21 Jambi,A,6,2022,Aktif
+685,A22060685,"Catur Sihombing, M.M.",L,2006-10-20,34,SMA Negeri 48 DI Yogyakarta,B,6,2022,Aktif
+686,A21110686,Tugiman Hutagalung,L,1997-07-16,33,SMA Negeri 17 Jawa Tengah,B,11,2021,Lulus
+687,A19040687,Emin Wastuti,P,2005-06-30,35,SMA Negeri 50 Jawa Timur,B,4,2019,Aktif
+688,A18020688,Mulyono Prasetyo,P,2001-11-07,18,SMA Negeri 35 Lampung,TT,2,2018,Aktif
+689,A20010689,R.M. Langgeng Nababan,L,2007-03-20,81,SMA Negeri 37 Maluku,B,1,2020,Lulus
+690,A19050690,"Niyaga Kurniawan, S.Pt",L,1999-02-17,82,SMA Negeri 37 Maluku Utara,B,5,2019,Aktif
+691,A22030691,Jane Usada,L,1998-08-04,14,SMA Negeri 35 Riau,C,3,2022,Aktif
+692,A20010692,Laila Purnawati,P,2007-12-06,91,SMA Negeri 30 Papua Barat,C,1,2020,Lulus
+693,A21020693,"Sutan Nalar Wahyudin, S.Pt",P,2007-01-23,94,SMA Negeri 44 Papua,B,2,2021,Aktif
+694,A22040694,"dr. Ozy Utama, M.M.",L,2002-02-16,71,SMA Negeri 24 Sulawesi Utara,A,4,2022,Aktif
+695,A19100695,R.M. Surya Sudiati,L,1998-11-08,51,SMA Negeri 40 Bali,B,10,2019,Aktif
+696,A19060696,Balijan Nuraini,L,2004-07-11,65,SMA Negeri 45 Kalimantan Utara,TT,6,2019,Aktif
+697,A21060697,Bagiya Narpati,L,2004-09-24,65,SMA Negeri 9 Kalimantan Utara,B,6,2021,Aktif
+698,A18100698,"KH. Putu Ramadan, M.Farm",L,2004-03-14,35,SMA Negeri 25 Jawa Timur,B,10,2018,Lulus
+699,A23040699,Yunita Suryono,L,2001-01-25,21,SMA Negeri 1 Kepulauan Riau,A,4,2023,Aktif
+700,A21030700,Sutan Tugiman Pudjiastuti,P,1997-11-26,73,SMA Negeri 47 Sulawesi Selatan,A,3,2021,Lulus
+701,A20060701,Cut Devi Anggraini,P,1997-10-19,82,SMA Negeri 4 Maluku Utara,B,6,2020,Lulus
+702,A23070702,Tira Mangunsong,L,2002-12-09,17,SMA Negeri 14 Bengkulu,A,7,2023,Aktif
+703,A23050703,Pranata Mulyani,L,2004-06-17,81,SMA Negeri 48 Maluku,A,5,2023,Aktif
+704,A20060704,Jamal Maheswara,P,2002-11-07,51,SMA Negeri 17 Bali,B,6,2020,Lulus
+705,A21060705,Ajiono Maryati,L,2008-01-05,12,SMA Negeri 39 Sumatera Utara,A,6,2021,Lulus
+706,A20040706,Oman Novitasari,L,1999-09-01,32,SMA Negeri 32 Jawa Barat,B,4,2020,Lulus
+707,A18120707,Elvina Thamrin,P,1998-01-09,75,SMA Negeri 41 Gorontalo,C,12,2018,Aktif
+708,A23030708,R.A. Wulan Wijaya,L,2001-06-20,31,SMA Negeri 41 DKI Jakarta,B,3,2023,Aktif
+709,A18100709,Daliman Dongoran,L,2007-09-23,72,SMA Negeri 21 Sulawesi Tengah,A,10,2018,Aktif
+710,A23060710,Pandu Putra,P,2007-05-14,53,SMA Negeri 42 Nusa Tenggara Timur,B,6,2023,Aktif
+711,A21070711,"Sutan Atmaja Hassanah, M.TI.",P,1998-11-23,52,SMA Negeri 29 Nusa Tenggara Barat,B,7,2021,Lulus
+712,A19070712,"Nadine Prasasta, M.M.",L,2006-11-29,31,SMA Negeri 43 DKI Jakarta,A,7,2019,Lulus
+713,A19050713,Kacung Padmasari,L,1999-12-25,16,SMA Negeri 5 Sumatera Selatan,A,5,2019,Aktif
+714,A18080714,R. Putri Zulkarnain,P,2004-08-30,14,SMA Negeri 6 Riau,C,8,2018,Lulus
+715,A22020715,Laras Tamba,L,2001-02-07,51,SMA Negeri 42 Bali,A,2,2022,Aktif
+716,A19070716,Calista Prastuti,P,2006-03-04,61,SMA Negeri 41 Kalimantan Barat,B,7,2019,Aktif
+717,A22030717,Zelda Maulana,L,2003-08-06,19,SMA Negeri 3 Kepulauan Bangka Belitung,A,3,2022,Aktif
+718,A20110718,Kezia Wijayanti,L,2007-03-08,64,SMA Negeri 35 Kalimantan Timur,TT,11,2020,Cuti
+719,A19050719,Citra Firgantoro,P,2001-08-29,75,SMA Negeri 41 Gorontalo,A,5,2019,Lulus
+720,A22120720,Jumari Safitri,L,2006-03-12,74,SMA Negeri 31 Sulawesi Tenggara,B,12,2022,Aktif
+721,A18090721,dr. Kurnia Usamah,L,2000-02-12,35,SMA Negeri 17 Jawa Timur,TT,9,2018,Aktif
+722,A18030722,"Vinsen Wasita, S.Sos",P,2001-05-30,61,SMA Negeri 9 Kalimantan Barat,A,3,2018,Lulus
+723,A21060723,Gawati Firmansyah,P,2005-09-06,53,SMA Negeri 49 Nusa Tenggara Timur,A,6,2021,DO
+724,A18080724,Alambana Maryati,L,2006-12-11,61,SMA Negeri 1 Kalimantan Barat,C,8,2018,Lulus
+725,A19090725,R.A. Betania Prasasta,P,2006-02-11,65,SMA Negeri 16 Kalimantan Utara,C,9,2019,Aktif
+726,A21030726,Dr. Carla Zulaika,L,2003-04-14,71,SMA Negeri 41 Sulawesi Utara,B,3,2021,Aktif
+727,A22040727,"Jabal Palastri, S.Sos",L,2004-11-09,94,SMA Negeri 42 Papua,B,4,2022,Aktif
+728,A21120728,Mutia Zulaika,L,2006-12-20,52,SMA Negeri 19 Nusa Tenggara Barat,B,12,2021,Aktif
+729,A22020729,"Mustofa Fujiati, S.I.Kom",L,2007-06-09,76,SMA Negeri 45 Sulawesi Barat,TT,2,2022,Aktif
+730,A19100730,Tgk. Kemal Hartati,L,2003-01-19,82,SMA Negeri 35 Maluku Utara,B,10,2019,Aktif
+731,A18010731,Tiara Pradipta,L,2007-02-04,32,SMA Negeri 29 Jawa Barat,B,1,2018,Aktif
+732,A19120732,"Puti Gilda Kurniawan, S.E.",L,2004-10-21,11,SMA Negeri 14 Aceh,A,12,2019,Aktif
+733,A20060733,Ibrani Firmansyah,L,2006-02-05,73,SMA Negeri 3 Sulawesi Selatan,TT,6,2020,Aktif
+734,A19060734,Titin Wacana,L,2003-10-27,16,SMA Negeri 5 Sumatera Selatan,A,6,2019,Lulus
+735,A19090735,Rahmi Hutagalung,L,2002-10-31,81,SMA Negeri 1 Maluku,B,9,2019,Lulus
+736,A21020736,"Asman Novitasari, S.I.Kom",L,2004-08-13,36,SMA Negeri 3 Banten,TT,2,2021,Lulus
+737,A23040737,Banara Tampubolon,P,1997-07-03,76,SMA Negeri 43 Sulawesi Barat,A,4,2023,Aktif
+738,A21040738,"Daliono Yulianti, S.Gz",L,2005-12-16,81,SMA Negeri 47 Maluku,B,4,2021,Aktif
+739,A18010739,Elvina Budiyanto,L,2007-07-01,94,SMA Negeri 13 Papua,B,1,2018,Lulus
+740,A23060740,Mahdi Siregar,L,1998-04-18,14,SMA Negeri 16 Riau,B,6,2023,Aktif
+741,A20110741,Caturangga Waskita,L,1998-10-27,74,SMA Negeri 38 Sulawesi Tenggara,A,11,2020,Lulus
+742,A19020742,Talia Samosir,L,1999-04-26,72,SMA Negeri 45 Sulawesi Tengah,A,2,2019,Lulus
+743,A20080743,Ayu Utama,L,2002-10-12,21,SMA Negeri 6 Kepulauan Riau,A,8,2020,Aktif
+744,A23110744,Dt. Kalim Sirait,L,2001-09-29,63,SMA Negeri 23 Kalimantan Selatan,A,11,2023,Aktif
+745,A23110745,Teguh Lazuardi,L,2007-09-25,21,SMA Negeri 32 Kepulauan Riau,A,11,2023,Aktif
+746,A22040746,Eluh Aryani,L,1999-11-24,62,SMA Negeri 47 Kalimantan Tengah,B,4,2022,Aktif
+747,A23040747,Rahmi Firgantoro,L,2001-09-27,12,SMA Negeri 47 Sumatera Utara,C,4,2023,Aktif
+748,A18030748,Kenzie Tampubolon,P,2006-01-22,51,SMA Negeri 19 Bali,TT,3,2018,Aktif
+749,A19090749,Hendri Puspita,P,2003-10-16,82,SMA Negeri 47 Maluku Utara,A,9,2019,Aktif
+750,A22080750,"drg. Mitra Sitorus, S.I.Kom",L,2003-10-24,52,SMA Negeri 34 Nusa Tenggara Barat,A,8,2022,Aktif
+751,A20030751,KH. Paiman Hassanah,P,1998-11-03,75,SMA Negeri 1 Gorontalo,B,3,2020,Aktif
+752,A21110752,"Dr. Garan Mustofa, S.Gz",L,2003-03-12,91,SMA Negeri 24 Papua Barat,A,11,2021,Lulus
+753,A20100753,Mala Wibowo,P,2007-05-22,36,SMA Negeri 25 Banten,A,10,2020,Cuti
+754,A23040754,drg. Joko Utami,P,2001-05-04,94,SMA Negeri 10 Papua,TT,4,2023,Aktif
+755,A20100755,Ir. Rahmi Purnawati,P,1999-08-07,53,SMA Negeri 7 Nusa Tenggara Timur,C,10,2020,Aktif
+756,A18090756,Hani Hutasoit,L,2003-03-27,15,SMA Negeri 13 Jambi,A,9,2018,Lulus
+757,A19020757,"Dr. Harsaya Yuniar, M.M.",L,2003-06-02,82,SMA Negeri 25 Maluku Utara,A,2,2019,Lulus
+758,A22110758,Victoria Prayoga,L,2002-09-17,82,SMA Negeri 24 Maluku Utara,B,11,2022,Aktif
+759,A18040759,Wira Sihotang,P,1998-07-21,15,SMA Negeri 6 Jambi,B,4,2018,Aktif
+760,A20080760,Tgk. Kasiyah Hardiansyah,L,1998-07-08,14,SMA Negeri 4 Riau,C,8,2020,Lulus
+761,A22100761,Bahuwarna Mangunsong,P,2005-09-26,52,SMA Negeri 5 Nusa Tenggara Barat,A,10,2022,Aktif
+762,A19050762,drg. Rahmi Sitorus,L,2001-03-11,15,SMA Negeri 35 Jambi,A,5,2019,Lulus
+763,A19070763,Sari Mandasari,P,2001-08-19,33,SMA Negeri 12 Jawa Tengah,B,7,2019,Lulus
+764,A23090764,Jail Gunawan,P,2007-05-26,73,SMA Negeri 37 Sulawesi Selatan,A,9,2023,Aktif
+765,A23060765,Ika Novitasari,L,2002-10-06,76,SMA Negeri 11 Sulawesi Barat,C,6,2023,Aktif
+766,A22030766,Zelaya Sihombing,P,2004-01-04,72,SMA Negeri 11 Sulawesi Tengah,B,3,2022,Aktif
+767,A20090767,"Ir. Zalindra Latupono, M.Ak",P,2008-05-03,75,SMA Negeri 21 Gorontalo,B,9,2020,Cuti
+768,A23060768,"Jinawi Pradipta, S.T.",P,2000-10-01,73,SMA Negeri 21 Sulawesi Selatan,C,6,2023,Aktif
+769,A22100769,Hj. Rahmi Lailasari,L,1998-04-09,36,SMA Negeri 50 Banten,B,10,2022,Aktif
+770,A20090770,Titin Yuliarti,L,2002-02-15,51,SMA Negeri 1 Bali,TT,9,2020,Cuti
+771,A20120771,Kiandra Usada,P,2001-01-08,13,SMA Negeri 20 Sumatera Barat,A,12,2020,Aktif
+772,A19010772,"Mulya Natsir, M.Ak",L,2007-10-01,61,SMA Negeri 45 Kalimantan Barat,B,1,2019,Aktif
+773,A22050773,Dr. Oman Nuraini,L,2007-01-31,91,SMA Negeri 3 Papua Barat,A,5,2022,Aktif
+774,A19080774,Marwata Utami,L,2004-12-31,64,SMA Negeri 38 Kalimantan Timur,A,8,2019,Aktif
+775,A20040775,"Nyoman Marpaung, M.Kom.",L,1999-02-02,35,SMA Negeri 37 Jawa Timur,B,4,2020,Lulus
+776,A23040776,Ade Nurdiyanti,L,2006-11-30,15,SMA Negeri 12 Jambi,B,4,2023,Aktif
+777,A22080777,Tira Suryatmi,L,2004-03-24,17,SMA Negeri 47 Bengkulu,B,8,2022,Aktif
+778,A18100778,Elvina Wahyudin,L,1998-02-06,71,SMA Negeri 28 Sulawesi Utara,A,10,2018,Aktif
+779,A19070779,"R. Gilda Hassanah, S.H.",P,2003-11-16,18,SMA Negeri 25 Lampung,A,7,2019,Lulus
+780,A22010780,"Dr. Respati Halimah, S.Farm",L,2004-11-13,61,SMA Negeri 35 Kalimantan Barat,A,1,2022,Aktif
+781,A20100781,Cemeti Santoso,L,2005-03-11,21,SMA Negeri 47 Kepulauan Riau,B,10,2020,Aktif
+782,A22070782,Harjasa Hastuti,L,2003-04-18,75,SMA Negeri 28 Gorontalo,A,7,2022,Aktif
+783,A19050783,R.M. Bahuwarna Mandala,L,2001-09-30,72,SMA Negeri 37 Sulawesi Tengah,A,5,2019,Aktif
+784,A22120784,"Endra Setiawan, S.Sos",L,2005-10-30,14,SMA Negeri 6 Riau,C,12,2022,Aktif
+785,A21070785,"Puti Nova Hartati, S.I.Kom",L,2008-05-11,91,SMA Negeri 13 Papua Barat,A,7,2021,Aktif
+786,A23080786,Asirwanda Mandala,P,1997-09-03,72,SMA Negeri 40 Sulawesi Tengah,B,8,2023,Aktif
+787,A19120787,Dadi Agustina,L,2000-09-03,94,SMA Negeri 28 Papua,B,12,2019,Aktif
+788,A18060788,Lili Pangestu,L,2004-05-31,16,SMA Negeri 13 Sumatera Selatan,C,6,2018,Aktif
+789,A22060789,Kenari Farida,L,2006-04-09,64,SMA Negeri 11 Kalimantan Timur,A,6,2022,Aktif
+790,A22060790,Cecep Anggraini,L,2005-07-26,75,SMA Negeri 3 Gorontalo,A,6,2022,Aktif
+791,A23040791,Jane Mandasari,L,2003-06-13,33,SMA Negeri 49 Jawa Tengah,B,4,2023,Aktif
+792,A18120792,Zizi Wacana,L,2006-07-27,16,SMA Negeri 10 Sumatera Selatan,A,12,2018,DO
+793,A20050793,Rini Iswahyudi,L,1999-06-19,11,SMA Negeri 2 Aceh,A,5,2020,Aktif
+794,A23060794,Ira Halimah,L,1999-07-17,34,SMA Negeri 35 DI Yogyakarta,B,6,2023,Aktif
+795,A22090795,Cindy Sitorus,P,2001-03-17,51,SMA Negeri 47 Bali,TT,9,2022,Aktif
+796,A21030796,Dt. Warta Wacana,L,1997-08-17,12,SMA Negeri 19 Sumatera Utara,A,3,2021,Aktif
+797,A18040797,Bakianto Novitasari,P,2005-07-29,52,SMA Negeri 5 Nusa Tenggara Barat,TT,4,2018,DO
+798,A23070798,Cici Firgantoro,L,2001-06-21,52,SMA Negeri 2 Nusa Tenggara Barat,B,7,2023,Aktif
+799,A19050799,Sabrina Usamah,P,2007-07-09,71,SMA Negeri 7 Sulawesi Utara,C,5,2019,Cuti
+800,A22060800,"Tgk. Warsa Sihombing, S.T.",L,2002-10-01,82,SMA Negeri 13 Maluku Utara,A,6,2022,Aktif
+801,A22090801,Bahuraksa Riyanti,L,1999-10-16,76,SMA Negeri 16 Sulawesi Barat,A,9,2022,Aktif
+802,A20090802,Natalia Waluyo,L,2002-03-18,61,SMA Negeri 2 Kalimantan Barat,TT,9,2020,Lulus
+803,A20060803,Kasusra Nasyiah,L,2001-05-01,64,SMA Negeri 33 Kalimantan Timur,B,6,2020,Cuti
+804,A23050804,Dr. Citra Waskita,L,2006-08-25,14,SMA Negeri 2 Riau,B,5,2023,Aktif
+805,A19090805,"Zahra Salahudin, S.Gz",L,2003-04-07,52,SMA Negeri 43 Nusa Tenggara Barat,A,9,2019,Lulus
+806,A23030806,Baktiono Farida,P,2001-08-24,16,SMA Negeri 44 Sumatera Selatan,C,3,2023,Aktif
+807,A21100807,Fitriani Saptono,P,2007-03-06,35,SMA Negeri 20 Jawa Timur,B,10,2021,Aktif
+808,A21100808,Jinawi Mayasari,L,1997-09-02,63,SMA Negeri 38 Kalimantan Selatan,A,10,2021,Lulus
+809,A19090809,Caraka Lailasari,P,2001-07-03,33,SMA Negeri 34 Jawa Tengah,B,9,2019,Lulus
+810,A19030810,Ciaobella Sihombing,L,2004-03-10,74,SMA Negeri 35 Sulawesi Tenggara,A,3,2019,Aktif
+811,A19120811,"Puti Qori Haryanti, M.M.",L,2008-01-14,18,SMA Negeri 49 Lampung,B,12,2019,Lulus
+812,A21060812,"Dr. Kacung Firmansyah, S.IP",L,2007-12-07,73,SMA Negeri 41 Sulawesi Selatan,B,6,2021,Lulus
+813,A19120813,Argono Hutasoit,L,1999-07-27,52,SMA Negeri 2 Nusa Tenggara Barat,B,12,2019,Aktif
+814,A22100814,"R. Mahmud Agustina, S.Sos",P,2005-10-04,52,SMA Negeri 15 Nusa Tenggara Barat,B,10,2022,Aktif
+815,A20040815,drg. Caturangga Prakasa,P,2000-02-15,12,SMA Negeri 9 Sumatera Utara,A,4,2020,Lulus
+816,A23090816,"Patricia Ardianto, S.Pt",L,2002-01-11,81,SMA Negeri 25 Maluku,B,9,2023,Aktif
+817,A19080817,"drg. Tari Sihotang, S.Sos",L,2001-10-15,81,SMA Negeri 27 Maluku,A,8,2019,Aktif
+818,A21010818,"drg. Ibun Sihombing, S.E.I",P,2007-01-28,52,SMA Negeri 13 Nusa Tenggara Barat,B,1,2021,Lulus
+819,A19040819,"Nadia Suryatmi, S.I.Kom",P,2000-05-20,15,SMA Negeri 21 Jambi,TT,4,2019,Aktif
+820,A21080820,Endah Mansur,L,2001-01-12,36,SMA Negeri 25 Banten,C,8,2021,Lulus
+821,A21120821,Zamira Sihombing,P,2004-08-17,62,SMA Negeri 30 Kalimantan Tengah,A,12,2021,Aktif
+822,A22010822,"Anastasia Novitasari, S.Psi",P,2003-01-18,36,SMA Negeri 3 Banten,C,1,2022,Aktif
+823,A22090823,"Oni Waskita, M.Pd",L,2006-09-06,71,SMA Negeri 19 Sulawesi Utara,A,9,2022,Aktif
+824,A20080824,Ir. Purwa Aryani,L,2007-09-12,72,SMA Negeri 19 Sulawesi Tengah,B,8,2020,Aktif
+825,A23100825,"Alambana Suryono, M.Pd",L,2003-11-17,14,SMA Negeri 42 Riau,A,10,2023,Aktif
+826,A23080826,"Warta Mansur, M.Farm",L,2007-10-16,16,SMA Negeri 50 Sumatera Selatan,A,8,2023,Aktif
+827,A21100827,Prasetyo Pradipta,L,1999-01-06,19,SMA Negeri 12 Kepulauan Bangka Belitung,C,10,2021,Aktif
+828,A21080828,Samiah Putra,L,1997-06-03,33,SMA Negeri 42 Jawa Tengah,A,8,2021,Aktif
+829,A23120829,Bahuwarna Hardiansyah,L,2005-04-06,31,SMA Negeri 8 DKI Jakarta,A,12,2023,Aktif
+830,A23120830,Sutan Heru Firgantoro,L,2003-03-09,75,SMA Negeri 34 Gorontalo,B,12,2023,Aktif
+831,A23120831,Icha Puspita,L,2005-01-09,71,SMA Negeri 36 Sulawesi Utara,A,12,2023,Aktif
+832,A19070832,Najwa Usamah,P,2001-07-18,13,SMA Negeri 10 Sumatera Barat,B,7,2019,Lulus
+833,A19030833,Yosef Siregar,L,2003-01-09,21,SMA Negeri 47 Kepulauan Riau,A,3,2019,Aktif
+834,A23080834,Dewi Januar,L,2002-02-01,53,SMA Negeri 9 Nusa Tenggara Timur,A,8,2023,Aktif
+835,A22040835,Ida Pradipta,L,1999-02-03,11,SMA Negeri 30 Aceh,B,4,2022,Aktif
+836,A22080836,Cengkir Nurdiyanti,P,2005-05-19,82,SMA Negeri 32 Maluku Utara,A,8,2022,Aktif
+837,A22040837,Keisha Handayani,L,2005-10-29,34,SMA Negeri 27 DI Yogyakarta,TT,4,2022,Aktif
+838,A22080838,"Darmana Maheswara, S.E.I",L,2004-04-25,16,SMA Negeri 36 Sumatera Selatan,A,8,2022,Aktif
+839,A18050839,Catur Anggriawan,L,1998-03-16,34,SMA Negeri 23 DI Yogyakarta,A,5,2018,Aktif
+840,A18010840,R. Fathonah Mustofa,L,2002-08-28,21,SMA Negeri 4 Kepulauan Riau,B,1,2018,DO
+841,A19020841,Dr. Puti Nasyiah,P,2007-10-25,73,SMA Negeri 43 Sulawesi Selatan,A,2,2019,Aktif
+842,A21120842,"Oni Lestari, M.TI.",L,1997-10-24,32,SMA Negeri 20 Jawa Barat,B,12,2021,Aktif
+843,A21060843,Kambali Waluyo,L,2000-03-11,65,SMA Negeri 5 Kalimantan Utara,A,6,2021,Lulus
+844,A19050844,Hj. Tari Rahmawati,P,2003-07-14,81,SMA Negeri 22 Maluku,A,5,2019,Lulus
+845,A22090845,Dian Yulianti,P,2007-06-25,73,SMA Negeri 14 Sulawesi Selatan,B,9,2022,Aktif
+846,A18100846,Patricia Rahayu,L,1998-10-18,14,SMA Negeri 39 Riau,A,10,2018,Lulus
+847,A21120847,Betania Nasyidah,L,2007-10-06,53,SMA Negeri 40 Nusa Tenggara Timur,B,12,2021,Lulus
+848,A22060848,Galang Prayoga,P,2002-03-27,19,SMA Negeri 47 Kepulauan Bangka Belitung,TT,6,2022,Aktif
+849,A21110849,"Tgk. Laras Widiastuti, M.Ak",P,2001-12-24,82,SMA Negeri 19 Maluku Utara,A,11,2021,Aktif
+850,A18040850,"Maya Handayani, S.I.Kom",L,1998-05-21,11,SMA Negeri 8 Aceh,A,4,2018,Lulus
+851,A22120851,T. Oskar Laksita,L,2005-09-26,34,SMA Negeri 3 DI Yogyakarta,C,12,2022,Aktif
+852,A22060852,"Alika Hutagalung, M.TI.",L,2004-07-31,64,SMA Negeri 41 Kalimantan Timur,B,6,2022,Aktif
+853,A20040853,Safina Firmansyah,L,2006-10-09,53,SMA Negeri 36 Nusa Tenggara Timur,A,4,2020,Aktif
+854,A18060854,"Hesti Saragih, S.Psi",L,2001-08-09,11,SMA Negeri 37 Aceh,B,6,2018,Aktif
+855,A19100855,Putri Ardianto,L,2008-02-16,12,SMA Negeri 44 Sumatera Utara,B,10,2019,Lulus
+856,A18080856,Rosman Januar,L,2002-03-25,81,SMA Negeri 30 Maluku,A,8,2018,Aktif
+857,A21090857,Ihsan Agustina,P,2001-05-11,63,SMA Negeri 34 Kalimantan Selatan,C,9,2021,Aktif
+858,A22050858,"Hj. Rini Handayani, S.E.I",L,2007-02-13,62,SMA Negeri 37 Kalimantan Tengah,A,5,2022,Aktif
+859,A20110859,Cawisono Handayani,L,2006-02-25,63,SMA Negeri 2 Kalimantan Selatan,A,11,2020,Aktif
+860,A23060860,"dr. Pia Laksita, S.Pt",P,2000-05-28,71,SMA Negeri 39 Sulawesi Utara,A,6,2023,Aktif
+861,A22070861,R. Yance Laksita,L,2007-10-21,32,SMA Negeri 46 Jawa Barat,A,7,2022,Aktif
+862,A20060862,Fitriani Suryono,L,2001-11-14,13,SMA Negeri 16 Sumatera Barat,C,6,2020,Aktif
+863,A20060863,Queen Maryati,P,2007-07-17,75,SMA Negeri 8 Gorontalo,B,6,2020,Aktif
+864,A19060864,"Dasa Padmasari, M.M.",L,2008-02-13,13,SMA Negeri 31 Sumatera Barat,A,6,2019,Lulus
+865,A19090865,Adika Rajasa,L,1999-06-21,21,SMA Negeri 34 Kepulauan Riau,B,9,2019,Lulus
+866,A19050866,"Anggabaya Prabowo, S.E.I",P,1997-10-11,62,SMA Negeri 9 Kalimantan Tengah,A,5,2019,Lulus
+867,A21040867,Sutan Balamantri Rahmawati,P,2004-12-08,13,SMA Negeri 8 Sumatera Barat,C,4,2021,Lulus
+868,A18010868,Shania Lestari,L,1998-04-24,61,SMA Negeri 3 Kalimantan Barat,A,1,2018,Aktif
+869,A23020869,"Elvina Yuliarti, S.IP",L,2008-05-06,94,SMA Negeri 37 Papua,B,2,2023,Aktif
+870,A20050870,"Cengkir Kurniawan, M.Ak",L,2007-08-01,34,SMA Negeri 35 DI Yogyakarta,B,5,2020,Aktif
+871,A23060871,Drs. Hilda Mahendra,L,2007-02-14,75,SMA Negeri 10 Gorontalo,A,6,2023,Aktif
+872,A18030872,Hana Susanti,P,2002-03-20,52,SMA Negeri 7 Nusa Tenggara Barat,A,3,2018,Lulus
+873,A22040873,Purwa Permata,L,2002-09-11,64,SMA Negeri 10 Kalimantan Timur,B,4,2022,Aktif
+874,A22120874,Drs. Jaeman Pertiwi,L,2006-03-18,53,SMA Negeri 5 Nusa Tenggara Timur,B,12,2022,Aktif
+875,A22050875,Jane Namaga,L,2003-10-11,63,SMA Negeri 9 Kalimantan Selatan,TT,5,2022,Aktif
+876,A23010876,Mala Safitri,L,1998-05-07,81,SMA Negeri 25 Maluku,A,1,2023,Aktif
+877,A21010877,Putu Firgantoro,L,1997-08-18,16,SMA Negeri 38 Sumatera Selatan,C,1,2021,Lulus
+878,A22110878,Nilam Lestari,L,1999-06-18,75,SMA Negeri 22 Gorontalo,B,11,2022,Aktif
+879,A21040879,Puti Tari Rahmawati,L,2001-09-26,16,SMA Negeri 45 Sumatera Selatan,A,4,2021,Lulus
+880,A21080880,Lukman Puspita,P,2000-07-22,17,SMA Negeri 50 Bengkulu,B,8,2021,Lulus
+881,A19080881,Ilyas Sitompul,L,1997-07-31,81,SMA Negeri 40 Maluku,B,8,2019,Lulus
+882,A21050882,Laila Astuti,P,2003-10-23,65,SMA Negeri 22 Kalimantan Utara,A,5,2021,DO
+883,A21060883,"Dr. Maimunah Farida, S.Ked",L,2006-07-26,76,SMA Negeri 23 Sulawesi Barat,A,6,2021,Aktif
+884,A19080884,Balapati Sihombing,L,2004-04-15,76,SMA Negeri 9 Sulawesi Barat,B,8,2019,Lulus
+885,A21090885,"Tgk. Yuliana Suartini, S.Pt",L,1998-10-18,17,SMA Negeri 5 Bengkulu,A,9,2021,Lulus
+886,A21050886,Nadine Salahudin,L,2001-08-19,76,SMA Negeri 36 Sulawesi Barat,C,5,2021,Lulus
+887,A21030887,Umay Yuliarti,L,1999-07-11,81,SMA Negeri 45 Maluku,A,3,2021,Aktif
+888,A21100888,Radit Andriani,P,2000-05-10,74,SMA Negeri 12 Sulawesi Tenggara,B,10,2021,Lulus
+889,A23110889,Diana Yolanda,L,2008-04-14,15,SMA Negeri 38 Jambi,TT,11,2023,Aktif
+890,A20100890,Safina Manullang,L,2000-04-17,76,SMA Negeri 26 Sulawesi Barat,A,10,2020,Aktif
+891,A23020891,Nasrullah Sirait,L,2001-11-30,17,SMA Negeri 32 Bengkulu,C,2,2023,Aktif
+892,A18110892,Purwanto Uyainah,L,1999-02-28,14,SMA Negeri 49 Riau,B,11,2018,Lulus
+893,A19110893,Prima Gunarto,L,2005-03-18,11,SMA Negeri 25 Aceh,A,11,2019,Lulus
+894,A19100894,Hafshah Hutagalung,P,1997-11-20,75,SMA Negeri 20 Gorontalo,B,10,2019,Lulus
+895,A21100895,"Yunita Maulana, S.Kom",L,2003-08-11,61,SMA Negeri 40 Kalimantan Barat,B,10,2021,Lulus
+896,A19090896,Winda Yulianti,L,1998-06-10,72,SMA Negeri 36 Sulawesi Tengah,B,9,2019,Aktif
+897,A23010897,"Marwata Mandasari, S.Ked",L,2003-12-14,11,SMA Negeri 19 Aceh,B,1,2023,Aktif
+898,A21010898,drg. Zelaya Safitri,P,2005-02-15,36,SMA Negeri 25 Banten,C,1,2021,Aktif
+899,A21070899,Kanda Pertiwi,P,2004-10-09,71,SMA Negeri 9 Sulawesi Utara,B,7,2021,Aktif
+900,A20040900,Latika Nasyiah,L,2008-02-17,71,SMA Negeri 43 Sulawesi Utara,C,4,2020,Aktif
+901,A18030901,Banawa Zulaika,P,1998-02-06,19,SMA Negeri 47 Kepulauan Bangka Belitung,A,3,2018,Aktif
+902,A19080902,R.M. Heru Sitorus,L,2002-11-18,74,SMA Negeri 27 Sulawesi Tenggara,A,8,2019,Lulus
+903,A22080903,Gawati Iswahyudi,L,2007-03-07,74,SMA Negeri 33 Sulawesi Tenggara,A,8,2022,Aktif
+904,A21070904,Estiawan Thamrin,L,2006-04-19,75,SMA Negeri 39 Gorontalo,B,7,2021,Aktif
+905,A23010905,Anom Utami,P,2006-05-23,82,SMA Negeri 33 Maluku Utara,B,1,2023,Aktif
+906,A22050906,Sakti Samosir,L,2003-04-19,73,SMA Negeri 3 Sulawesi Selatan,B,5,2022,Aktif
+907,A23100907,Uli Kusmawati,L,2000-09-22,81,SMA Negeri 38 Maluku,B,10,2023,Aktif
+908,A19080908,Joko Hartati,L,2007-02-24,16,SMA Negeri 34 Sumatera Selatan,B,8,2019,Lulus
+909,A19100909,"Arta Samosir, S.Farm",P,1998-05-09,16,SMA Negeri 43 Sumatera Selatan,TT,10,2019,Lulus
+910,A22020910,Karimah Nugroho,L,1999-02-06,61,SMA Negeri 35 Kalimantan Barat,A,2,2022,Aktif
+911,A21010911,Ani Tamba,P,2006-07-04,81,SMA Negeri 27 Maluku,TT,1,2021,Lulus
+912,A20060912,Endra Yuliarti,L,1998-05-14,53,SMA Negeri 39 Nusa Tenggara Timur,A,6,2020,Lulus
+913,A23120913,Clara Rahayu,L,2002-12-05,61,SMA Negeri 41 Kalimantan Barat,B,12,2023,Aktif
+914,A22080914,Kuncara Mangunsong,P,2002-08-28,31,SMA Negeri 19 DKI Jakarta,A,8,2022,Aktif
+915,A20120915,"Dr. Elisa Wijaya, S.Pt",L,2007-12-01,12,SMA Negeri 5 Sumatera Utara,TT,12,2020,Aktif
+916,A19050916,Najwa Laksmiwati,L,1997-11-26,51,SMA Negeri 1 Bali,B,5,2019,Lulus
+917,A22120917,Silvia Mahendra,P,2001-05-29,18,SMA Negeri 48 Lampung,A,12,2022,Aktif
+918,A20030918,Azalea Hartati,L,2007-03-13,75,SMA Negeri 16 Gorontalo,A,3,2020,Lulus
+919,A22080919,"Puti Oliva Nasyidah, S.IP",L,2001-09-23,32,SMA Negeri 6 Jawa Barat,A,8,2022,Aktif
+920,A21030920,Paris Prabowo,L,2002-11-20,21,SMA Negeri 29 Kepulauan Riau,C,3,2021,Aktif
+921,A19120921,Ifa Usamah,L,1998-03-07,31,SMA Negeri 49 DKI Jakarta,B,12,2019,Lulus
+922,A19020922,Ir. Kadir Prasetya,L,2005-01-16,14,SMA Negeri 31 Riau,TT,2,2019,Aktif
+923,A21120923,Yani Thamrin,L,2002-03-05,35,SMA Negeri 34 Jawa Timur,C,12,2021,Aktif
+924,A20070924,Opung Nainggolan,L,1999-03-18,11,SMA Negeri 34 Aceh,TT,7,2020,Lulus
+925,A18110925,Putri Permadi,L,2005-06-30,13,SMA Negeri 42 Sumatera Barat,B,11,2018,Lulus
+926,A20050926,"R. Dwi Aryani, M.M.",L,1999-11-17,63,SMA Negeri 38 Kalimantan Selatan,B,5,2020,Aktif
+927,A23070927,Martaka Suwarno,P,2007-09-29,76,SMA Negeri 44 Sulawesi Barat,B,7,2023,Aktif
+928,A22100928,"Dt. Oman Wijaya, S.Gz",P,2002-04-01,33,SMA Negeri 45 Jawa Tengah,B,10,2022,Aktif
+929,A22030929,"Puti Jelita Irawan, S.T.",P,2000-07-05,62,SMA Negeri 1 Kalimantan Tengah,A,3,2022,Aktif
+930,A21020930,Eka Habibi,P,2006-07-26,11,SMA Negeri 29 Aceh,A,2,2021,Aktif
+931,A23060931,Fitriani Simbolon,L,2003-12-05,35,SMA Negeri 13 Jawa Timur,B,6,2023,Aktif
+932,A22010932,Aurora Rajata,L,2001-11-02,12,SMA Negeri 39 Sumatera Utara,A,1,2022,Aktif
+933,A22110933,"Zulfa Usamah, M.M.",P,2005-01-19,34,SMA Negeri 8 DI Yogyakarta,A,11,2022,Aktif
+934,A21020934,Martaka Narpati,L,2000-07-23,19,SMA Negeri 17 Kepulauan Bangka Belitung,A,2,2021,Lulus
+935,A23050935,R. Jumadi Suryatmi,P,2001-12-07,76,SMA Negeri 30 Sulawesi Barat,A,5,2023,Aktif
+936,A23050936,"Ulva Anggriawan, S.Pt",L,1999-05-26,74,SMA Negeri 11 Sulawesi Tenggara,B,5,2023,Aktif
+937,A18020937,Asmuni Siregar,L,1999-09-22,52,SMA Negeri 4 Nusa Tenggara Barat,C,2,2018,Aktif
+938,A19050938,Ade Sirait,L,1997-08-18,51,SMA Negeri 13 Bali,TT,5,2019,Aktif
+939,A19100939,"Tgk. Iriana Wulandari, S.H.",L,2006-09-04,72,SMA Negeri 50 Sulawesi Tengah,TT,10,2019,Aktif
+940,A22070940,Bakidin Sihombing,L,2005-02-01,34,SMA Negeri 46 DI Yogyakarta,A,7,2022,Aktif
+941,A18050941,"Lili Widiastuti, S.E.",L,2001-01-10,17,SMA Negeri 17 Bengkulu,A,5,2018,Lulus
+942,A21080942,Perkasa Saputra,P,2002-12-18,12,SMA Negeri 3 Sumatera Utara,A,8,2021,Lulus
+943,A20110943,"Hesti Wijayanti, S.Ked",P,1999-07-23,71,SMA Negeri 26 Sulawesi Utara,A,11,2020,Aktif
+944,A22100944,drg. Elisa Situmorang,L,2002-02-20,11,SMA Negeri 28 Aceh,TT,10,2022,Aktif
+945,A22070945,"Dadi Suryatmi, S.Sos",L,2007-06-09,15,SMA Negeri 25 Jambi,B,7,2022,Aktif
+946,A18120946,Gamanto Kurniawan,L,2004-06-25,81,SMA Negeri 26 Maluku,B,12,2018,Lulus
+947,A20010947,Eli Anggraini,L,2001-10-01,16,SMA Negeri 49 Sumatera Selatan,B,1,2020,Lulus
+948,A19050948,"drg. Mala Nugroho, S.H.",L,1997-12-19,33,SMA Negeri 20 Jawa Tengah,A,5,2019,Lulus
+949,A18120949,Shakila Widiastuti,L,2007-07-07,71,SMA Negeri 41 Sulawesi Utara,B,12,2018,Aktif
+950,A19080950,Salman Nugroho,L,1999-11-01,33,SMA Negeri 38 Jawa Tengah,A,8,2019,Aktif
+951,A21040951,Jelita Wijayanti,P,2004-08-27,82,SMA Negeri 32 Maluku Utara,A,4,2021,Lulus
+952,A18090952,Tami Lazuardi,L,2001-11-23,75,SMA Negeri 47 Gorontalo,A,9,2018,Aktif
+953,A18010953,dr. Kamaria Rajata,P,2006-11-10,72,SMA Negeri 30 Sulawesi Tengah,B,1,2018,Lulus
+954,A23110954,"Ratna Winarsih, S.T.",L,2007-11-16,21,SMA Negeri 3 Kepulauan Riau,B,11,2023,Aktif
+955,A21120955,"Sari Waluyo, S.Farm",L,2002-08-05,21,SMA Negeri 40 Kepulauan Riau,A,12,2021,DO
+956,A23010956,Wadi Kuswandari,L,1998-01-21,36,SMA Negeri 12 Banten,A,1,2023,Aktif
+957,A20110957,Hardi Wijaya,L,2005-03-11,14,SMA Negeri 38 Riau,A,11,2020,Lulus
+958,A18020958,Asirwanda Hastuti,P,2004-07-04,17,SMA Negeri 15 Bengkulu,TT,2,2018,Lulus
+959,A21020959,Ir. Febi Maulana,P,2001-10-20,33,SMA Negeri 21 Jawa Tengah,B,2,2021,Lulus
+960,A20020960,Galih Purnawati,L,2004-05-15,19,SMA Negeri 22 Kepulauan Bangka Belitung,B,2,2020,Lulus
+961,A20020961,Asmianto Hariyah,L,1997-12-27,18,SMA Negeri 24 Lampung,A,2,2020,Aktif
+962,A21090962,Elon Lestari,P,2001-01-22,31,SMA Negeri 7 DKI Jakarta,B,9,2021,Aktif
+963,A19110963,dr. Zelda Prabowo,L,2005-07-06,71,SMA Negeri 1 Sulawesi Utara,A,11,2019,Aktif
+964,A23030964,Janet Prabowo,L,2002-05-29,16,SMA Negeri 45 Sumatera Selatan,B,3,2023,Aktif
+965,A19080965,Raisa Nasyiah,P,2003-08-17,19,SMA Negeri 29 Kepulauan Bangka Belitung,A,8,2019,Aktif
+966,A19070966,"Drs. Zamira Marpaung, S.IP",P,2000-11-03,36,SMA Negeri 32 Banten,A,7,2019,Aktif
+967,A23100967,"Maryadi Mahendra, S.Ked",L,2002-02-22,16,SMA Negeri 27 Sumatera Selatan,B,10,2023,Aktif
+968,A19010968,Calista Prabowo,P,2002-09-10,36,SMA Negeri 40 Banten,A,1,2019,Cuti
+969,A19060969,Raden Puspita,P,2005-02-18,91,SMA Negeri 18 Papua Barat,TT,6,2019,Lulus
+970,A18010970,"drg. Jarwadi Widodo, S.Gz",P,2003-08-18,33,SMA Negeri 31 Jawa Tengah,A,1,2018,Lulus
+971,A19080971,"Cindy Winarno, S.Farm",L,1999-08-29,32,SMA Negeri 19 Jawa Barat,A,8,2019,Lulus
+972,A20040972,Agus Puspasari,P,2007-06-05,74,SMA Negeri 49 Sulawesi Tenggara,B,4,2020,Lulus
+973,A18080973,Kalim Wahyuni,P,2004-07-30,13,SMA Negeri 2 Sumatera Barat,A,8,2018,Aktif
+974,A18080974,"Keisha Dongoran, S.Ked",L,2003-01-09,91,SMA Negeri 38 Papua Barat,A,8,2018,Lulus
+975,A21100975,"Hj. Carla Prasetya, S.Pt",P,2006-01-03,62,SMA Negeri 21 Kalimantan Tengah,B,10,2021,Lulus
+976,A20040976,"Okto Narpati, M.Ak",L,2007-09-07,18,SMA Negeri 27 Lampung,B,4,2020,Aktif
+977,A19040977,Lamar Hutasoit,L,1998-09-07,71,SMA Negeri 4 Sulawesi Utara,A,4,2019,Lulus
+978,A19070978,drg. Wage Adriansyah,L,2005-02-18,21,SMA Negeri 9 Kepulauan Riau,TT,7,2019,Aktif
+979,A23080979,Garang Firmansyah,L,1998-08-25,33,SMA Negeri 13 Jawa Tengah,B,8,2023,Aktif
+980,A18060980,Cakrabuana Firgantoro,L,1998-08-17,19,SMA Negeri 30 Kepulauan Bangka Belitung,A,6,2018,Aktif
+981,A19080981,R.M. Lutfan Halim,L,1998-08-30,73,SMA Negeri 39 Sulawesi Selatan,B,8,2019,Lulus
+982,A22030982,"Jail Kusumo, S.Psi",L,2001-05-22,31,SMA Negeri 27 DKI Jakarta,B,3,2022,Aktif
+983,A19090983,Reksa Suryono,L,2002-02-26,82,SMA Negeri 47 Maluku Utara,TT,9,2019,Aktif
+984,A19070984,"dr. Tiara Putra, S.T.",L,2006-03-24,36,SMA Negeri 38 Banten,B,7,2019,Lulus
+985,A21030985,Kawaya Sudiati,L,2008-01-13,11,SMA Negeri 47 Aceh,A,3,2021,Cuti
+986,A21090986,Parman Siregar,L,2006-03-22,13,SMA Negeri 45 Sumatera Barat,C,9,2021,Lulus
+987,A21020987,Bancar Haryanti,L,2004-09-19,75,SMA Negeri 1 Gorontalo,B,2,2021,Lulus
+988,A19120988,Ikin Rahayu,L,2001-11-30,73,SMA Negeri 42 Sulawesi Selatan,A,12,2019,Aktif
+989,A21020989,"dr. Narji Melani, S.IP",L,2003-01-19,12,SMA Negeri 37 Sumatera Utara,B,2,2021,Lulus
+990,A21120990,"Yulia Kuswandari, S.Psi",L,2006-11-14,12,SMA Negeri 26 Sumatera Utara,TT,12,2021,Lulus
+991,A23030991,Hesti Sudiati,P,2005-03-03,65,SMA Negeri 41 Kalimantan Utara,TT,3,2023,Aktif
+992,A21010992,"dr. Cahyanto Tarihoran, M.Kom.",P,2002-07-30,15,SMA Negeri 28 Jambi,B,1,2021,Aktif
+993,A23050993,Asmadi Winarsih,P,1999-08-14,34,SMA Negeri 22 DI Yogyakarta,A,5,2023,Aktif
+994,A22120994,"Drs. Uchita Samosir, S.E.I",L,2004-08-29,14,SMA Negeri 8 Riau,B,12,2022,Aktif
+995,A21070995,Warta Yuliarti,L,1999-11-30,65,SMA Negeri 42 Kalimantan Utara,A,7,2021,Aktif
+996,A22090996,Ibrahim Agustina,L,2001-03-07,15,SMA Negeri 22 Jambi,B,9,2022,Aktif
+997,A23040997,T. Marwata Gunarto,P,2002-04-22,18,SMA Negeri 49 Lampung,TT,4,2023,Aktif
+998,A23100998,Martani Andriani,L,2005-10-09,34,SMA Negeri 23 DI Yogyakarta,B,10,2023,Aktif
+999,A23050999,"T. Langgeng Susanti, M.TI.",L,2001-03-14,91,SMA Negeri 4 Papua Barat,C,5,2023,Aktif
+1000,A20021000,KH. Praba Wibisono,L,2007-05-20,65,SMA Negeri 8 Kalimantan Utara,TT,2,2020,Lulus
+1001,A21081001,Vera Rahayu,P,2002-02-13,53,SMA Negeri 5 Nusa Tenggara Timur,B,8,2021,DO
+1002,A18041002,Fathonah Susanti,L,2004-01-16,76,SMA Negeri 19 Sulawesi Barat,A,4,2018,Lulus
+1003,A19021003,"Catur Siregar, S.H.",L,1999-08-08,17,SMA Negeri 32 Bengkulu,B,2,2019,Lulus
+1004,A22031004,Ghaliyati Nasyiah,L,2001-12-23,34,SMA Negeri 27 DI Yogyakarta,A,3,2022,Aktif
+1005,A21111005,Gasti Padmasari,L,2003-12-27,19,SMA Negeri 42 Kepulauan Bangka Belitung,B,11,2021,Aktif
+1006,A19011006,Darijan Susanti,L,2001-03-26,53,SMA Negeri 15 Nusa Tenggara Timur,A,1,2019,Lulus
+1007,A21091007,"Nova Hassanah, M.Pd",P,2007-08-25,63,SMA Negeri 21 Kalimantan Selatan,B,9,2021,Lulus
+1008,A22081008,Harto Mansur,L,1997-08-22,94,SMA Negeri 20 Papua,TT,8,2022,Aktif
+1009,A20101009,"Zulfa Thamrin, S.Sos",L,2000-07-31,19,SMA Negeri 24 Kepulauan Bangka Belitung,A,10,2020,Aktif
+1010,A19051010,Ade Simanjuntak,L,2006-08-25,14,SMA Negeri 11 Riau,B,5,2019,Aktif
+1011,A23101011,"Zamira Aryani, S.E.I",L,2000-03-18,31,SMA Negeri 12 DKI Jakarta,B,10,2023,Aktif
+1012,A19121012,Kiandra Nurdiyanti,L,1998-09-12,21,SMA Negeri 21 Kepulauan Riau,B,12,2019,Aktif
+1013,A21101013,"Waluyo Pradana, S.Gz",L,2004-08-19,19,SMA Negeri 36 Kepulauan Bangka Belitung,B,10,2021,Aktif
+1014,A23121014,"Oni Dongoran, S.Pd",L,2006-11-04,13,SMA Negeri 10 Sumatera Barat,B,12,2023,Aktif
+1015,A22061015,Vanesa Maheswara,P,2000-01-20,75,SMA Negeri 20 Gorontalo,A,6,2022,Aktif
+1016,A21021016,Baktianto Ardianto,L,2006-10-24,12,SMA Negeri 21 Sumatera Utara,TT,2,2021,DO
+1017,A23031017,"dr. Carla Uyainah, M.Pd",P,2002-07-24,11,SMA Negeri 46 Aceh,B,3,2023,Aktif
+1018,A20051018,Adika Suryono,P,2004-12-24,81,SMA Negeri 29 Maluku,A,5,2020,Lulus
+1019,A23061019,Lalita Hartati,L,2007-03-08,18,SMA Negeri 9 Lampung,TT,6,2023,Aktif
+1020,A20111020,Drs. Bakiono Kusumo,L,2005-07-31,18,SMA Negeri 15 Lampung,A,11,2020,Lulus
+1021,A18081021,Jaeman Wulandari,L,2005-05-21,64,SMA Negeri 13 Kalimantan Timur,B,8,2018,Lulus
+1022,A19101022,Keisha Dongoran,L,1998-05-21,94,SMA Negeri 35 Papua,B,10,2019,Aktif
+1023,A22081023,Drs. Kani Tamba,L,2003-07-02,16,SMA Negeri 32 Sumatera Selatan,C,8,2022,Aktif
+1024,A18061024,Kenari Prakasa,L,2005-04-26,91,SMA Negeri 28 Papua Barat,B,6,2018,Aktif
+1025,A20061025,Ika Saefullah,L,2007-07-04,71,SMA Negeri 20 Sulawesi Utara,A,6,2020,Aktif
+1026,A19081026,"Sutan Asmianto Widiastuti, M.Pd",P,2000-06-27,16,SMA Negeri 29 Sumatera Selatan,TT,8,2019,Cuti
+1027,A23051027,"Hana Gunarto, M.Farm",P,2005-01-08,31,SMA Negeri 27 DKI Jakarta,C,5,2023,Aktif
+1028,A19031028,Hasna Prastuti,L,1999-09-11,16,SMA Negeri 34 Sumatera Selatan,B,3,2019,Aktif
+1029,A22061029,Dr. Rini Wibowo,L,2006-10-13,15,SMA Negeri 1 Jambi,C,6,2022,Aktif
+1030,A21071030,"drg. Tami Permata, M.M.",P,2006-05-03,52,SMA Negeri 37 Nusa Tenggara Barat,A,7,2021,Aktif
+1031,A19031031,Wirda Adriansyah,L,2001-03-01,33,SMA Negeri 3 Jawa Tengah,C,3,2019,Lulus
+1032,A21051032,Qori Rajata,L,2006-03-26,61,SMA Negeri 1 Kalimantan Barat,TT,5,2021,Aktif
+1033,A20031033,"R. Keisha Sihotang, S.IP",L,1999-09-20,51,SMA Negeri 19 Bali,TT,3,2020,Lulus
+1034,A21071034,Puti Farida,L,2008-03-19,32,SMA Negeri 18 Jawa Barat,B,7,2021,Aktif
+1035,A22081035,Tina Habibi,P,1998-02-26,15,SMA Negeri 31 Jambi,B,8,2022,Aktif
+1036,A20101036,Salsabila Lazuardi,P,1998-04-07,74,SMA Negeri 24 Sulawesi Tenggara,TT,10,2020,Lulus
+1037,A20091037,Tira Rajata,P,2001-12-22,12,SMA Negeri 21 Sumatera Utara,A,9,2020,Aktif
+1038,A20081038,Fitriani Hutapea,L,2004-05-24,19,SMA Negeri 27 Kepulauan Bangka Belitung,A,8,2020,Aktif
+1039,A18111039,Oskar Simanjuntak,L,2001-12-05,64,SMA Negeri 5 Kalimantan Timur,B,11,2018,Lulus
+1040,A23091040,Tira Siregar,L,2008-01-01,33,SMA Negeri 39 Jawa Tengah,A,9,2023,Aktif
+1041,A20031041,Dina Usamah,L,2005-09-01,62,SMA Negeri 45 Kalimantan Tengah,B,3,2020,Lulus
+1042,A22061042,Cici Narpati,L,2007-08-02,17,SMA Negeri 1 Bengkulu,B,6,2022,Aktif
+1043,A20031043,Jais Sirait,L,2004-07-08,94,SMA Negeri 11 Papua,B,3,2020,Aktif
+1044,A19021044,"Hj. Calista Hardiansyah, S.I.Kom",L,2003-11-15,34,SMA Negeri 36 DI Yogyakarta,B,2,2019,Lulus
+1045,A22101045,Ella Sihombing,L,2002-01-16,94,SMA Negeri 30 Papua,A,10,2022,Aktif
+1046,A19021046,Marwata Kuswoyo,L,2000-11-04,18,SMA Negeri 45 Lampung,A,2,2019,Aktif
+1047,A21061047,"dr. Ratna Pradana, S.E.",L,2004-12-20,19,SMA Negeri 2 Kepulauan Bangka Belitung,B,6,2021,Lulus
+1048,A19121048,Bakijan Susanti,P,2003-10-17,18,SMA Negeri 15 Lampung,A,12,2019,Aktif
+1049,A19051049,Indra Halimah,L,1999-05-07,19,SMA Negeri 49 Kepulauan Bangka Belitung,A,5,2019,Aktif
+1050,A18021050,Sutan Nasim Maryadi,L,1997-08-01,15,SMA Negeri 7 Jambi,TT,2,2018,Aktif
+1051,A22011051,Rahayu Salahudin,L,2000-02-15,91,SMA Negeri 8 Papua Barat,A,1,2022,Aktif
+1052,A18051052,"R. Hari Fujiati, S.E.I",P,2004-07-07,13,SMA Negeri 7 Sumatera Barat,B,5,2018,Aktif
+1053,A22021053,Daruna Nurdiyanti,L,1999-11-25,34,SMA Negeri 43 DI Yogyakarta,B,2,2022,Aktif
+1054,A18061054,Elvina Anggraini,P,2003-11-19,12,SMA Negeri 38 Sumatera Utara,A,6,2018,DO
+1055,A19061055,Vivi Situmorang,P,2000-11-22,64,SMA Negeri 7 Kalimantan Timur,B,6,2019,Lulus
+1056,A22101056,Hani Hariyah,P,2002-07-28,11,SMA Negeri 13 Aceh,B,10,2022,Aktif
+1057,A22051057,Amalia Prastuti,P,1999-02-13,31,SMA Negeri 7 DKI Jakarta,A,5,2022,Aktif
+1058,A23041058,"Rusman Nashiruddin, M.Ak",L,1998-02-13,91,SMA Negeri 45 Papua Barat,TT,4,2023,Aktif
+1059,A21101059,Humaira Laksita,L,2003-03-20,32,SMA Negeri 25 Jawa Barat,A,10,2021,Lulus
+1060,A22071060,"Puti Siska Pertiwi, S.Kom",L,1998-04-14,34,SMA Negeri 8 DI Yogyakarta,B,7,2022,Aktif
+1061,A21061061,Argono Waskita,P,2006-09-17,18,SMA Negeri 49 Lampung,A,6,2021,Aktif
+1062,A22061062,Drs. Cawuk Wahyudin,L,2004-08-01,53,SMA Negeri 21 Nusa Tenggara Timur,A,6,2022,Aktif
+1063,A21081063,Cinta Prasasta,L,2007-02-19,18,SMA Negeri 20 Lampung,B,8,2021,Lulus
+1064,A19111064,"Kezia Winarno, M.Ak",L,1997-12-09,75,SMA Negeri 28 Gorontalo,C,11,2019,Cuti
+1065,A21041065,Dono Iswahyudi,L,2007-05-29,15,SMA Negeri 44 Jambi,B,4,2021,Aktif
+1066,A21081066,Tgk. Umi Kurniawan,P,2000-01-01,17,SMA Negeri 6 Bengkulu,TT,8,2021,Lulus
+1067,A21021067,drg. Puput Uyainah,P,2003-01-30,21,SMA Negeri 7 Kepulauan Riau,C,2,2021,Lulus
+1068,A18121068,Ifa Napitupulu,L,1997-05-31,31,SMA Negeri 39 DKI Jakarta,B,12,2018,Aktif
+1069,A19071069,Ida Mustofa,P,2007-11-17,18,SMA Negeri 49 Lampung,C,7,2019,Aktif
+1070,A23121070,R.A. Fathonah Prayoga,L,1998-06-27,52,SMA Negeri 31 Nusa Tenggara Barat,C,12,2023,Aktif
+1071,A21111071,"dr. Edison Anggriawan, M.Pd",L,2003-05-19,72,SMA Negeri 7 Sulawesi Tengah,B,11,2021,Lulus
+1072,A21021072,Jagapati Iswahyudi,L,2004-02-26,51,SMA Negeri 9 Bali,TT,2,2021,Lulus
+1073,A23011073,Faizah Wahyudin,L,2005-01-30,17,SMA Negeri 32 Bengkulu,A,1,2023,Aktif
+1074,A19111074,Rafi Sudiati,P,2006-06-06,12,SMA Negeri 10 Sumatera Utara,C,11,2019,Lulus
+1075,A18051075,Rika Wasita,L,2005-06-29,17,SMA Negeri 43 Bengkulu,TT,5,2018,Aktif
+1076,A22081076,Rama Ramadan,P,2007-11-22,82,SMA Negeri 22 Maluku Utara,B,8,2022,Aktif
+1077,A18091077,Ina Haryanto,L,1997-07-04,12,SMA Negeri 21 Sumatera Utara,C,9,2018,Aktif
+1078,A21071078,Fitria Wijayanti,L,2006-12-21,75,SMA Negeri 43 Gorontalo,A,7,2021,Aktif
+1079,A21051079,Rachel Narpati,L,2007-09-08,31,SMA Negeri 25 DKI Jakarta,C,5,2021,Aktif
+1080,A22081080,Hartaka Rahimah,P,1999-04-08,18,SMA Negeri 36 Lampung,TT,8,2022,Aktif
+1081,A21111081,Hani Usamah,P,2002-11-03,81,SMA Negeri 17 Maluku,A,11,2021,Aktif
+1082,A22081082,"Jaka Nugroho, S.Sos",L,2006-03-04,71,SMA Negeri 21 Sulawesi Utara,B,8,2022,Aktif
+1083,A22011083,Almira Mayasari,L,2003-01-06,12,SMA Negeri 24 Sumatera Utara,A,1,2022,Aktif
+1084,A23061084,Dr. Agnes Santoso,L,2006-08-23,12,SMA Negeri 7 Sumatera Utara,B,6,2023,Aktif
+1085,A20071085,Gangsa Putra,L,1997-12-12,64,SMA Negeri 16 Kalimantan Timur,C,7,2020,Aktif
+1086,A23041086,"Cahyono Pranowo, S.Kom",P,1998-02-28,36,SMA Negeri 6 Banten,B,4,2023,Aktif
+1087,A20121087,"Cinta Irawan, S.Farm",L,2006-01-25,15,SMA Negeri 35 Jambi,A,12,2020,Aktif
+1088,A21061088,"Cinthia Uyainah, S.H.",P,2000-11-04,13,SMA Negeri 27 Sumatera Barat,C,6,2021,Lulus
+1089,A23051089,Najib Oktaviani,P,2007-03-13,12,SMA Negeri 2 Sumatera Utara,TT,5,2023,Aktif
+1090,A22061090,Hj. Yani Waluyo,L,2007-10-29,71,SMA Negeri 37 Sulawesi Utara,C,6,2022,Aktif
+1091,A18021091,Unggul Saputra,L,2007-05-16,82,SMA Negeri 49 Maluku Utara,B,2,2018,Aktif
+1092,A19111092,"Himawan Hutapea, S.Pt",L,2000-01-26,63,SMA Negeri 13 Kalimantan Selatan,B,11,2019,Cuti
+1093,A22081093,Michelle Pratiwi,L,2003-04-18,15,SMA Negeri 17 Jambi,B,8,2022,Aktif
+1094,A22011094,Ana Usamah,L,1999-04-22,61,SMA Negeri 40 Kalimantan Barat,C,1,2022,Aktif
+1095,A23121095,Reza Halim,P,2004-03-28,16,SMA Negeri 22 Sumatera Selatan,A,12,2023,Aktif
+1096,A22051096,Dina Saputra,L,2002-02-05,15,SMA Negeri 14 Jambi,TT,5,2022,Aktif
+1097,A23061097,Rendy Ardianto,P,2001-10-13,15,SMA Negeri 20 Jambi,B,6,2023,Aktif
+1098,A19071098,"Nadia Purnawati, S.T.",L,1998-10-24,62,SMA Negeri 33 Kalimantan Tengah,C,7,2019,Aktif
+1099,A18081099,R. Maida Uyainah,P,2001-08-13,32,SMA Negeri 43 Jawa Barat,A,8,2018,Aktif
+1100,A20121100,Kezia Pradipta,P,2004-03-23,76,SMA Negeri 4 Sulawesi Barat,C,12,2020,Lulus
+1101,A20091101,Tina Sihotang,L,2008-05-24,33,SMA Negeri 48 Jawa Tengah,TT,9,2020,Aktif
+1102,A21111102,R.M. Jumadi Iswahyudi,L,2000-07-15,61,SMA Negeri 5 Kalimantan Barat,C,11,2021,Lulus
+1103,A21111103,"Puti Rachel Kusumo, M.Pd",L,2004-01-26,34,SMA Negeri 17 DI Yogyakarta,B,11,2021,Lulus
+1104,A21111104,Artawan Saputra,L,2001-10-12,36,SMA Negeri 2 Banten,B,11,2021,Aktif
+1105,A21041105,Hesti Pradipta,P,2002-06-05,61,SMA Negeri 28 Kalimantan Barat,TT,4,2021,Cuti
+1106,A19111106,Mala Simanjuntak,L,2003-11-10,13,SMA Negeri 17 Sumatera Barat,A,11,2019,Aktif
+1107,A23051107,"Lutfan Anggriawan, M.Kom.",P,2007-02-21,32,SMA Negeri 32 Jawa Barat,A,5,2023,Aktif
+1108,A18011108,Cut Michelle Prasetyo,P,2001-02-09,14,SMA Negeri 5 Riau,B,1,2018,Aktif
+1109,A23071109,Genta Maulana,L,2007-04-29,65,SMA Negeri 47 Kalimantan Utara,A,7,2023,Aktif
+1110,A18031110,R.M. Dono Gunarto,P,2001-07-10,36,SMA Negeri 38 Banten,A,3,2018,Lulus
+1111,A21091111,Wardaya Wacana,L,2003-07-11,51,SMA Negeri 50 Bali,A,9,2021,Lulus
+1112,A22061112,Opan Usada,P,1998-03-03,63,SMA Negeri 48 Kalimantan Selatan,C,6,2022,Aktif
+1113,A19041113,Najwa Pangestu,L,2006-10-06,74,SMA Negeri 18 Sulawesi Tenggara,A,4,2019,Aktif
+1114,A20081114,"Jabal Hasanah, S.H.",L,1999-07-10,73,SMA Negeri 45 Sulawesi Selatan,A,8,2020,Lulus
+1115,A22021115,"Tgk. Karen Hutasoit, S.Kom",L,2005-03-06,62,SMA Negeri 44 Kalimantan Tengah,C,2,2022,Aktif
+1116,A19041116,Almira Siregar,L,1997-09-16,52,SMA Negeri 20 Nusa Tenggara Barat,B,4,2019,Lulus
+1117,A23011117,Martani Salahudin,P,2006-08-27,13,SMA Negeri 43 Sumatera Barat,A,1,2023,Aktif
+1118,A22041118,Faizah Hardiansyah,L,2006-04-09,51,SMA Negeri 41 Bali,C,4,2022,Aktif
+1119,A23121119,Garda Prayoga,P,2003-06-08,65,SMA Negeri 16 Kalimantan Utara,A,12,2023,Aktif
+1120,A18081120,"T. Jabal Permata, M.TI.",L,1998-01-08,71,SMA Negeri 49 Sulawesi Utara,C,8,2018,Aktif
+1121,A19041121,Drs. Ella Wibowo,L,2002-12-15,61,SMA Negeri 50 Kalimantan Barat,A,4,2019,Lulus
+1122,A18111122,Asmuni Saptono,L,2003-02-26,73,SMA Negeri 32 Sulawesi Selatan,B,11,2018,Lulus
+1123,A20081123,"Hilda Siregar, S.Farm",L,2007-07-02,73,SMA Negeri 45 Sulawesi Selatan,C,8,2020,Lulus
+1124,A18051124,Lanang Usamah,L,2004-12-12,91,SMA Negeri 36 Papua Barat,B,5,2018,Lulus
+1125,A21121125,Bakiman Simbolon,L,1998-03-02,62,SMA Negeri 12 Kalimantan Tengah,A,12,2021,Lulus
+1126,A23111126,"Tgk. Samiah Marpaung, S.E.",L,2001-07-15,75,SMA Negeri 26 Gorontalo,A,11,2023,Aktif
+1127,A20041127,Wani Waskita,L,2007-09-20,61,SMA Negeri 34 Kalimantan Barat,A,4,2020,Aktif
+1128,A22121128,"R. Paramita Lazuardi, S.H.",L,2006-02-02,19,SMA Negeri 29 Kepulauan Bangka Belitung,C,12,2022,Aktif
+1129,A20081129,"Citra Lestari, M.Farm",P,2006-10-19,19,SMA Negeri 21 Kepulauan Bangka Belitung,A,8,2020,Lulus
+1130,A18051130,Kariman Irawan,L,2005-06-01,33,SMA Negeri 25 Jawa Tengah,C,5,2018,Aktif
+1131,A18101131,Tina Widodo,P,2002-06-13,35,SMA Negeri 41 Jawa Timur,A,10,2018,Lulus
+1132,A21041132,Ratna Hutasoit,L,2006-11-22,16,SMA Negeri 11 Sumatera Selatan,B,4,2021,Lulus
+1133,A22011133,Latif Iswahyudi,P,2003-01-20,72,SMA Negeri 17 Sulawesi Tengah,C,1,2022,Aktif
+1134,A20031134,Kania Tampubolon,P,2003-09-13,16,SMA Negeri 46 Sumatera Selatan,A,3,2020,Aktif
+1135,A21091135,Yoga Rajasa,L,2000-12-25,74,SMA Negeri 14 Sulawesi Tenggara,TT,9,2021,Aktif
+1136,A20041136,"Sutan Heryanto Namaga, S.Farm",L,1999-10-30,52,SMA Negeri 14 Nusa Tenggara Barat,TT,4,2020,Aktif
+1137,A20101137,Ira Firmansyah,L,2001-03-29,34,SMA Negeri 10 DI Yogyakarta,B,10,2020,Aktif
+1138,A20011138,Samiah Nurdiyanti,P,1998-10-05,53,SMA Negeri 16 Nusa Tenggara Timur,B,1,2020,Aktif
+1139,A18061139,Intan Megantara,L,2007-05-23,76,SMA Negeri 21 Sulawesi Barat,A,6,2018,Aktif
+1140,A23121140,Samiah Samosir,P,2003-04-14,72,SMA Negeri 25 Sulawesi Tengah,B,12,2023,Aktif
+1141,A23121141,Wadi Marpaung,L,2006-03-09,74,SMA Negeri 7 Sulawesi Tenggara,B,12,2023,Aktif
+1142,A18091142,"Karen Yulianti, M.M.",L,2008-03-06,14,SMA Negeri 23 Riau,B,9,2018,Aktif
+1143,A18101143,Mila Puspasari,P,2000-07-05,13,SMA Negeri 20 Sumatera Barat,B,10,2018,Lulus
+1144,A19071144,Waluyo Pangestu,P,2003-08-07,65,SMA Negeri 11 Kalimantan Utara,A,7,2019,Aktif
+1145,A20091145,Lintang Puspasari,L,2008-03-22,82,SMA Negeri 46 Maluku Utara,TT,9,2020,Aktif
+1146,A19091146,Maya Nasyidah,L,1998-01-20,74,SMA Negeri 9 Sulawesi Tenggara,B,9,2019,Aktif
+1147,A23081147,"Fitriani Wijayanti, S.E.I",L,2004-10-28,52,SMA Negeri 19 Nusa Tenggara Barat,B,8,2023,Aktif
+1148,A22051148,"Tami Narpati, S.H.",L,2005-10-09,51,SMA Negeri 11 Bali,B,5,2022,Aktif
+1149,A19061149,Lasmanto Wacana,L,2004-06-23,82,SMA Negeri 4 Maluku Utara,TT,6,2019,Aktif
+1150,A18041150,"T. Lukman Santoso, M.TI.",L,2008-02-09,32,SMA Negeri 30 Jawa Barat,TT,4,2018,Aktif
+1151,A21071151,Fitria Lailasari,L,2002-05-11,18,SMA Negeri 46 Lampung,A,7,2021,Aktif
+1152,A21091152,"Elvin Ardianto, S.Ked",L,2007-01-07,82,SMA Negeri 10 Maluku Utara,TT,9,2021,Lulus
+1153,A18021153,Halima Pranowo,L,2002-06-04,64,SMA Negeri 11 Kalimantan Timur,B,2,2018,Aktif
+1154,A20121154,"Drs. Satya Puspita, S.Pt",P,2002-01-29,91,SMA Negeri 1 Papua Barat,B,12,2020,Cuti
+1155,A21091155,Darmanto Melani,L,2003-01-26,32,SMA Negeri 44 Jawa Barat,A,9,2021,Lulus
+1156,A18021156,"Novi Halim, S.T.",P,2005-08-14,63,SMA Negeri 8 Kalimantan Selatan,B,2,2018,Cuti
+1157,A22071157,"Luluh Melani, M.Pd",L,2000-06-17,65,SMA Negeri 10 Kalimantan Utara,A,7,2022,Aktif
+1158,A21011158,"Belinda Saptono, S.E.",L,2004-11-04,16,SMA Negeri 18 Sumatera Selatan,TT,1,2021,Lulus
+1159,A20101159,"Ir. Nadine Puspasari, S.Pt",P,2002-12-13,11,SMA Negeri 29 Aceh,A,10,2020,Lulus
+1160,A19061160,Keisha Sirait,P,2006-06-09,19,SMA Negeri 4 Kepulauan Bangka Belitung,A,6,2019,Aktif
+1161,A22121161,Malika Irawan,L,1998-08-17,15,SMA Negeri 26 Jambi,C,12,2022,Aktif
+1162,A19051162,dr. Cornelia Narpati,L,2006-02-14,32,SMA Negeri 14 Jawa Barat,C,5,2019,Aktif
+1163,A21031163,Jessica Winarno,P,2005-03-03,71,SMA Negeri 42 Sulawesi Utara,B,3,2021,Lulus
+1164,A20031164,Anita Pradana,L,1999-12-07,18,SMA Negeri 20 Lampung,TT,3,2020,Lulus
+1165,A20111165,Gatot Saputra,L,2002-12-08,19,SMA Negeri 32 Kepulauan Bangka Belitung,A,11,2020,Lulus
+1166,A21081166,Putri Kuswandari,P,2001-08-06,71,SMA Negeri 6 Sulawesi Utara,B,8,2021,Lulus
+1167,A22071167,"Prima Sudiati, S.Ked",L,1999-06-13,65,SMA Negeri 41 Kalimantan Utara,A,7,2022,Aktif
+1168,A18071168,"Wardaya Ardianto, S.T.",L,1999-01-01,16,SMA Negeri 42 Sumatera Selatan,B,7,2018,Lulus
+1169,A21111169,"Gatra Oktaviani, M.Pd",L,1998-10-28,21,SMA Negeri 6 Kepulauan Riau,A,11,2021,Aktif
+1170,A19081170,Emas Purnawati,P,2006-10-02,61,SMA Negeri 16 Kalimantan Barat,A,8,2019,DO
+1171,A20091171,Vanesa Uyainah,P,1997-07-04,74,SMA Negeri 3 Sulawesi Tenggara,A,9,2020,Aktif
+1172,A22091172,Limar Haryanto,L,1998-07-21,17,SMA Negeri 7 Bengkulu,C,9,2022,Aktif
+1173,A20081173,Malika Tarihoran,P,2001-07-16,51,SMA Negeri 33 Bali,B,8,2020,Aktif
+1174,A23011174,"Ir. Uchita Oktaviani, S.Farm",L,2002-04-17,18,SMA Negeri 12 Lampung,TT,1,2023,Aktif
+1175,A18071175,"KH. Jasmani Pranowo, S.T.",P,1997-08-27,13,SMA Negeri 38 Sumatera Barat,C,7,2018,Aktif
+1176,A23121176,Utama Hastuti,P,2003-06-16,76,SMA Negeri 17 Sulawesi Barat,TT,12,2023,Aktif
+1177,A19061177,Candrakanta Saptono,L,2003-11-11,32,SMA Negeri 39 Jawa Barat,A,6,2019,Lulus
+1178,A21051178,Jamil Widiastuti,L,2006-06-28,17,SMA Negeri 1 Bengkulu,A,5,2021,Aktif
+1179,A21031179,dr. Jasmani Dabukke,P,2001-01-04,81,SMA Negeri 39 Maluku,C,3,2021,Cuti
+1180,A20121180,"Jarwi Narpati, S.E.I",P,2001-12-10,82,SMA Negeri 45 Maluku Utara,B,12,2020,Lulus
+1181,A20111181,"Oliva Jailani, M.Ak",L,2006-08-22,72,SMA Negeri 13 Sulawesi Tengah,A,11,2020,Aktif
+1182,A23021182,"Dr. Teddy Palastri, S.Sos",L,1998-11-30,12,SMA Negeri 14 Sumatera Utara,B,2,2023,Aktif
+1183,A23081183,"T. Kamal Adriansyah, S.Kom",L,2004-09-07,21,SMA Negeri 41 Kepulauan Riau,B,8,2023,Aktif
+1184,A18091184,"R. Farah Dongoran, S.H.",L,1999-11-22,33,SMA Negeri 28 Jawa Tengah,B,9,2018,Aktif
+1185,A19011185,"Dr. Ghaliyati Saputra, S.Ked",P,2004-07-08,18,SMA Negeri 32 Lampung,A,1,2019,Lulus
+1186,A21081186,Vanya Suryatmi,L,1999-07-03,12,SMA Negeri 26 Sumatera Utara,B,8,2021,Aktif
+1187,A18011187,"Hj. Elvina Yuniar, M.TI.",P,2004-08-23,63,SMA Negeri 28 Kalimantan Selatan,A,1,2018,Lulus
+1188,A23071188,"Jatmiko Sirait, S.Ked",L,1999-07-12,82,SMA Negeri 32 Maluku Utara,B,7,2023,Aktif
+1189,A22071189,Carla Purnawati,L,1997-12-10,82,SMA Negeri 46 Maluku Utara,TT,7,2022,Aktif
+1190,A18011190,Garda Suwarno,P,2003-11-15,94,SMA Negeri 5 Papua,C,1,2018,Aktif
+1191,A21051191,Kenari Ardianto,L,2002-03-30,73,SMA Negeri 42 Sulawesi Selatan,A,5,2021,Lulus
+1192,A23061192,Gandi Marpaung,L,2003-10-30,75,SMA Negeri 11 Gorontalo,C,6,2023,Aktif
+1193,A21051193,dr. Tiara Hardiansyah,L,2000-09-21,33,SMA Negeri 15 Jawa Tengah,B,5,2021,Aktif
+1194,A22101194,"R.A. Devi Prasetyo, S.Gz",L,2005-08-14,63,SMA Negeri 19 Kalimantan Selatan,TT,10,2022,Aktif
+1195,A21121195,T. Eja Suryono,L,2000-06-10,71,SMA Negeri 11 Sulawesi Utara,B,12,2021,Lulus
+1196,A20101196,"Edison Mayasari, S.Pt",P,2007-06-21,34,SMA Negeri 12 DI Yogyakarta,A,10,2020,Aktif
+1197,A22041197,"dr. Lasmanto Waluyo, M.Kom.",L,1999-10-03,31,SMA Negeri 27 DKI Jakarta,TT,4,2022,Aktif
+1198,A19081198,"R.M. Kalim Uyainah, S.E.I",P,2003-01-11,61,SMA Negeri 2 Kalimantan Barat,B,8,2019,Aktif
+1199,A20061199,Opan Prastuti,L,2005-07-07,51,SMA Negeri 33 Bali,A,6,2020,Lulus
+1200,A20011200,Johan Rahayu,L,1998-01-21,15,SMA Negeri 8 Jambi,C,1,2020,Lulus
+1201,A21091201,Tgk. Cemeti Firmansyah,L,1998-11-26,35,SMA Negeri 50 Jawa Timur,B,9,2021,Lulus
+1202,A19011202,Praba Simanjuntak,P,2007-09-24,52,SMA Negeri 29 Nusa Tenggara Barat,A,1,2019,Aktif
+1203,A18081203,Qori Budiyanto,P,2006-10-19,18,SMA Negeri 7 Lampung,A,8,2018,Aktif
+1204,A19031204,Halima Padmasari,L,2004-01-10,18,SMA Negeri 46 Lampung,B,3,2019,Lulus
+1205,A21081205,"Calista Situmorang, S.T.",L,2007-10-23,91,SMA Negeri 22 Papua Barat,A,8,2021,Lulus
+1206,A19031206,Reza Laksmiwati,L,2003-07-16,18,SMA Negeri 1 Lampung,TT,3,2019,Lulus
+1207,A20041207,Asirwada Kurniawan,P,2004-04-27,81,SMA Negeri 18 Maluku,B,4,2020,Aktif
+1208,A20061208,"H. Baktiadi Aryani, S.Ked",L,1998-12-16,73,SMA Negeri 34 Sulawesi Selatan,B,6,2020,Lulus
+1209,A19071209,Cawisono Mustofa,L,1999-06-07,35,SMA Negeri 30 Jawa Timur,C,7,2019,DO
+1210,A18091210,Yuni Yolanda,L,2005-08-01,65,SMA Negeri 46 Kalimantan Utara,TT,9,2018,Lulus
+1211,A18091211,Yulia Sudiati,L,1998-10-28,15,SMA Negeri 50 Jambi,B,9,2018,Aktif
+1212,A18031212,Gara Anggriawan,L,2003-11-02,74,SMA Negeri 42 Sulawesi Tenggara,C,3,2018,Lulus
+1213,A23031213,Gatra Mangunsong,L,2003-06-08,14,SMA Negeri 26 Riau,B,3,2023,Aktif
+1214,A23111214,Nova Nurdiyanti,L,2007-07-16,61,SMA Negeri 1 Kalimantan Barat,B,11,2023,Aktif
+1215,A22051215,"Johan Wulandari, S.E.I",P,1997-11-16,94,SMA Negeri 26 Papua,A,5,2022,Aktif
+1216,A22081216,"Laksana Prasasta, S.I.Kom",P,2005-06-13,34,SMA Negeri 23 DI Yogyakarta,TT,8,2022,Aktif
+1217,A19111217,"Mulya Pradipta, S.Pt",L,2003-04-21,72,SMA Negeri 22 Sulawesi Tengah,B,11,2019,Aktif
+1218,A22071218,Hasim Prabowo,L,2005-12-27,19,SMA Negeri 6 Kepulauan Bangka Belitung,B,7,2022,Aktif
+1219,A22091219,Tomi Tampubolon,P,1998-07-18,61,SMA Negeri 11 Kalimantan Barat,B,9,2022,Aktif
+1220,A22011220,Cecep Prasetya,L,2000-08-18,12,SMA Negeri 50 Sumatera Utara,B,1,2022,Aktif
+1221,A22051221,Intan Widiastuti,P,2004-07-28,74,SMA Negeri 4 Sulawesi Tenggara,A,5,2022,Aktif
+1222,A23061222,Olivia Haryanti,L,2005-01-15,51,SMA Negeri 4 Bali,B,6,2023,Aktif
+1223,A21111223,Gangsa Sihotang,P,2000-10-31,18,SMA Negeri 30 Lampung,B,11,2021,Lulus
+1224,A23061224,Drs. Sabrina Dabukke,L,2007-12-25,36,SMA Negeri 20 Banten,B,6,2023,Aktif
+1225,A23051225,"Ir. Taufan Prakasa, M.Kom.",P,2004-09-29,19,SMA Negeri 48 Kepulauan Bangka Belitung,C,5,2023,Aktif
+1226,A20041226,Akarsana Rahayu,L,2007-01-18,17,SMA Negeri 10 Bengkulu,B,4,2020,Aktif
+1227,A21121227,"Balamantri Sinaga, M.M.",L,2003-08-19,74,SMA Negeri 9 Sulawesi Tenggara,A,12,2021,Aktif
+1228,A21081228,Dian Napitupulu,L,2001-09-24,34,SMA Negeri 26 DI Yogyakarta,A,8,2021,Lulus
+1229,A21101229,Dewi Widodo,P,2007-09-07,94,SMA Negeri 28 Papua,B,10,2021,Aktif
+1230,A23081230,Nilam Fujiati,L,2001-02-24,82,SMA Negeri 10 Maluku Utara,C,8,2023,Aktif
+1231,A21091231,Tari Laksita,L,2007-10-28,19,SMA Negeri 33 Kepulauan Bangka Belitung,TT,9,2021,Cuti
+1232,A23091232,Kairav Puspita,L,2007-04-01,18,SMA Negeri 31 Lampung,B,9,2023,Aktif
+1233,A22011233,"Gabriella Utama, S.Kom",L,2001-06-18,31,SMA Negeri 39 DKI Jakarta,B,1,2022,Aktif
+1234,A18071234,Joko Wijayanti,P,1999-01-28,18,SMA Negeri 34 Lampung,B,7,2018,Aktif
+1235,A20031235,"Zulaikha Yuliarti, S.Gz",L,2006-08-13,18,SMA Negeri 32 Lampung,B,3,2020,Aktif
+1236,A19011236,"Dt. Rizki Puspasari, S.E.",L,2000-01-03,21,SMA Negeri 20 Kepulauan Riau,C,1,2019,DO
+1237,A19051237,"Pia Wastuti, S.Pd",L,2005-02-11,34,SMA Negeri 23 DI Yogyakarta,TT,5,2019,Aktif
+1238,A21021238,Bahuraksa Hutagalung,P,2006-02-16,13,SMA Negeri 29 Sumatera Barat,TT,2,2021,Aktif
+1239,A21061239,"Tgk. Violet Zulkarnain, S.I.Kom",L,2004-08-17,71,SMA Negeri 30 Sulawesi Utara,A,6,2021,Lulus
+1240,A19081240,"drg. Maras Suryatmi, S.E.",L,2004-07-16,75,SMA Negeri 43 Gorontalo,B,8,2019,Lulus
+1241,A21101241,Carla Simanjuntak,L,2002-02-06,73,SMA Negeri 3 Sulawesi Selatan,B,10,2021,Aktif
+1242,A23111242,Dt. Prabawa Kusumo,P,2003-09-28,75,SMA Negeri 6 Gorontalo,B,11,2023,Aktif
+1243,A22031243,Ina Sihombing,P,2000-05-10,12,SMA Negeri 42 Sumatera Utara,B,3,2022,Aktif
+1244,A19021244,Gawati Iswahyudi,P,2001-02-26,16,SMA Negeri 49 Sumatera Selatan,A,2,2019,Lulus
+1245,A18081245,"drg. Diah Sinaga, M.Farm",P,2002-12-12,91,SMA Negeri 12 Papua Barat,A,8,2018,DO
+1246,A19011246,Olivia Yuliarti,P,2004-11-09,52,SMA Negeri 38 Nusa Tenggara Barat,B,1,2019,Lulus
+1247,A22081247,Yahya Anggriawan,L,2002-03-19,16,SMA Negeri 38 Sumatera Selatan,B,8,2022,Aktif
+1248,A18011248,Diah Farida,L,2006-04-18,82,SMA Negeri 2 Maluku Utara,B,1,2018,Aktif
+1249,A21091249,R.M. Sabar Yulianti,L,2004-03-05,62,SMA Negeri 7 Kalimantan Tengah,B,9,2021,Aktif
+1250,A20091250,"KH. Virman Mahendra, S.Sos",L,2003-06-14,31,SMA Negeri 6 DKI Jakarta,A,9,2020,Aktif
+1251,A21031251,Abyasa Hariyah,L,2007-11-15,61,SMA Negeri 21 Kalimantan Barat,A,3,2021,Lulus
+1252,A23031252,Manah Aryani,L,2002-05-18,12,SMA Negeri 25 Sumatera Utara,A,3,2023,Aktif
+1253,A19021253,Fitria Dabukke,L,1999-02-26,62,SMA Negeri 8 Kalimantan Tengah,C,2,2019,Aktif
+1254,A19011254,Yunita Siregar,L,2008-01-07,33,SMA Negeri 33 Jawa Tengah,B,1,2019,Lulus
+1255,A20071255,Ir. Jaswadi Wahyuni,L,1997-11-06,18,SMA Negeri 27 Lampung,A,7,2020,Aktif
+1256,A18021256,Cut Lalita Hasanah,P,1998-08-19,81,SMA Negeri 2 Maluku,C,2,2018,Aktif
+1257,A19051257,"H. Bahuwirya Pratama, M.M.",L,2004-12-21,17,SMA Negeri 29 Bengkulu,A,5,2019,Lulus
+1258,A19021258,"Tgk. Tina Pertiwi, M.M.",L,2008-05-20,91,SMA Negeri 11 Papua Barat,A,2,2019,Lulus
+1259,A22041259,Talia Hasanah,L,2007-06-14,74,SMA Negeri 1 Sulawesi Tenggara,TT,4,2022,Aktif
+1260,A23081260,Clara Puspasari,L,2006-05-18,53,SMA Negeri 4 Nusa Tenggara Timur,A,8,2023,Aktif
+1261,A22081261,Gading Laksita,P,1998-02-23,52,SMA Negeri 25 Nusa Tenggara Barat,B,8,2022,Aktif
+1262,A22061262,R.A. Olivia Riyanti,L,2000-04-24,34,SMA Negeri 11 DI Yogyakarta,B,6,2022,Aktif
+1263,A20121263,Irsad Zulaika,L,2002-08-29,15,SMA Negeri 9 Jambi,A,12,2020,Lulus
+1264,A21121264,"Yani Tamba, S.T.",P,2002-10-19,52,SMA Negeri 21 Nusa Tenggara Barat,B,12,2021,Lulus
+1265,A23111265,"Elisa Samosir, S.I.Kom",P,1997-09-26,63,SMA Negeri 29 Kalimantan Selatan,B,11,2023,Aktif
+1266,A23051266,Jayadi Tamba,L,1997-05-30,36,SMA Negeri 14 Banten,B,5,2023,Aktif
+1267,A18081267,Gambira Rahimah,P,2006-05-23,63,SMA Negeri 39 Kalimantan Selatan,A,8,2018,DO
+1268,A18081268,"Tari Jailani, S.Pd",L,1997-06-13,11,SMA Negeri 45 Aceh,A,8,2018,Lulus
+1269,A21121269,Aris Yuliarti,P,2007-10-22,82,SMA Negeri 35 Maluku Utara,A,12,2021,Lulus
+1270,A23011270,Cemeti Hartati,L,2003-05-02,75,SMA Negeri 25 Gorontalo,A,1,2023,Aktif
+1271,A21101271,T. Gilang Mardhiyah,P,1998-03-24,64,SMA Negeri 8 Kalimantan Timur,A,10,2021,Cuti
+1272,A19081272,Hj. Halima Kuswoyo,L,1999-02-27,65,SMA Negeri 2 Kalimantan Utara,TT,8,2019,Aktif
+1273,A19051273,Puti Sabrina Kurniawan,P,2006-02-23,64,SMA Negeri 46 Kalimantan Timur,A,5,2019,Lulus
+1274,A21041274,Harsana Wahyuni,L,2003-08-04,35,SMA Negeri 46 Jawa Timur,B,4,2021,Aktif
+1275,A18121275,Jamalia Sihombing,P,2007-02-01,34,SMA Negeri 18 DI Yogyakarta,B,12,2018,Aktif
+1276,A21101276,H. Darmanto Prayoga,P,2005-01-25,91,SMA Negeri 48 Papua Barat,A,10,2021,Aktif
+1277,A18101277,"Violet Dabukke, S.Pd",P,2007-10-27,32,SMA Negeri 17 Jawa Barat,A,10,2018,Aktif
+1278,A22101278,Darmaji Handayani,L,2007-04-10,35,SMA Negeri 44 Jawa Timur,B,10,2022,Aktif
+1279,A23011279,Bakijan Najmudin,L,2001-08-02,51,SMA Negeri 28 Bali,TT,1,2023,Aktif
+1280,A20111280,"Cut Lintang Hutagalung, S.Gz",L,2004-07-09,14,SMA Negeri 44 Riau,C,11,2020,Aktif
+1281,A21091281,drg. Gamblang Nashiruddin,P,2006-07-28,76,SMA Negeri 47 Sulawesi Barat,B,9,2021,Lulus
+1282,A20041282,Luthfi Hidayat,P,2008-05-11,14,SMA Negeri 1 Riau,C,4,2020,Aktif
+1283,A20071283,Hasna Samosir,P,2006-07-18,33,SMA Negeri 48 Jawa Tengah,A,7,2020,Lulus
+1284,A18041284,Lanjar Waluyo,L,1998-07-19,74,SMA Negeri 20 Sulawesi Tenggara,B,4,2018,Aktif
+1285,A18021285,"Hj. Lintang Prastuti, M.TI.",L,2003-08-29,17,SMA Negeri 38 Bengkulu,TT,2,2018,Lulus
+1286,A20111286,Narji Namaga,L,2007-06-02,63,SMA Negeri 22 Kalimantan Selatan,B,11,2020,Aktif
+1287,A22011287,Mala Mangunsong,L,2002-04-04,63,SMA Negeri 50 Kalimantan Selatan,B,1,2022,Aktif
+1288,A18101288,Setya Yulianti,P,2007-12-16,75,SMA Negeri 4 Gorontalo,TT,10,2018,Aktif
+1289,A20011289,Gandi Purnawati,L,2001-07-02,71,SMA Negeri 29 Sulawesi Utara,A,1,2020,Aktif
+1290,A22011290,Aisyah Tamba,L,2003-11-02,61,SMA Negeri 7 Kalimantan Barat,C,1,2022,Aktif
+1291,A22111291,"Edi Hastuti, M.Pd",L,2004-09-25,14,SMA Negeri 25 Riau,A,11,2022,Aktif
+1292,A22071292,Padmi Utami,L,1999-01-10,17,SMA Negeri 39 Bengkulu,C,7,2022,Aktif
+1293,A21111293,"dr. Yuliana Gunarto, S.IP",L,2003-01-19,11,SMA Negeri 40 Aceh,C,11,2021,Lulus
+1294,A20101294,Irma Novitasari,L,1999-05-28,17,SMA Negeri 38 Bengkulu,A,10,2020,Lulus
+1295,A18041295,dr. Jaya Gunarto,P,2004-03-27,17,SMA Negeri 38 Bengkulu,A,4,2018,Lulus
+1296,A23041296,"Yuni Anggraini, S.Gz",L,2008-02-18,19,SMA Negeri 27 Kepulauan Bangka Belitung,B,4,2023,Aktif
+1297,A19081297,Pranawa Haryanti,L,2005-12-21,75,SMA Negeri 4 Gorontalo,B,8,2019,Lulus
+1298,A22031298,Zahra Handayani,P,2002-04-06,61,SMA Negeri 42 Kalimantan Barat,C,3,2022,Aktif
+1299,A22061299,"Ami Ardianto, S.E.",L,1997-07-22,61,SMA Negeri 31 Kalimantan Barat,A,6,2022,Aktif
+1300,A20051300,Yono Wulandari,L,2003-08-04,63,SMA Negeri 43 Kalimantan Selatan,B,5,2020,Lulus
+1301,A18111301,"Titin Utami, S.Pd",P,2003-05-25,21,SMA Negeri 36 Kepulauan Riau,B,11,2018,Lulus
+1302,A20011302,Emin Prakasa,L,2007-01-13,74,SMA Negeri 13 Sulawesi Tenggara,B,1,2020,Lulus
+1303,A19021303,Dr. Darman Pradipta,P,2005-04-19,63,SMA Negeri 30 Kalimantan Selatan,TT,2,2019,Lulus
+1304,A22101304,Cawisono Uwais,P,2001-09-02,63,SMA Negeri 20 Kalimantan Selatan,B,10,2022,Aktif
+1305,A19071305,"Sutan Opung Novitasari, S.Pt",L,1998-12-21,63,SMA Negeri 3 Kalimantan Selatan,A,7,2019,Lulus
+1306,A18081306,Cagak Sinaga,P,2004-01-17,35,SMA Negeri 40 Jawa Timur,B,8,2018,Aktif
+1307,A21041307,"Dr. Ella Dabukke, S.E.",P,2001-01-17,36,SMA Negeri 26 Banten,B,4,2021,Aktif
+1308,A20031308,Hamima Prayoga,L,2002-11-28,11,SMA Negeri 36 Aceh,A,3,2020,Aktif
+1309,A20021309,Ir. Jarwi Narpati,L,2000-01-26,21,SMA Negeri 49 Kepulauan Riau,TT,2,2020,Lulus
+1310,A18061310,Dadap Jailani,L,2002-07-05,13,SMA Negeri 15 Sumatera Barat,B,6,2018,Aktif
+1311,A20051311,Titin Maryadi,L,2003-03-29,32,SMA Negeri 12 Jawa Barat,B,5,2020,Aktif
+1312,A18051312,Dr. Raharja Siregar,L,2002-12-16,17,SMA Negeri 8 Bengkulu,A,5,2018,Lulus
+1313,A20061313,Bancar Nugroho,L,2006-06-28,34,SMA Negeri 24 DI Yogyakarta,TT,6,2020,Aktif
+1314,A22111314,Ida Iswahyudi,P,1999-04-30,31,SMA Negeri 5 DKI Jakarta,C,11,2022,Aktif
+1315,A19021315,Puspa Kusmawati,L,2005-08-04,21,SMA Negeri 45 Kepulauan Riau,B,2,2019,Lulus
+1316,A22061316,Ibrani Jailani,P,2006-03-07,62,SMA Negeri 16 Kalimantan Tengah,C,6,2022,Aktif
+1317,A22011317,"Dodo Irawan, M.Kom.",L,1999-01-09,33,SMA Negeri 21 Jawa Tengah,B,1,2022,Aktif
+1318,A23041318,Nabila Agustina,L,2007-06-24,14,SMA Negeri 33 Riau,B,4,2023,Aktif
+1319,A19101319,"Puti Amalia Saefullah, S.Pt",L,2005-11-09,82,SMA Negeri 40 Maluku Utara,A,10,2019,Lulus
+1320,A22021320,"T. Taswir Puspasari, S.Gz",P,2001-02-18,31,SMA Negeri 49 DKI Jakarta,C,2,2022,Aktif
+1321,A21091321,Margana Kuswoyo,L,1998-08-30,65,SMA Negeri 24 Kalimantan Utara,TT,9,2021,Aktif
+1322,A23091322,Jessica Riyanti,L,1998-01-29,81,SMA Negeri 18 Maluku,TT,9,2023,Aktif
+1323,A23101323,Drs. Gina Hutapea,L,2001-11-23,72,SMA Negeri 15 Sulawesi Tengah,A,10,2023,Aktif
+1324,A19041324,Ade Aryani,L,1998-03-06,75,SMA Negeri 25 Gorontalo,C,4,2019,Aktif
+1325,A20101325,"Tgk. Eko Rajata, S.E.",P,2006-08-08,31,SMA Negeri 49 DKI Jakarta,B,10,2020,Aktif
+1326,A21021326,"Michelle Prasetya, S.Pt",L,2001-11-27,53,SMA Negeri 30 Nusa Tenggara Timur,B,2,2021,Lulus
+1327,A21091327,Rahmi Sihombing,L,2006-06-16,63,SMA Negeri 24 Kalimantan Selatan,TT,9,2021,Aktif
+1328,A20081328,dr. Eva Hakim,L,1998-06-28,62,SMA Negeri 15 Kalimantan Tengah,C,8,2020,Aktif
+1329,A20051329,Mutia Laksmiwati,L,2004-11-09,15,SMA Negeri 33 Jambi,A,5,2020,Lulus
+1330,A20091330,"Tgk. Danang Mulyani, S.Ked",L,2003-05-30,16,SMA Negeri 24 Sumatera Selatan,B,9,2020,Aktif
+1331,A20011331,Bagus Rahayu,P,2004-03-24,33,SMA Negeri 20 Jawa Tengah,B,1,2020,Aktif
+1332,A19121332,"Kani Maryati, S.Pd",P,1998-05-09,52,SMA Negeri 17 Nusa Tenggara Barat,A,12,2019,Lulus
+1333,A20011333,Rika Pratiwi,L,2005-04-30,61,SMA Negeri 38 Kalimantan Barat,B,1,2020,DO
+1334,A21111334,Edward Suartini,L,2002-07-13,11,SMA Negeri 47 Aceh,A,11,2021,Aktif
+1335,A21121335,Gatra Prasasta,P,2003-12-16,34,SMA Negeri 36 DI Yogyakarta,B,12,2021,Lulus
+1336,A20081336,Mulyono Hastuti,L,2001-10-15,76,SMA Negeri 28 Sulawesi Barat,A,8,2020,Lulus
+1337,A19121337,R.A. Umi Tarihoran,L,2007-05-29,73,SMA Negeri 2 Sulawesi Selatan,TT,12,2019,Lulus
+1338,A22061338,"Cut Dinda Melani, S.Kom",L,2006-05-22,19,SMA Negeri 48 Kepulauan Bangka Belitung,A,6,2022,Aktif
+1339,A23011339,Garda Suryono,L,2002-05-27,82,SMA Negeri 15 Maluku Utara,B,1,2023,Aktif
+1340,A23071340,Cut Ciaobella Suryono,P,2003-09-15,74,SMA Negeri 35 Sulawesi Tenggara,C,7,2023,Aktif
+1341,A22051341,"Darimin Prayoga, S.H.",P,2002-11-10,62,SMA Negeri 3 Kalimantan Tengah,A,5,2022,Aktif
+1342,A20031342,"Cindy Permadi, S.Farm",L,2000-04-18,21,SMA Negeri 26 Kepulauan Riau,C,3,2020,Aktif
+1343,A19021343,"Dr. Mariadi Namaga, S.Ked",L,2005-10-14,71,SMA Negeri 29 Sulawesi Utara,TT,2,2019,Aktif
+1344,A18111344,"Emin Yuniar, M.M.",L,2000-01-17,61,SMA Negeri 12 Kalimantan Barat,A,11,2018,Lulus
+1345,A18011345,"Dadap Lazuardi, M.Pd",L,1999-11-24,82,SMA Negeri 25 Maluku Utara,A,1,2018,Aktif
+1346,A19051346,"Hardana Wacana, M.TI.",P,1998-10-17,34,SMA Negeri 30 DI Yogyakarta,B,5,2019,Lulus
+1347,A22011347,Mila Simanjuntak,L,1998-01-12,65,SMA Negeri 21 Kalimantan Utara,A,1,2022,Aktif
+1348,A19071348,Gandewa Mustofa,L,2003-07-29,72,SMA Negeri 31 Sulawesi Tengah,A,7,2019,Lulus
+1349,A21121349,"Ir. Slamet Wulandari, S.Pt",L,2005-11-18,15,SMA Negeri 20 Jambi,B,12,2021,Lulus
+1350,A19071350,Gatot Mansur,P,2003-12-01,81,SMA Negeri 46 Maluku,B,7,2019,Aktif
+1351,A20111351,Hadi Yuniar,L,2005-12-17,76,SMA Negeri 29 Sulawesi Barat,B,11,2020,Cuti
+1352,A22021352,Endah Sihombing,P,2007-09-01,72,SMA Negeri 22 Sulawesi Tengah,B,2,2022,Aktif
+1353,A21101353,Cahyadi Pertiwi,P,2005-06-28,82,SMA Negeri 6 Maluku Utara,TT,10,2021,Aktif
+1354,A20051354,Lembah Hidayat,L,2001-03-20,76,SMA Negeri 12 Sulawesi Barat,B,5,2020,Lulus
+1355,A19071355,Cahyadi Wijaya,L,2005-01-09,36,SMA Negeri 43 Banten,C,7,2019,Aktif
+1356,A21031356,Umi Usada,L,2000-08-21,17,SMA Negeri 11 Bengkulu,A,3,2021,Lulus
+1357,A23051357,"Balijan Hidayanto, S.I.Kom",P,2005-09-09,53,SMA Negeri 47 Nusa Tenggara Timur,A,5,2023,Aktif
+1358,A21121358,Mahmud Firmansyah,P,2004-09-07,34,SMA Negeri 24 DI Yogyakarta,C,12,2021,Aktif
+1359,A22021359,Narji Hakim,L,2000-10-26,17,SMA Negeri 29 Bengkulu,B,2,2022,Aktif
+1360,A19031360,Nasrullah Yulianti,L,2002-09-20,51,SMA Negeri 41 Bali,A,3,2019,Aktif
+1361,A21121361,Lutfan Latupono,P,2002-06-02,76,SMA Negeri 13 Sulawesi Barat,B,12,2021,Aktif
+1362,A18071362,Yunita Zulkarnain,L,1998-08-18,13,SMA Negeri 9 Sumatera Barat,B,7,2018,Lulus
+1363,A21061363,Zamira Firgantoro,L,2003-02-06,76,SMA Negeri 43 Sulawesi Barat,TT,6,2021,Aktif
+1364,A19041364,"R.M. Garan Manullang, S.Psi",L,2000-01-31,75,SMA Negeri 11 Gorontalo,TT,4,2019,Lulus
+1365,A19011365,"Puti Sarah Natsir, S.IP",L,1999-01-27,17,SMA Negeri 26 Bengkulu,B,1,2019,Lulus
+1366,A23031366,Ulva Hasanah,P,2000-01-19,15,SMA Negeri 18 Jambi,A,3,2023,Aktif
+1367,A20031367,Surya Zulaika,L,2000-03-06,75,SMA Negeri 44 Gorontalo,A,3,2020,Lulus
+1368,A21091368,"Danang Mulyani, S.H.",P,2005-05-31,34,SMA Negeri 42 DI Yogyakarta,A,9,2021,Lulus
+1369,A21111369,Luwar Tampubolon,L,2003-02-17,17,SMA Negeri 1 Bengkulu,B,11,2021,Aktif
+1370,A19011370,Uli Natsir,L,1999-05-04,71,SMA Negeri 13 Sulawesi Utara,B,1,2019,DO
+1371,A21021371,Dr. Nrima Saptono,L,1998-08-09,12,SMA Negeri 13 Sumatera Utara,A,2,2021,Aktif
+1372,A19111372,Ir. Wirda Aryani,P,2004-08-26,15,SMA Negeri 11 Jambi,A,11,2019,Aktif
+1373,A22011373,Najib Yulianti,L,1998-04-26,73,SMA Negeri 21 Sulawesi Selatan,A,1,2022,Aktif
+1374,A22091374,"Sutan Capa Damanik, M.M.",P,2003-04-22,33,SMA Negeri 26 Jawa Tengah,B,9,2022,Aktif
+1375,A19071375,Zulaikha Haryanto,L,1999-11-13,18,SMA Negeri 12 Lampung,B,7,2019,Aktif
+1376,A23011376,"Tira Irawan, M.Pd",L,2007-12-14,72,SMA Negeri 25 Sulawesi Tengah,B,1,2023,Aktif
+1377,A19041377,Mahfud Suartini,P,2006-06-27,76,SMA Negeri 42 Sulawesi Barat,A,4,2019,Lulus
+1378,A18101378,"Wage Hidayat, S.Pt",L,2003-05-21,65,SMA Negeri 50 Kalimantan Utara,A,10,2018,Aktif
+1379,A18101379,Nugraha Wijayanti,L,2005-12-13,82,SMA Negeri 39 Maluku Utara,A,10,2018,Cuti
+1380,A23061380,Cengkir Anggraini,L,2002-08-12,71,SMA Negeri 12 Sulawesi Utara,A,6,2023,Aktif
+1381,A23111381,"Rudi Hartati, S.E.I",L,1999-11-06,62,SMA Negeri 22 Kalimantan Tengah,TT,11,2023,Aktif
+1382,A21011382,Nilam Rahmawati,P,2002-08-15,75,SMA Negeri 1 Gorontalo,B,1,2021,Lulus
+1383,A22041383,Tgk. Prabu Saputra,L,2003-12-26,12,SMA Negeri 16 Sumatera Utara,A,4,2022,Aktif
+1384,A19121384,Narji Budiman,L,2002-10-06,74,SMA Negeri 32 Sulawesi Tenggara,A,12,2019,Aktif
+1385,A19051385,Ophelia Marpaung,L,2004-12-02,33,SMA Negeri 16 Jawa Tengah,C,5,2019,Lulus
+1386,A23121386,Elon Nainggolan,L,2003-08-14,75,SMA Negeri 18 Gorontalo,B,12,2023,Aktif
+1387,A22061387,"Cengkal Latupono, S.IP",P,2003-07-07,13,SMA Negeri 19 Sumatera Barat,C,6,2022,Aktif
+1388,A23011388,Drajat Farida,L,1997-06-06,35,SMA Negeri 16 Jawa Timur,B,1,2023,Aktif
+1389,A23041389,Sutan Mustika Haryanti,P,2006-05-11,14,SMA Negeri 45 Riau,B,4,2023,Aktif
+1390,A22121390,"Puti Ida Santoso, S.Ked",P,2004-06-03,35,SMA Negeri 21 Jawa Timur,C,12,2022,Aktif
+1391,A23031391,"Gandewa Usamah, S.H.",L,2004-08-11,75,SMA Negeri 32 Gorontalo,A,3,2023,Aktif
+1392,A18021392,Lili Najmudin,L,2008-05-01,33,SMA Negeri 12 Jawa Tengah,A,2,2018,Aktif
+1393,A19101393,Viktor Sirait,L,2000-12-01,34,SMA Negeri 20 DI Yogyakarta,A,10,2019,Lulus
+1394,A19031394,Ajiono Farida,L,1997-08-28,33,SMA Negeri 20 Jawa Tengah,C,3,2019,Lulus
+1395,A23051395,"Rahayu Winarno, M.Farm",L,2007-02-01,75,SMA Negeri 31 Gorontalo,B,5,2023,Aktif
+1396,A21021396,dr. Kala Widiastuti,L,2005-11-17,65,SMA Negeri 28 Kalimantan Utara,C,2,2021,Aktif
+1397,A19091397,"Banara Jailani, S.I.Kom",L,2006-03-02,74,SMA Negeri 28 Sulawesi Tenggara,TT,9,2019,Lulus
+1398,A22021398,Vega Simbolon,P,2003-11-03,61,SMA Negeri 47 Kalimantan Barat,A,2,2022,Aktif
+1399,A21031399,Citra Sihombing,L,2005-10-28,51,SMA Negeri 25 Bali,TT,3,2021,Aktif
+1400,A18091400,"Nrima Pratiwi, M.TI.",L,2007-01-10,81,SMA Negeri 13 Maluku,B,9,2018,Lulus
+1401,A18031401,"Jagapati Marbun, S.E.",P,2000-12-22,33,SMA Negeri 24 Jawa Tengah,A,3,2018,Lulus
+1402,A21081402,Tri Najmudin,P,2007-01-31,72,SMA Negeri 32 Sulawesi Tengah,C,8,2021,Aktif
+1403,A21051403,Hana Januar,L,1998-12-16,15,SMA Negeri 37 Jambi,A,5,2021,Aktif
+1404,A21031404,Nabila Situmorang,P,2002-06-11,33,SMA Negeri 46 Jawa Tengah,B,3,2021,Aktif
+1405,A23081405,"Cut Yunita Novitasari, S.H.",P,1997-09-11,65,SMA Negeri 25 Kalimantan Utara,A,8,2023,Aktif
+1406,A19071406,Jaga Yuliarti,L,2000-03-09,36,SMA Negeri 24 Banten,TT,7,2019,DO
+1407,A23111407,"Surya Zulkarnain, S.IP",L,1998-06-25,12,SMA Negeri 39 Sumatera Utara,A,11,2023,Aktif
+1408,A20081408,Mujur Anggraini,P,1998-11-20,21,SMA Negeri 43 Kepulauan Riau,B,8,2020,Lulus
+1409,A18031409,Lanang Saragih,P,1999-09-22,11,SMA Negeri 25 Aceh,A,3,2018,Lulus
+1410,A22071410,Ikhsan Yolanda,L,2004-01-20,16,SMA Negeri 11 Sumatera Selatan,B,7,2022,Aktif
+1411,A23071411,"R. Wira Wahyudin, S.T.",P,2006-03-31,51,SMA Negeri 35 Bali,B,7,2023,Aktif
+1412,A22111412,Wasis Padmasari,P,1999-08-23,71,SMA Negeri 27 Sulawesi Utara,B,11,2022,Aktif
+1413,A18121413,"Laila Oktaviani, M.M.",L,2007-05-08,16,SMA Negeri 14 Sumatera Selatan,B,12,2018,Aktif
+1414,A23121414,Melinda Pertiwi,L,2005-11-08,72,SMA Negeri 11 Sulawesi Tengah,B,12,2023,Aktif
+1415,A18081415,"KH. Vega Uyainah, M.Kom.",P,2005-10-31,11,SMA Negeri 27 Aceh,A,8,2018,Aktif
+1416,A23111416,Drs. Kenari Hakim,L,2008-05-22,53,SMA Negeri 12 Nusa Tenggara Timur,C,11,2023,Aktif
+1417,A23061417,"R.A. Suci Hidayanto, M.Ak",L,2006-09-01,32,SMA Negeri 32 Jawa Barat,A,6,2023,Aktif
+1418,A18031418,Vanesa Laksmiwati,P,1999-01-23,91,SMA Negeri 12 Papua Barat,TT,3,2018,Lulus
+1419,A23041419,Aisyah Manullang,L,1998-12-06,14,SMA Negeri 17 Riau,A,4,2023,Aktif
+1420,A23071420,Zelaya Aryani,P,2008-03-18,75,SMA Negeri 11 Gorontalo,A,7,2023,Aktif
+1421,A18021421,"dr. Karya Sirait, M.M.",L,2004-06-23,53,SMA Negeri 22 Nusa Tenggara Timur,C,2,2018,Aktif
+1422,A21011422,Wirda Hasanah,P,2006-09-09,36,SMA Negeri 1 Banten,TT,1,2021,Lulus
+1423,A18011423,Rina Rajata,L,2005-03-04,52,SMA Negeri 1 Nusa Tenggara Barat,A,1,2018,Aktif
+1424,A20071424,Ina Latupono,L,2003-09-17,94,SMA Negeri 39 Papua,TT,7,2020,Lulus
+1425,A20071425,"T. Emin Rahmawati, S.Pd",L,2003-07-20,63,SMA Negeri 24 Kalimantan Selatan,B,7,2020,Lulus
+1426,A21111426,dr. Victoria Handayani,L,1998-10-02,72,SMA Negeri 7 Sulawesi Tengah,A,11,2021,Lulus
+1427,A23011427,Arsipatra Kusmawati,P,2001-03-25,76,SMA Negeri 9 Sulawesi Barat,C,1,2023,Aktif
+1428,A22011428,Drs. Calista Megantara,P,2006-07-30,18,SMA Negeri 49 Lampung,B,1,2022,Aktif
+1429,A21041429,Ajeng Kurniawan,P,2006-12-29,65,SMA Negeri 13 Kalimantan Utara,TT,4,2021,Aktif
+1430,A18011430,Laila Firmansyah,L,2007-11-19,62,SMA Negeri 48 Kalimantan Tengah,B,1,2018,Cuti
+1431,A19061431,R. Zelaya Kusmawati,L,2005-02-24,75,SMA Negeri 6 Gorontalo,TT,6,2019,Lulus
+1432,A21061432,Rachel Uwais,P,2008-02-10,74,SMA Negeri 39 Sulawesi Tenggara,A,6,2021,Aktif
+1433,A22041433,R.A. Rachel Uwais,L,2000-07-10,21,SMA Negeri 32 Kepulauan Riau,A,4,2022,Aktif
+1434,A23021434,Faizah Halim,L,2005-03-16,61,SMA Negeri 29 Kalimantan Barat,TT,2,2023,Aktif
+1435,A23021435,"Drs. Salimah Rahayu, S.Ked",L,2003-07-12,81,SMA Negeri 14 Maluku,B,2,2023,Aktif
+1436,A18031436,"Ir. Mutia Santoso, M.Ak",P,1999-05-20,16,SMA Negeri 21 Sumatera Selatan,C,3,2018,Aktif
+1437,A19071437,Cager Wacana,P,2005-05-27,52,SMA Negeri 43 Nusa Tenggara Barat,B,7,2019,Aktif
+1438,A22021438,Hj. Icha Melani,L,2005-06-25,19,SMA Negeri 45 Kepulauan Bangka Belitung,TT,2,2022,Aktif
+1439,A22061439,Kasusra Waskita,P,2002-09-10,35,SMA Negeri 22 Jawa Timur,A,6,2022,Aktif
+1440,A23071440,Bakda Kurniawan,L,2000-05-27,71,SMA Negeri 15 Sulawesi Utara,C,7,2023,Aktif
+1441,A20051441,Ir. Marsudi Hartati,L,2001-08-11,18,SMA Negeri 48 Lampung,A,5,2020,Aktif
+1442,A23101442,"Bakiadi Najmudin, S.E.I",P,1999-08-23,33,SMA Negeri 24 Jawa Tengah,A,10,2023,Aktif
+1443,A21031443,"Puti Halima Lazuardi, M.M.",L,2000-09-20,62,SMA Negeri 35 Kalimantan Tengah,A,3,2021,Aktif
+1444,A21041444,Puti Usyi Winarno,L,2007-12-25,71,SMA Negeri 9 Sulawesi Utara,B,4,2021,Lulus
+1445,A18091445,Zulaikha Wulandari,L,2004-07-10,35,SMA Negeri 30 Jawa Timur,C,9,2018,Lulus
+1446,A20061446,Karya Mandasari,L,2003-04-17,21,SMA Negeri 10 Kepulauan Riau,B,6,2020,Lulus
+1447,A19101447,Nabila Sitompul,P,2003-05-10,53,SMA Negeri 33 Nusa Tenggara Timur,A,10,2019,Aktif
+1448,A20121448,Cagak Pranowo,P,1997-11-06,18,SMA Negeri 32 Lampung,TT,12,2020,Lulus
+1449,A18051449,Bella Wijaya,L,2003-10-30,71,SMA Negeri 14 Sulawesi Utara,B,5,2018,Lulus
+1450,A23121450,"Maimunah Puspasari, S.Farm",L,1998-08-27,35,SMA Negeri 32 Jawa Timur,A,12,2023,Aktif
+1451,A20121451,Dalima Marpaung,L,2003-07-31,72,SMA Negeri 22 Sulawesi Tengah,A,12,2020,Lulus
+1452,A20071452,"Puti Laila Rajasa, S.T.",L,1999-10-05,81,SMA Negeri 47 Maluku,C,7,2020,Aktif
+1453,A23051453,Harimurti Situmorang,P,1999-12-06,53,SMA Negeri 36 Nusa Tenggara Timur,B,5,2023,Aktif
+1454,A19071454,Prima Prasetya,P,2001-10-08,17,SMA Negeri 4 Bengkulu,B,7,2019,Lulus
+1455,A21121455,Ajiman Hastuti,P,2008-05-12,61,SMA Negeri 45 Kalimantan Barat,A,12,2021,Aktif
+1456,A19081456,Tari Namaga,L,2005-08-12,53,SMA Negeri 13 Nusa Tenggara Timur,B,8,2019,Lulus
+1457,A20121457,"Ir. Latika Adriansyah, S.Sos",P,1998-08-22,11,SMA Negeri 10 Aceh,A,12,2020,Lulus
+1458,A23071458,"Hj. Elma Safitri, M.Ak",L,2006-11-27,74,SMA Negeri 7 Sulawesi Tenggara,A,7,2023,Aktif
+1459,A19061459,"Baktiadi Mayasari, M.Pd",L,1998-10-17,81,SMA Negeri 42 Maluku,A,6,2019,Cuti
+1460,A19061460,Cengkal Nuraini,L,2002-06-21,74,SMA Negeri 16 Sulawesi Tenggara,C,6,2019,Aktif
+1461,A20071461,H. Gantar Lazuardi,P,1998-11-13,82,SMA Negeri 50 Maluku Utara,A,7,2020,Lulus
+1462,A21121462,Candra Yolanda,L,2005-04-01,16,SMA Negeri 29 Sumatera Selatan,C,12,2021,Lulus
+1463,A18061463,Drs. Gabriella Pangestu,L,1998-08-12,11,SMA Negeri 42 Aceh,A,6,2018,Aktif
+1464,A19111464,Heru Agustina,P,2006-01-22,91,SMA Negeri 37 Papua Barat,A,11,2019,Lulus
+1465,A23081465,Ella Suryono,P,2003-10-15,52,SMA Negeri 12 Nusa Tenggara Barat,A,8,2023,Aktif
+1466,A23071466,Kajen Saputra,L,2003-12-20,81,SMA Negeri 37 Maluku,C,7,2023,Aktif
+1467,A20031467,Fitriani Kurniawan,P,2003-11-27,17,SMA Negeri 35 Bengkulu,A,3,2020,DO
+1468,A23031468,Tina Salahudin,L,2003-01-27,72,SMA Negeri 36 Sulawesi Tengah,A,3,2023,Aktif
+1469,A21091469,Yosef Nasyiah,P,2005-02-23,94,SMA Negeri 35 Papua,A,9,2021,Lulus
+1470,A19121470,Edi Ardianto,L,1998-05-19,18,SMA Negeri 45 Lampung,A,12,2019,Lulus
+1471,A22031471,Dwi Mansur,L,2003-08-17,11,SMA Negeri 8 Aceh,TT,3,2022,Aktif
+1472,A22011472,Hj. Puspa Irawan,P,2003-03-28,19,SMA Negeri 11 Kepulauan Bangka Belitung,B,1,2022,Aktif
+1473,A18021473,Hafshah Pertiwi,L,2001-01-12,51,SMA Negeri 24 Bali,A,2,2018,Lulus
+1474,A21091474,Latif Mandala,L,2004-12-23,31,SMA Negeri 34 DKI Jakarta,A,9,2021,Aktif
+1475,A19051475,Tiara Hasanah,P,2003-09-09,75,SMA Negeri 23 Gorontalo,TT,5,2019,Aktif
+1476,A19101476,Karen Haryanto,P,2002-12-22,91,SMA Negeri 16 Papua Barat,A,10,2019,Lulus
+1477,A19011477,Sutan Raden Pratama,L,1999-10-22,33,SMA Negeri 39 Jawa Tengah,B,1,2019,Cuti
+1478,A22091478,Maryadi Prasetyo,L,2003-06-17,34,SMA Negeri 9 DI Yogyakarta,B,9,2022,Aktif
+1479,A18121479,"Hendra Irawan, M.M.",L,2001-09-30,74,SMA Negeri 11 Sulawesi Tenggara,B,12,2018,Aktif
+1480,A18071480,"Eluh Saptono, S.Ked",P,2005-11-11,76,SMA Negeri 45 Sulawesi Barat,B,7,2018,Aktif
+1481,A18031481,"Dt. Balangga Kusmawati, M.TI.",P,2006-10-12,34,SMA Negeri 13 DI Yogyakarta,B,3,2018,Lulus
+1482,A22121482,Sutan Asmadi Agustina,L,2006-04-05,65,SMA Negeri 10 Kalimantan Utara,A,12,2022,Aktif
+1483,A21061483,Putri Hidayat,P,2004-11-03,74,SMA Negeri 18 Sulawesi Tenggara,A,6,2021,Aktif
+1484,A23021484,Darmana Napitupulu,L,2002-12-11,18,SMA Negeri 22 Lampung,C,2,2023,Aktif
+1485,A20111485,"Drs. Gandi Wulandari, M.Ak",L,1999-08-18,16,SMA Negeri 15 Sumatera Selatan,B,11,2020,Aktif
+1486,A18051486,Caraka Lailasari,L,2000-12-30,11,SMA Negeri 7 Aceh,C,5,2018,Aktif
+1487,A22021487,"Bagiya Zulkarnain, S.Ked",P,1998-05-25,32,SMA Negeri 32 Jawa Barat,B,2,2022,Aktif
+1488,A20021488,"Icha Setiawan, M.Farm",P,2003-05-28,94,SMA Negeri 7 Papua,B,2,2020,Aktif
+1489,A20011489,"Raisa Pradipta, S.Gz",L,2002-11-20,31,SMA Negeri 48 DKI Jakarta,C,1,2020,Aktif
+1490,A21111490,"R. Jabal Saefullah, S.IP",L,1998-03-14,72,SMA Negeri 33 Sulawesi Tengah,A,11,2021,Aktif
+1491,A23121491,Keisha Tamba,L,2005-10-11,21,SMA Negeri 25 Kepulauan Riau,A,12,2023,Aktif
+1492,A18101492,Eja Uwais,P,2004-10-21,52,SMA Negeri 44 Nusa Tenggara Barat,B,10,2018,Lulus
+1493,A23101493,Raisa Sudiati,L,2007-07-30,73,SMA Negeri 29 Sulawesi Selatan,TT,10,2023,Aktif
+1494,A22061494,Yuliana Damanik,L,2002-03-01,76,SMA Negeri 28 Sulawesi Barat,B,6,2022,Aktif
+1495,A20091495,Tiara Wijayanti,L,2001-03-12,35,SMA Negeri 21 Jawa Timur,A,9,2020,Aktif
+1496,A18021496,Abyasa Maryadi,L,2006-05-26,16,SMA Negeri 4 Sumatera Selatan,B,2,2018,Aktif
+1497,A22021497,R.M. Daruna Astuti,L,2000-11-12,53,SMA Negeri 28 Nusa Tenggara Timur,TT,2,2022,Aktif
+1498,A23111498,"Rini Yolanda, S.H.",L,2002-03-28,91,SMA Negeri 32 Papua Barat,A,11,2023,Aktif
+1499,A21091499,"Ida Sihotang, S.Farm",P,2002-02-21,18,SMA Negeri 48 Lampung,A,9,2021,Aktif
+1500,A23011500,Hesti Anggraini,L,2008-02-02,74,SMA Negeri 48 Sulawesi Tenggara,B,1,2023,Aktif

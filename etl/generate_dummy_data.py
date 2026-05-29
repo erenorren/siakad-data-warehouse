@@ -301,7 +301,9 @@ print(f"  Nilai          : {len(nilai_rows)}")
 # ─────────────────────────────────────────────
 # Save to CSV
 # ─────────────────────────────────────────────
-OUTPUT_DIR = '/home/claude/siakad_dw/data'
+from pathlib import Path
+
+OUTPUT_DIR = Path(__file__).parent.parent / 'data'
 
 def write_csv(filename, headers, rows):
     path = f"{OUTPUT_DIR}/{filename}"

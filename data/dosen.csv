@@ -1,0 +1,101 @@
+id_dosen,nidn,nama_dosen,id_prodi,jabatan_akademik,pendidikan_terakhir,tgl_masuk,status_aktif
+1,1000000001,"Viktor Hutapea, S.Farm",11,Asisten Ahli,S2,2011-02-10,True
+2,1000000002,Teguh Uyainah,12,Lektor Kepala,S2,2006-03-16,True
+3,1000000003,Paulin Handayani,4,Lektor,S2,2007-12-24,True
+4,1000000004,H. Jatmiko Prakasa,11,Asisten Ahli,S3,2006-06-22,True
+5,1000000005,"Samiah Wasita, S.IP",7,Asisten Ahli,S2,2015-09-18,True
+6,1000000006,Emil Pertiwi,2,Lektor,S2,2004-09-12,True
+7,1000000007,"Eja Saputra, S.Psi",9,Asisten Ahli,S3,2014-02-24,True
+8,1000000008,Michelle Mansur,4,Guru Besar,S2,2001-09-29,True
+9,1000000009,Najwa Utama,8,Lektor Kepala,S2,2015-06-24,True
+10,1000000010,Rahmi Mandala,3,Guru Besar,S2,2010-11-24,True
+11,1000000011,"drg. Galuh Salahudin, M.Ak",5,Lektor,S2,2010-05-02,True
+12,1000000012,"Dr. Fitriani Laksita, S.Pd",6,Asisten Ahli,S2,2005-08-18,True
+13,1000000013,Salimah Siregar,7,Asisten Ahli,S2,2015-01-17,True
+14,1000000014,Dagel Pratiwi,6,Lektor Kepala,S2,2008-01-24,True
+15,1000000015,"R.A. Irma Hutasoit, M.Farm",12,Guru Besar,S3,2014-11-09,True
+16,1000000016,Drs. Ilyas Salahudin,2,Guru Besar,S2,2011-02-18,True
+17,1000000017,Jagaraga Ramadan,9,Lektor Kepala,S3,2016-07-28,True
+18,1000000018,R. Jamalia Astuti,6,Lektor,S2,2005-10-25,True
+19,1000000019,Mahmud Simbolon,1,Lektor,S2,2006-04-23,True
+20,1000000020,Keisha Hassanah,2,Lektor,S2,2011-08-19,True
+21,1000000021,drg. Titi Lazuardi,7,Lektor Kepala,S3,2005-09-05,True
+22,1000000022,Rika Saefullah,11,Lektor Kepala,S2,2011-11-16,True
+23,1000000023,Dt. Langgeng Hariyah,6,Lektor Kepala,S2,2014-11-11,True
+24,1000000024,"Dr. Dasa Laksita, S.Gz",11,Lektor Kepala,S2,2009-09-23,True
+25,1000000025,"H. Danu Uyainah, S.Farm",10,Lektor,S3,2005-07-23,True
+26,1000000026,"Nalar Setiawan, S.H.",12,Lektor,S2,2009-09-20,True
+27,1000000027,H. Damar Saefullah,8,Guru Besar,S2,2016-07-19,True
+28,1000000028,"Faizah Gunarto, S.Kom",11,Lektor,S2,2005-07-14,True
+29,1000000029,Vega Gunarto,1,Lektor,S2,2015-04-13,True
+30,1000000030,Baktiadi Yulianti,6,Guru Besar,S2,2013-02-12,True
+31,1000000031,Kawaya Prabowo,2,Lektor,S3,2014-10-31,True
+32,1000000032,Umi Hastuti,12,Lektor Kepala,S2,2004-12-28,True
+33,1000000033,Tedi Gunarto,11,Guru Besar,S3,2010-07-07,True
+34,1000000034,drg. Ella Najmudin,11,Guru Besar,S2,2008-03-01,True
+35,1000000035,Bahuraksa Aryani,5,Lektor,S2,2012-11-18,True
+36,1000000036,Ozy Situmorang,12,Lektor Kepala,S3,2006-03-14,True
+37,1000000037,Sutan Wasis Napitupulu,7,Guru Besar,S2,2013-02-13,True
+38,1000000038,Panca Santoso,4,Lektor,S3,2019-11-05,True
+39,1000000039,Jagaraga Mustofa,8,Asisten Ahli,S2,2002-03-02,True
+40,1000000040,Maria Nurdiyanti,2,Lektor,S2,2017-05-22,True
+41,1000000041,Eka Yulianti,11,Guru Besar,S3,2001-03-21,True
+42,1000000042,Yance Wacana,2,Guru Besar,S3,2019-06-02,True
+43,1000000043,"Eman Firmansyah, S.IP",10,Guru Besar,S3,2013-04-10,True
+44,1000000044,Gantar Waluyo,5,Asisten Ahli,S2,2002-01-12,True
+45,1000000045,Danang Siregar,11,Lektor Kepala,S2,2001-03-25,True
+46,1000000046,"Okto Wulandari, S.H.",2,Lektor Kepala,S3,2003-11-02,True
+47,1000000047,Irsad Sitorus,3,Guru Besar,S2,2005-04-24,True
+48,1000000048,"Dariati Lazuardi, M.Pd",12,Lektor Kepala,S3,2012-08-09,True
+49,1000000049,Jefri Agustina,3,Asisten Ahli,S2,2005-03-03,True
+50,1000000050,Eli Saefullah,11,Lektor,S2,2004-07-30,True
+51,1000000051,Dirja Lailasari,6,Lektor,S3,2015-05-08,True
+52,1000000052,Malika Wahyudin,9,Asisten Ahli,S3,2005-02-23,True
+53,1000000053,"Baktiadi Damanik, S.Ked",6,Guru Besar,S2,2012-03-04,True
+54,1000000054,Gawati Sihombing,2,Lektor Kepala,S2,2002-01-20,True
+55,1000000055,Johan Gunawan,4,Asisten Ahli,S2,2011-09-18,True
+56,1000000056,drg. Mulyanto Palastri,10,Asisten Ahli,S2,2002-10-26,True
+57,1000000057,Mujur Nasyidah,12,Guru Besar,S2,2018-12-25,True
+58,1000000058,Zelaya Wasita,9,Lektor,S2,2013-11-17,True
+59,1000000059,"Tgk. Najwa Palastri, S.Sos",11,Guru Besar,S3,2010-01-04,True
+60,1000000060,Himawan Sihombing,3,Lektor Kepala,S3,2002-08-20,True
+61,1000000061,Intan Maheswara,10,Guru Besar,S2,2007-08-16,True
+62,1000000062,Adika Natsir,9,Lektor,S2,2015-10-25,True
+63,1000000063,Luthfi Permata,7,Lektor Kepala,S3,2014-08-15,True
+64,1000000064,Puji Yuliarti,9,Guru Besar,S2,2006-07-05,True
+65,1000000065,Ghaliyati Thamrin,4,Lektor,S2,2016-05-05,True
+66,1000000066,Galiono Kuswandari,6,Asisten Ahli,S3,2013-06-28,True
+67,1000000067,Gaduh Iswahyudi,9,Lektor,S3,2001-07-13,True
+68,1000000068,Kunthara Kuswoyo,4,Asisten Ahli,S2,2016-12-27,True
+69,1000000069,"Kala Maheswara, M.Pd",12,Asisten Ahli,S2,2002-02-12,True
+70,1000000070,Nasim Sudiati,2,Asisten Ahli,S2,2017-08-25,True
+71,1000000071,Vivi Saptono,2,Lektor,S2,2004-09-10,True
+72,1000000072,KH. Ajiman Kuswoyo,11,Guru Besar,S2,2004-06-17,True
+73,1000000073,Puput Wulandari,9,Lektor,S3,2008-12-01,True
+74,1000000074,Yulia Usamah,10,Guru Besar,S2,2017-11-15,True
+75,1000000075,"Ir. Zamira Wastuti, S.Pd",8,Guru Besar,S2,2000-07-13,True
+76,1000000076,Kambali Habibi,2,Asisten Ahli,S3,2014-08-18,True
+77,1000000077,Prayitna Mansur,6,Guru Besar,S3,2018-12-06,True
+78,1000000078,Drs. Padma Agustina,8,Asisten Ahli,S2,2015-04-02,True
+79,1000000079,"Puti Aurora Purnawati, S.E.",1,Guru Besar,S2,2014-06-04,True
+80,1000000080,Citra Hakim,2,Lektor,S2,2011-11-10,True
+81,1000000081,Vanesa Narpati,4,Guru Besar,S2,2018-01-24,True
+82,1000000082,"KH. Aslijan Januar, S.H.",7,Lektor,S2,2015-02-28,True
+83,1000000083,Wani Hastuti,8,Lektor,S2,2009-01-21,True
+84,1000000084,Sutan Harsana Setiawan,8,Asisten Ahli,S2,2018-01-27,True
+85,1000000085,R. Langgeng Siregar,11,Asisten Ahli,S2,2009-02-04,True
+86,1000000086,"KH. Pranawa Prasasta, S.E.I",4,Lektor,S3,2001-07-26,True
+87,1000000087,Nugraha Prasetya,8,Guru Besar,S2,2001-12-29,True
+88,1000000088,Labuh Mayasari,7,Asisten Ahli,S2,2015-11-10,True
+89,1000000089,Edi Sitorus,7,Asisten Ahli,S3,2008-04-12,True
+90,1000000090,Shakila Melani,5,Guru Besar,S2,2007-01-17,True
+91,1000000091,Ulya Waskita,7,Guru Besar,S2,2001-03-16,True
+92,1000000092,Najib Pradana,4,Lektor Kepala,S2,2008-03-06,True
+93,1000000093,"Galiono Hutasoit, M.Pd",1,Asisten Ahli,S2,2012-03-18,True
+94,1000000094,R.A. Genta Lailasari,1,Asisten Ahli,S3,2000-12-10,True
+95,1000000095,Natalia Maryadi,8,Lektor,S2,2000-09-28,True
+96,1000000096,Irwan Sitorus,9,Asisten Ahli,S2,2006-02-23,True
+97,1000000097,"Tgk. Daruna Latupono, S.IP",2,Asisten Ahli,S2,2010-12-07,True
+98,1000000098,Tari Hasanah,7,Asisten Ahli,S3,2000-02-20,True
+99,1000000099,Cinthia Purwanti,4,Asisten Ahli,S3,2005-10-21,True
+100,1000000100,dr. Olga Yolanda,2,Guru Besar,S3,2012-03-19,True

@@ -1,0 +1,13 @@
+id_prodi,kode_prodi,nama_prodi,jenjang,id_fakultas,akreditasi_prodi
+1,TIF,Teknik Informatika,S1,1,A
+2,TSI,Sistem Informasi,S1,1,B
+3,TE,Teknik Elektro,S1,1,B
+4,PBI,Pendidikan Bahasa Inggris,S1,2,A
+5,PMAT,Pendidikan Matematika,S1,2,B
+6,MAN,Manajemen,S1,3,A
+7,AKT,Akuntansi,S1,3,A
+8,MTK,Matematika,S1,4,B
+9,KIM,Kimia,S1,4,B
+10,HKM,Ilmu Hukum,S1,5,B
+11,PDK,Pendidikan Dokter,S1,6,A
+12,TIF2,Teknik Informatika,S2,1,B
