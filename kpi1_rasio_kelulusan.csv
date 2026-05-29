@@ -1,0 +1,61 @@
+nama_prodi,jenjang,tahun_akademik,total_mahasiswa_lulus,lulus_tepat_waktu,rasio_tepat_waktu_pct
+Pendidikan Dokter,S1,2020,50,22,44.0
+Matematika,S1,2020,80,26,32.5
+Teknik Elektro,S1,2020,47,15,31.91
+Pendidikan Bahasa Inggris,S1,2020,61,18,29.51
+Manajemen,S1,2020,56,15,26.79
+Pendidikan Matematika,S1,2020,68,17,25.0
+Sistem Informasi,S1,2020,60,15,25.0
+Akuntansi,S1,2020,53,13,24.53
+Teknik Informatika,S1,2020,59,14,23.73
+Teknik Informatika,S2,2020,57,12,21.05
+Ilmu Hukum,S1,2020,54,10,18.52
+Kimia,S1,2020,65,11,16.92
+Pendidikan Dokter,S1,2021,80,37,46.25
+Matematika,S1,2021,103,40,38.83
+Sistem Informasi,S1,2021,83,28,33.73
+Teknik Elektro,S1,2021,70,23,32.86
+Pendidikan Bahasa Inggris,S1,2021,79,25,31.65
+Teknik Informatika,S1,2021,74,23,31.08
+Manajemen,S1,2021,78,23,29.49
+Teknik Informatika,S2,2021,86,24,27.91
+Akuntansi,S1,2021,71,19,26.76
+Pendidikan Matematika,S1,2021,86,23,26.74
+Kimia,S1,2021,91,22,24.18
+Ilmu Hukum,S1,2021,75,18,24.0
+Pendidikan Dokter,S1,2022,89,37,41.57
+Matematika,S1,2022,106,40,37.74
+Pendidikan Bahasa Inggris,S1,2022,87,25,28.74
+Teknik Elektro,S1,2022,81,23,28.4
+Sistem Informasi,S1,2022,100,28,28.0
+Pendidikan Matematika,S1,2022,85,23,27.06
+Manajemen,S1,2022,87,23,26.44
+Teknik Informatika,S1,2022,88,23,26.14
+Teknik Informatika,S2,2022,95,24,25.26
+Ilmu Hukum,S1,2022,82,18,21.95
+Akuntansi,S1,2022,87,19,21.84
+Kimia,S1,2022,101,22,21.78
+Pendidikan Dokter,S1,2023,83,37,44.58
+Matematika,S1,2023,99,40,40.4
+Sistem Informasi,S1,2023,78,28,35.9
+Teknik Informatika,S1,2023,67,23,34.33
+Pendidikan Bahasa Inggris,S1,2023,78,25,32.05
+Teknik Elektro,S1,2023,72,23,31.94
+Teknik Informatika,S2,2023,76,24,31.58
+Pendidikan Matematika,S1,2023,73,23,31.51
+Kimia,S1,2023,78,22,28.21
+Manajemen,S1,2023,86,23,26.74
+Akuntansi,S1,2023,74,19,25.68
+Ilmu Hukum,S1,2023,72,18,25.0
+Pendidikan Dokter,S1,2024,36,15,41.67
+Sistem Informasi,S1,2024,33,13,39.39
+Matematika,S1,2024,38,14,36.84
+Teknik Informatika,S2,2024,35,12,34.29
+Kimia,S1,2024,33,11,33.33
+Teknik Elektro,S1,2024,27,8,29.63
+Teknik Informatika,S1,2024,31,9,29.03
+Ilmu Hukum,S1,2024,31,8,25.81
+Manajemen,S1,2024,33,8,24.24
+Pendidikan Bahasa Inggris,S1,2024,32,7,21.88
+Akuntansi,S1,2024,29,6,20.69
+Pendidikan Matematika,S1,2024,35,6,17.14

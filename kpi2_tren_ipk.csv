@@ -1,0 +1,11 @@
+tahun_akademik,label_semester,periode_label,rata_rata_ipk,ipk_min,ipk_max,jumlah_mahasiswa
+2020,Ganjil,Semester Ganjil 2020/2021,2.967,0.0,4.0,710
+2020,Genap,Semester Genap 2020/2021,2.97,1.41,3.88,703
+2021,Ganjil,Semester Ganjil 2021/2022,2.96,0.0,4.0,976
+2021,Genap,Semester Genap 2021/2022,2.963,1.35,3.88,962
+2022,Ganjil,Semester Ganjil 2022/2023,2.969,0.0,4.0,1088
+2022,Genap,Semester Genap 2022/2023,2.967,1.86,3.84,960
+2023,Ganjil,Semester Ganjil 2023/2024,2.975,0.0,4.0,936
+2023,Genap,Semester Genap 2023/2024,2.966,1.43,3.8,725
+2024,Ganjil,Semester Ganjil 2024/2025,2.971,1.81,3.65,393
+2024,Genap,Semester Genap 2024/2025,2.982,1.91,3.54,170
