@@ -109,25 +109,24 @@ def transform_dim_demografi(ump_data: list[dict]) -> list[dict]:
     logger = get_run_logger()
     dims = []
     for row in ump_data:
-        ump_2024 = int(row.get('ump_2024', 0) or 0)
-        # Kategorikan berdasarkan UMP 2024
-        if ump_2024 >= 3_500_000:
+        ump_2026 = int(row.get('ump_2026', 0) or 0)
+        if ump_2026 >= 3_500_000:
             kategori = 'Tinggi'
-        elif ump_2024 >= 2_500_000:
+        elif ump_2026 >= 2_500_000:
             kategori = 'Menengah'
         else:
             kategori = 'Rendah'
         dims.append({
             'kode_provinsi'      : row['kode_provinsi'],
             'nama_provinsi'      : row['nama_provinsi'],
-            'ump_2021'           : int(row.get('ump_2021', 0) or 0),
-            'ump_2022'           : int(row.get('ump_2022', 0) or 0),
             'ump_2023'           : int(row.get('ump_2023', 0) or 0),
-            'ump_2024'           : ump_2024,
-            'ump_terbaru'        : ump_2024,
-            'tahun_ump_terbaru'  : 2024,
+            'ump_2024'           : int(row.get('ump_2024', 0) or 0),
+            'ump_2025'           : int(row.get('ump_2025', 0) or 0),
+            'ump_2026'           : ump_2026,
+            'ump_terbaru'        : ump_2026,
+            'tahun_ump_terbaru'  : 2026,
             'kategori_ekonomi'   : kategori,
-            'sumber_data'        : row.get('sumber','BPS Indonesia'),
+            'sumber_data'        : row.get('sumber', 'BPS Indonesia'),
             'tgl_update_dw'      : str(date.today()),
         })
     logger.info(f"  dim_demografi_ekonomi: {len(dims)} baris")
@@ -423,7 +422,7 @@ def load_create_schema() -> sqlite3.Connection:
     CREATE TABLE IF NOT EXISTS dim_demografi_ekonomi (
         sk_demografi INTEGER PRIMARY KEY AUTOINCREMENT,
         kode_provinsi TEXT UNIQUE, nama_provinsi TEXT,
-        ump_2021 INT, ump_2022 INT, ump_2023 INT, ump_2024 INT,
+        ump_2023 INT, ump_2024 INT, ump_2025 INT, ump_2026 INT,
         ump_terbaru INT, tahun_ump_terbaru INT,
         kategori_ekonomi TEXT, sumber_data TEXT, tgl_update_dw TEXT);
 
