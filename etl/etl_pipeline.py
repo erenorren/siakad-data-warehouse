@@ -1,18 +1,8 @@
-"""
-etl_pipeline.py
-ETL Pipeline SIAKAD Data Warehouse menggunakan Python + Prefect
-Mengintegrasikan data OLTP internal (CSV dummy) dan data publik eksternal (UMP BPS)
-
-Alur:
-  Extract  → Baca CSV OLTP + CSV UMP BPS
-  Transform → Bersihkan, validasi, bangun dimensi + tabel fakta
-  Load     → Simpan ke SQLite (portable, tidak butuh server PostgreSQL)
-             File: siakad_dw.db
-"""
 import os, csv, sqlite3, logging
 from datetime import date, datetime
 from pathlib import Path
 from typing import Any
+import pandas as pd
 
 # Prefect imports
 from prefect import flow, task, get_run_logger
@@ -51,10 +41,19 @@ def extract_oltp_data() -> dict[str, list[dict]]:
 def extract_public_ump() -> list[dict]:
     """Extract data publik UMP BPS dari CSV."""
     logger = get_run_logger()
-    path = DATA_DIR / 'ump_provinsi_bps.csv'
+    path = DATA_DIR / 'ump_provinsi.csv'
     with open(path, encoding='utf-8') as f:
         rows = list(csv.DictReader(f))
     logger.info(f"  Extract UMP BPS: {len(rows)} provinsi")
+    return rows
+
+@task(name="extract_akreditasi_sma", retries=2, retry_delay_seconds=5)
+def extract_akreditasi_sma() -> list[dict]:
+    logger = get_run_logger()
+    path = DATA_DIR / "akreditasi_sma.xlsx"
+    df = pd.read_excel(path)
+    rows = df.to_dict("records")
+    logger.info(f"  Extract Akreditasi SMA: {len(rows)} sekolah")
     return rows
 
 
@@ -139,16 +138,12 @@ def transform_dim_demografi(ump_data: list[dict]) -> list[dict]:
 def transform_dim_mahasiswa_scd2(
     oltp: dict,
     dim_prodi: list[dict],
-    dim_demografi: list[dict],
-    conn: sqlite3.Connection
-) -> tuple[list[dict], dict]:
-    """
-    SCD Type 2 untuk dim_mahasiswa.
-    Cek apakah status_mhs berubah → jika ya, tutup record lama dan buat yang baru.
-    """
+    conn: sqlite3.Connection, 
+    akreditasi_data: list[dict]) -> tuple[list[dict], dict]:
     logger = get_run_logger()
     prov_map   = {p['kode_provinsi']: p['nama_provinsi'] for p in oltp['provinsi']}
     prodi_sk   = {p['id_prodi_sumber']: i+1 for i,p in enumerate(dim_prodi)}
+    akreditasi_map = {row['Nama Sekolah']: row['Akreditasi'] for row in akreditasi_data}
 
     # Load existing SCD rows (dari DB)
     cur = conn.cursor()
@@ -176,14 +171,14 @@ def transform_dim_mahasiswa_scd2(
                 logger.info(f"  SCD2: id_mhs={id_src} status {old['status']}→{status_new}")
                 # Buat record baru
                 sk_counter += 1
-                row = _build_mhs_row(sk_counter, mhs, prodi_sk, prov_map, today)
+                row = _build_mhs_row(sk_counter, mhs, prodi_sk, prov_map, today, akreditasi_map)
                 new_rows.append(row)
                 sk_map[id_src] = sk_counter
             else:
                 sk_map[id_src] = old['sk']
         else:
             sk_counter += 1
-            row = _build_mhs_row(sk_counter, mhs, prodi_sk, prov_map, today)
+            row = _build_mhs_row(sk_counter, mhs, prodi_sk, prov_map, today, akreditasi_map)
             new_rows.append(row)
             sk_map[id_src] = sk_counter
 
@@ -191,7 +186,7 @@ def transform_dim_mahasiswa_scd2(
     return new_rows, sk_map
 
 
-def _build_mhs_row(sk, mhs, prodi_sk, prov_map, today):
+def _build_mhs_row(sk, mhs, prodi_sk, prov_map, today, akreditasi_map):
     return {
         'sk_mahasiswa'       : sk,
         'id_mhs_sumber'      : int(mhs['id_mhs']),
@@ -201,7 +196,7 @@ def _build_mhs_row(sk, mhs, prodi_sk, prov_map, today):
         'kode_provinsi_asal' : mhs['kode_provinsi_asal'],
         'nama_provinsi_asal' : prov_map.get(mhs['kode_provinsi_asal'], ''),
         'nama_sma_asal'      : mhs['nama_sma_asal'],
-        'akreditasi_sma_asal': mhs['akreditasi_sma_asal'],
+        'akreditasi_sma_asal': akreditasi_map.get(mhs['nama_sma_asal']),
         'sk_prodi'           : prodi_sk.get(int(mhs['id_prodi']), 1),
         'tahun_masuk'        : int(mhs['tahun_masuk']),
         'status_mhs'         : mhs['status_mhs'],
@@ -524,6 +519,7 @@ def siakad_etl_flow():
     print("\n[1/3] EXTRACT")
     oltp     = extract_oltp_data()
     ump_data = extract_public_ump()
+    akreditasi_data = extract_akreditasi_sma()
 
     # ── TRANSFORM ────────────────────────────────────────────
     print("\n[2/3] TRANSFORM")
@@ -546,7 +542,7 @@ def siakad_etl_flow():
     sk_demo_map = {r[0]: r[1] for r in cur.fetchall()}
 
     # SCD2 untuk mahasiswa
-    mhs_new_rows, sk_mhs_map = transform_dim_mahasiswa_scd2(oltp, dim_prodi, dim_demografi, conn)
+    mhs_new_rows, sk_mhs_map = transform_dim_mahasiswa_scd2(oltp, dim_prodi, conn, akreditasi_data)
 
     # Load sisa dimensi
     load_dimensions(conn, {
