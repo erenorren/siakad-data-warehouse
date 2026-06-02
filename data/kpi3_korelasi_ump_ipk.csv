@@ -1,35 +1,35 @@
 nama_provinsi,kategori_ekonomi,ump_juta,rata_rata_ipk,jumlah_mahasiswa
-DKI Jakarta,Tinggi,5.07,2.988,37
-Papua,Tinggi,4.02,2.959,39
-Kepulauan Bangka Belitung,Tinggi,3.64,3.003,55
-Sulawesi Utara,Tinggi,3.54,2.995,47
-Aceh,Menengah,3.46,3.049,33
-Kalimantan Utara,Menengah,3.46,2.955,40
-Sumatera Selatan,Menengah,3.46,2.893,46
-Sulawesi Selatan,Menengah,3.43,2.911,45
-Papua Barat,Menengah,3.43,2.976,42
-Kepulauan Riau,Menengah,3.4,2.951,50
-Kalimantan Timur,Menengah,3.36,2.875,34
-Riau,Menengah,3.29,2.97,40
-Kalimantan Selatan,Menengah,3.28,2.951,42
-Kalimantan Tengah,Menengah,3.26,2.913,48
-Maluku Utara,Menengah,3.2,2.942,50
-Maluku,Menengah,3.14,2.967,56
-Jambi,Menengah,3.04,2.961,46
-Gorontalo,Menengah,3.03,2.946,50
-Sulawesi Barat,Menengah,2.91,2.92,36
-Sulawesi Tenggara,Menengah,2.89,3.025,47
-Bali,Menengah,2.81,3.014,46
-Sumatera Barat,Menengah,2.81,2.987,40
-Sumatera Utara,Menengah,2.81,2.936,44
-Sulawesi Tengah,Menengah,2.74,3.009,40
-Banten,Menengah,2.73,2.928,40
-Lampung,Menengah,2.72,2.961,51
-Kalimantan Barat,Menengah,2.7,2.944,45
-Bengkulu,Menengah,2.51,2.967,45
-Nusa Tenggara Barat,Rendah,2.44,3.044,49
-Jawa Barat,Rendah,2.19,2.968,37
-Nusa Tenggara Timur,Rendah,2.19,3.027,44
-Jawa Timur,Rendah,2.17,3.057,44
-DI Yogyakarta,Rendah,2.13,2.959,48
-Jawa Tengah,Rendah,2.04,2.945,44
+DKI Jakarta,Tinggi,5.73,2.988,37
+Papua,Tinggi,4.44,2.959,39
+Bangka Belitung,Tinggi,4.04,3.003,55
+Sulawesi Utara,Tinggi,4.0,2.995,47
+Sumatera Selatan,Tinggi,3.94,2.893,46
+Aceh,Tinggi,3.93,3.049,33
+Sulawesi Selatan,Tinggi,3.92,2.911,45
+Kepulauan Riau,Tinggi,3.88,2.951,50
+Papua Barat,Tinggi,3.84,2.976,42
+Riau,Tinggi,3.78,2.97,40
+Kalimantan Utara,Tinggi,3.78,2.955,40
+Kalimantan Timur,Tinggi,3.76,2.875,34
+Kalimantan Selatan,Tinggi,3.73,2.951,42
+Kalimantan Tengah,Tinggi,3.69,2.913,48
+Maluku Utara,Tinggi,3.51,2.942,50
+Jambi,Menengah,3.47,2.961,46
+Gorontalo,Menengah,3.41,2.946,50
+Maluku,Menengah,3.33,2.967,56
+Sulawesi Barat,Menengah,3.32,2.92,36
+Sulawesi Tenggara,Menengah,3.31,3.025,47
+Sumatera Utara,Menengah,3.23,2.936,44
+Bali,Menengah,3.21,3.014,46
+Sumatera Barat,Menengah,3.18,2.987,40
+Sulawesi Tengah,Menengah,3.18,3.009,40
+Banten,Menengah,3.1,2.928,40
+Kalimantan Barat,Menengah,3.05,2.944,45
+Lampung,Menengah,3.05,2.961,51
+Bengkulu,Menengah,2.83,2.967,45
+Nusa Tenggara Barat,Menengah,2.67,3.044,49
+Nusa Tenggara Timur,Rendah,2.46,3.027,44
+Jawa Timur,Rendah,2.45,3.057,44
+DI. Yogyakarta,Rendah,2.42,2.959,48
+Jawa Tengah,Rendah,2.33,2.945,44
+Jawa Barat,Rendah,2.32,2.968,37

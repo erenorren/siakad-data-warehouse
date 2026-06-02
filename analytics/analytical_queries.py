@@ -118,42 +118,5 @@ run_query(
     "kpi4_korelasi_akreditasi_ipk.csv"
 )
 
-# ── KPI 5: Tren Pendaftaran per Jalur per Tahun ───────────────
-run_query(
-    "KPI 5: Tren Pendaftaran per Jalur Masuk per Tahun",
-    """
-    SELECT
-        dw.tahun_akademik,
-        fp.jalur_masuk,
-        COUNT(*) AS jumlah_pendaftar
-    FROM fact_pendaftaran fp
-    JOIN dim_waktu dw ON fp.sk_waktu = dw.sk_waktu
-    GROUP BY dw.tahun_akademik, fp.jalur_masuk
-    ORDER BY dw.tahun_akademik, fp.jalur_masuk
-    """,
-    "kpi5_tren_pendaftaran.csv"
-)
-
-# ── KPI 6: Beban Mengajar Dosen ───────────────────────────────
-run_query(
-    "KPI 6: Beban Mengajar Dosen (Top 15)",
-    """
-    SELECT
-        dd.nama_dosen,
-        dd.jabatan_akademik,
-        dp.nama_prodi,
-        COUNT(DISTINCT fkrs.sk_mk)        AS jumlah_mk_diajar,
-        COUNT(DISTINCT fkrs.sk_mahasiswa) AS jumlah_mahasiswa,
-        SUM(fkrs.sks_diambil)             AS total_sks
-    FROM fact_krs fkrs
-    JOIN dim_dosen  dd ON fkrs.sk_dosen = dd.sk_dosen
-    JOIN dim_prodi  dp ON fkrs.sk_prodi = dp.sk_prodi
-    GROUP BY dd.nama_dosen, dd.jabatan_akademik, dp.nama_prodi
-    ORDER BY total_sks DESC
-    LIMIT 15
-    """,
-    "kpi6_beban_dosen.csv"
-)
-
 conn.close()
 print("\n\nSemua query analitik berhasil dijalankan!")
