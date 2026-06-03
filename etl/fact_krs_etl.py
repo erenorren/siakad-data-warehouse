@@ -17,7 +17,7 @@ def extract_krs_source():
 @task(name="Transform: Map Keys ke Tabel Fakta KRS")
 def transform_fact_krs(df_krs: pd.DataFrame, df_mk: pd.DataFrame) -> pd.DataFrame:
     conn_dw = get_dw_connection()
-    waktu_map = dict(psycopg2.DataFrame.read_sql("SELECT id_ta_sumber, sk_waktu FROM dim_waktu;", conn_dw).to_numpy()) if hasattr(psycopg2, 'DataFrame') else dict(pd.read_sql("SELECT id_ta_sumber, sk_waktu FROM dim_waktu;", conn_dw).values)
+    waktu_map = dict(pd.read_sql("SELECT id_ta_sumber, sk_waktu FROM dim_waktu;", conn_dw).to_numpy()) if hasattr(psycopg2, 'DataFrame') else dict(pd.read_sql("SELECT id_ta_sumber, sk_waktu FROM dim_waktu;", conn_dw).values)
     
     # Membaca data dimensi pendukung lainnya
     mhs_map = dict(pd.read_sql("SELECT id_mhs_sumber, sk_mahasiswa FROM dim_mahasiswa WHERE is_current = 1;", conn_dw).values)
