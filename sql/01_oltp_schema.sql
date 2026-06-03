@@ -95,7 +95,6 @@ CREATE TABLE mahasiswa (
     tgl_lahir           DATE,
     kode_provinsi_asal  VARCHAR(10)  REFERENCES provinsi(kode_provinsi),
     nama_sma_asal       VARCHAR(150),
-    akreditasi_sma_asal CHAR(2),                 -- A, B, C, TT
     id_prodi            INT          NOT NULL REFERENCES program_studi(id_prodi),
     tahun_masuk         INT          NOT NULL,
     status_mhs          VARCHAR(20)  NOT NULL    -- Aktif, Lulus, DO, Cuti
@@ -136,8 +135,8 @@ CREATE TABLE nilai_mahasiswa (
     nilai_angka     DECIMAL(5,2),
     nilai_huruf     CHAR(2),            -- A, AB, B, BC, C, D, E
     bobot_nilai     DECIMAL(3,1),       -- 4.0, 3.5, 3.0, dst
-    ip_semester     DECIMAL(4,3),
-    ipk_kumulatif   DECIMAL(4,3),
+    ip_semester     DECIMAL(3,2),
+    ipk_kumulatif   DECIMAL(3,2),
     tgl_input       DATE        NOT NULL
 );
 

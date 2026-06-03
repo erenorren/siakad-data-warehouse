@@ -1,4 +1,6 @@
 import os, csv, sqlite3, logging
+import psycopg2
+import psycopg2.extras
 from datetime import date, datetime
 from pathlib import Path
 from typing import Any
@@ -21,19 +23,39 @@ DB_PATH    = BASE_DIR.parent / 'siakad_dw.db'
 
 @task(name="extract_oltp_data", retries=2, retry_delay_seconds=5)
 def extract_oltp_data() -> dict[str, list[dict]]:
-    """Extract semua data dari sumber OLTP (CSV dummy)."""
+    """Extract semua data dari sumber OLTP (PostgreSQL)."""
     logger = get_run_logger()
     tables = [
         'provinsi','fakultas','program_studi','tahun_akademik',
         'dosen','mata_kuliah','mahasiswa','pendaftaran','krs','nilai_mahasiswa'
     ]
     data = {}
+    
+    conn = psycopg2.connect(
+        dbname="siakad_oltp",
+        user="postgres",
+        password="pgadmin", # UBAH DENGAN PASSWORD POSTGRES ASLIMU
+        host="localhost",
+        port="5432"
+    )
+    # RealDictCursor merubah baris sql menjadi dictionary seperti DictReader CSV
+    cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
+    
     for tbl in tables:
-        path = DATA_DIR / f"{tbl}.csv"
-        with open(path, encoding='utf-8') as f:
-            rows = list(csv.DictReader(f))
-        data[tbl] = rows
-        logger.info(f"  Extract {tbl}: {len(rows)} baris")
+        cur.execute(f"SELECT * FROM {tbl}")
+        rows = cur.fetchall()
+        
+        # Konversi semua value jadi string agar persis meniru output CSV sebelumnya
+        # (Sehingga kode Transform di bawahnya tidak ada yang error/perlu diubah)
+        str_rows = []
+        for r in rows:
+            str_rows.append({k: str(v) if v is not None else '' for k, v in r.items()})
+            
+        data[tbl] = str_rows
+        logger.info(f"  Extract {tbl}: {len(rows)} baris dari PostgreSQL")
+        
+    cur.close()
+    conn.close()
     return data
 
 
@@ -406,7 +428,10 @@ def load_create_schema() -> sqlite3.Connection:
     """Buat tabel DW di SQLite."""
     logger = get_run_logger()
     conn = get_connection()
+    # Menggunakan schema dengan Foreign Key untuk integritas data yang mantap
     conn.executescript("""
+    PRAGMA foreign_keys = ON;
+
     CREATE TABLE IF NOT EXISTS dim_waktu (
         sk_waktu INTEGER PRIMARY KEY AUTOINCREMENT,
         id_ta_sumber INT, kode_ta TEXT, tahun_akademik INT,
@@ -431,7 +456,7 @@ def load_create_schema() -> sqlite3.Connection:
         id_mhs_sumber INT, nim TEXT, nama_mhs TEXT,
         jenis_kelamin TEXT, kode_provinsi_asal TEXT,
         nama_provinsi_asal TEXT, nama_sma_asal TEXT,
-        akreditasi_sma_asal TEXT, sk_prodi INT,
+        akreditasi_sma_asal TEXT, sk_prodi INT REFERENCES dim_prodi(sk_prodi),
         tahun_masuk INT, status_mhs TEXT,
         tgl_efektif TEXT, tgl_kadaluarsa TEXT, is_current INT);
 
@@ -439,33 +464,37 @@ def load_create_schema() -> sqlite3.Connection:
         sk_dosen INTEGER PRIMARY KEY,
         id_dosen_sumber INT, nidn TEXT, nama_dosen TEXT,
         jabatan_akademik TEXT, pendidikan_terakhir TEXT,
-        sk_prodi INT, status_aktif INT, tgl_update_dw TEXT);
+        sk_prodi INT REFERENCES dim_prodi(sk_prodi), status_aktif INT, tgl_update_dw TEXT);
 
     CREATE TABLE IF NOT EXISTS dim_mata_kuliah (
         sk_mk INTEGER PRIMARY KEY,
         id_mk_sumber INT, kode_mk TEXT, nama_mk TEXT,
-        sks INT, semester_ke INT, jenis_mk TEXT, sk_prodi INT);
+        sks INT, semester_ke INT, jenis_mk TEXT, sk_prodi INT REFERENCES dim_prodi(sk_prodi));
 
     CREATE TABLE IF NOT EXISTS fact_pendaftaran (
         sk_pendaftaran INTEGER PRIMARY KEY AUTOINCREMENT,
         id_pendaftaran_sumber INT,
-        sk_waktu INT, sk_mahasiswa INT, sk_prodi INT, sk_demografi INT,
+        sk_waktu INT REFERENCES dim_waktu(sk_waktu), sk_mahasiswa INT REFERENCES dim_mahasiswa(sk_mahasiswa), 
+        sk_prodi INT REFERENCES dim_prodi(sk_prodi), sk_demografi INT REFERENCES dim_demografi_ekonomi(sk_demografi),
         jalur_masuk TEXT, status_diterima INT,
         jumlah_pendaftar INT, tgl_load TEXT);
 
     CREATE TABLE IF NOT EXISTS fact_krs (
         sk_krs INTEGER PRIMARY KEY AUTOINCREMENT,
         id_krs_sumber INT,
-        sk_waktu INT, sk_mahasiswa INT, sk_mk INT,
-        sk_dosen INT, sk_prodi INT,
+        sk_waktu INT REFERENCES dim_waktu(sk_waktu), sk_mahasiswa INT REFERENCES dim_mahasiswa(sk_mahasiswa), 
+        sk_mk INT REFERENCES dim_mata_kuliah(sk_mk),
+        sk_dosen INT REFERENCES dim_dosen(sk_dosen), sk_prodi INT REFERENCES dim_prodi(sk_prodi),
         sks_diambil INT, status_krs TEXT,
         jumlah_krs INT, tgl_load TEXT);
 
     CREATE TABLE IF NOT EXISTS fact_kelulusan (
         sk_kelulusan INTEGER PRIMARY KEY AUTOINCREMENT,
         id_nilai_sumber INT,
-        sk_waktu INT, sk_mahasiswa INT, sk_mk INT,
-        sk_dosen INT, sk_prodi INT, sk_demografi INT,
+        sk_waktu INT REFERENCES dim_waktu(sk_waktu), sk_mahasiswa INT REFERENCES dim_mahasiswa(sk_mahasiswa), 
+        sk_mk INT REFERENCES dim_mata_kuliah(sk_mk),
+        sk_dosen INT REFERENCES dim_dosen(sk_dosen), sk_prodi INT REFERENCES dim_prodi(sk_prodi), 
+        sk_demografi INT REFERENCES dim_demografi_ekonomi(sk_demografi),
         nilai_angka REAL, nilai_huruf TEXT, bobot_nilai REAL,
         ip_semester REAL, ipk_kumulatif REAL, sks_mk INT,
         lulus_flag INT, tepat_waktu_flag INT, tgl_load TEXT);
