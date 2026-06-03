@@ -9,6 +9,13 @@ from config import get_oltp_connection, get_dw_connection
 def extract_waktu_source() -> pd.DataFrame:
     query = "SELECT id_ta, kode_ta, tahun_mulai, semester FROM tahun_akademik;"
     conn_oltp = get_oltp_connection()
+    
+    # --- TAMBAHKAN BARIS INI UNTUK DEBUGGING ---
+    print("=== DEBUG KONEKSI ===")
+    print("Python saat ini terhubung ke database:", conn_oltp.info.dbname)
+    print("=====================")
+    # ──────────────────────────────────────────
+    
     df = pd.read_sql(query, conn_oltp)
     conn_oltp.close()
     return df

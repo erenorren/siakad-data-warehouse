@@ -17,11 +17,21 @@ def extract_demografi_source():
     df_ump = pd.read_csv(DATA_DIR / 'ump_provinsi.csv')
     return df_prov, df_ump
 
+# etl/dim_demografi_etl.py
+
 @task(name="Transform: Gabung & Kategori Ekonomi")
 def transform_dim_demografi(df_prov: pd.DataFrame, df_ump: pd.DataFrame) -> pd.DataFrame:
     print("Mentransformasi data demografi ekonomi...")
     
-    # Join data menggunakan Pandas
+    # 1. Samakan tipe data (Langkah dari sesi sebelumnya)
+    df_prov['kode_provinsi'] = df_prov['kode_provinsi'].astype(str)
+    df_ump['kode_provinsi'] = df_ump['kode_provinsi'].astype(str)
+    
+    # 2. HAPUS kolom nama_provinsi dari CSV agar tidak bentrok (_x dan _y) saat merge
+    if 'nama_provinsi' in df_ump.columns:
+        df_ump = df_ump.drop(columns=['nama_provinsi'])
+        
+    # 3. Jalankan merge (sekarang nama_provinsi murni hanya milik df_prov)
     df_merged = pd.merge(df_prov, df_ump, on="kode_provinsi", how="left")
     
     # Isi nilai kosong dengan 0 jika ada provinsi yang tidak terdata di CSV
