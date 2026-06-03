@@ -6,7 +6,10 @@
 -- Engine: SQLite (siakad_dw.db)
 -- ============================================================
 
--- Drop existing DW tables
+-- Aktifkan fitur Foreign Key di SQLite
+PRAGMA foreign_keys = ON;
+
+-- Drop existing DW tables jika ada (urut dari fakta ke dimensi)
 DROP TABLE IF EXISTS fact_kelulusan;
 DROP TABLE IF EXISTS fact_krs;
 DROP TABLE IF EXISTS fact_pendaftaran;
@@ -76,7 +79,6 @@ CREATE TABLE dim_demografi_ekonomi (
 -- dim_mahasiswa
 -- Sumber: tabel mahasiswa (OLTP) + akreditasi_sma.xlsx (Publik)
 -- SCD Type 2: perubahan status_mhs menghasilkan record baru
--- Kolom SCD2: tgl_efektif, tgl_kadaluarsa, is_current
 -- ------------------------------------------------------------
 CREATE TABLE dim_mahasiswa (
     sk_mahasiswa        INTEGER PRIMARY KEY,
@@ -87,8 +89,8 @@ CREATE TABLE dim_mahasiswa (
     kode_provinsi_asal  TEXT,
     nama_provinsi_asal  TEXT,
     nama_sma_asal       TEXT,
-    akreditasi_sma_asal TEXT,   -- A, B, C, TT (dari akreditasi_sma.xlsx)
-    sk_prodi            INT,
+    akreditasi_sma_asal TEXT,   -- A, B, C, TT (Hasil enrichment dari akreditasi_sma.xlsx)
+    sk_prodi            INT REFERENCES dim_prodi(sk_prodi),
     tahun_masuk         INT,
     status_mhs          TEXT,   -- Aktif, Lulus, DO, Cuti
     -- SCD Type 2 columns
@@ -109,7 +111,7 @@ CREATE TABLE dim_dosen (
     nama_dosen          TEXT,
     jabatan_akademik    TEXT,
     pendidikan_terakhir TEXT,
-    sk_prodi            INT,
+    sk_prodi            INT REFERENCES dim_prodi(sk_prodi),
     status_aktif        INT,    -- 1=aktif, 0=tidak aktif
     tgl_update_dw       TEXT
 );
@@ -126,7 +128,7 @@ CREATE TABLE dim_mata_kuliah (
     sks             INT,
     semester_ke     INT,
     jenis_mk        TEXT,       -- Wajib / Pilihan
-    sk_prodi        INT
+    sk_prodi        INT REFERENCES dim_prodi(sk_prodi)
 );
 
 -- ============================================================
@@ -135,16 +137,15 @@ CREATE TABLE dim_mata_kuliah (
 
 -- ------------------------------------------------------------
 -- fact_pendaftaran
--- Sumber: tabel pendaftaran (OLTP)
 -- Grain: 1 baris = 1 pendaftaran mahasiswa baru
 -- ------------------------------------------------------------
 CREATE TABLE fact_pendaftaran (
     sk_pendaftaran          INTEGER PRIMARY KEY AUTOINCREMENT,
     id_pendaftaran_sumber   INT,
-    sk_waktu                INT,    -- FK → dim_waktu
-    sk_mahasiswa            INT,    -- FK → dim_mahasiswa
-    sk_prodi                INT,    -- FK → dim_prodi
-    sk_demografi            INT,    -- FK → dim_demografi_ekonomi
+    sk_waktu                INT REFERENCES dim_waktu(sk_waktu),
+    sk_mahasiswa            INT REFERENCES dim_mahasiswa(sk_mahasiswa),
+    sk_prodi                INT REFERENCES dim_prodi(sk_prodi),
+    sk_demografi            INT REFERENCES dim_demografi_ekonomi(sk_demografi),
     jalur_masuk             TEXT,   -- SNBP, SNBT, Mandiri
     status_diterima         INT,    -- 1=diterima, 0=tidak
     jumlah_pendaftar        INT,    -- selalu 1 (untuk agregasi)
@@ -153,17 +154,16 @@ CREATE TABLE fact_pendaftaran (
 
 -- ------------------------------------------------------------
 -- fact_krs
--- Sumber: tabel krs (OLTP)
 -- Grain: 1 baris = 1 pengambilan mata kuliah per mahasiswa per semester
 -- ------------------------------------------------------------
 CREATE TABLE fact_krs (
     sk_krs          INTEGER PRIMARY KEY AUTOINCREMENT,
     id_krs_sumber   INT,
-    sk_waktu        INT,    -- FK → dim_waktu
-    sk_mahasiswa    INT,    -- FK → dim_mahasiswa
-    sk_mk           INT,    -- FK → dim_mata_kuliah
-    sk_dosen        INT,    -- FK → dim_dosen
-    sk_prodi        INT,    -- FK → dim_prodi
+    sk_waktu                INT REFERENCES dim_waktu(sk_waktu),
+    sk_mahasiswa            INT REFERENCES dim_mahasiswa(sk_mahasiswa),
+    sk_mk                   INT REFERENCES dim_mata_kuliah(sk_mk),
+    sk_dosen                INT REFERENCES dim_dosen(sk_dosen),
+    sk_prodi                INT REFERENCES dim_prodi(sk_prodi),
     sks_diambil     INT,
     status_krs      TEXT,   -- Disetujui, Pending, Dibatalkan
     jumlah_krs      INT,    -- selalu 1 (untuk agregasi)
@@ -172,19 +172,17 @@ CREATE TABLE fact_krs (
 
 -- ------------------------------------------------------------
 -- fact_kelulusan
--- Sumber: tabel nilai_mahasiswa + krs (OLTP)
 -- Grain: 1 baris = 1 nilai mata kuliah per mahasiswa per semester
--- Digunakan untuk menjawab semua 4 KPI
 -- ------------------------------------------------------------
 CREATE TABLE fact_kelulusan (
     sk_kelulusan    INTEGER PRIMARY KEY AUTOINCREMENT,
     id_nilai_sumber INT,
-    sk_waktu        INT,    -- FK → dim_waktu
-    sk_mahasiswa    INT,    -- FK → dim_mahasiswa
-    sk_mk           INT,    -- FK → dim_mata_kuliah
-    sk_dosen        INT,    -- FK → dim_dosen
-    sk_prodi        INT,    -- FK → dim_prodi
-    sk_demografi    INT,    -- FK → dim_demografi_ekonomi
+    sk_waktu                INT REFERENCES dim_waktu(sk_waktu),
+    sk_mahasiswa            INT REFERENCES dim_mahasiswa(sk_mahasiswa),
+    sk_mk                   INT REFERENCES dim_mata_kuliah(sk_mk),
+    sk_dosen                INT REFERENCES dim_dosen(sk_dosen),
+    sk_prodi                INT REFERENCES dim_prodi(sk_prodi),
+    sk_demografi            INT REFERENCES dim_demografi_ekonomi(sk_demografi),
     nilai_angka     REAL,
     nilai_huruf     TEXT,   -- A, AB, B, BC, C, D, E
     bobot_nilai     REAL,   -- 4.0, 3.5, 3.0, dst
