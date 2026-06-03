@@ -2,15 +2,89 @@
 analytical_queries.py
 Menjalankan 4 query analitik KPI untuk SIAKAD DW dan menyimpan hasilnya ke CSV
 """
-import sqlite3, csv
+import sqlite3, csv, re
 from pathlib import Path
 
-DB_PATH = Path(__file__).parent.parent / 'siakad_dw.db'
-OUT_DIR = Path(__file__).parent.parent / 'data'
+SQL_PATH = Path(__file__).parent.parent / 'dw siakad.sql'
+OUT_DIR  = Path(__file__).parent.parent / 'kpi'
 
-conn = sqlite3.connect(str(DB_PATH))
+# ── Konversi PostgreSQL dump → SQLite in-memory ───────────────
+print("=" * 60)
+print("  Memuat dan mengkonversi dw siakad.sql ke SQLite...")
+print("=" * 60)
+
+if not SQL_PATH.exists():
+    raise FileNotFoundError(
+        f"\n[ERROR] File tidak ditemukan: {SQL_PATH}"
+        f"\nPastikan file dw siakad.sql ada di root folder repo"
+    )
+
+with open(SQL_PATH, 'r', encoding='utf-8') as f:
+    content = f.read()
+
+lines = content.split('\n')
+sqlite_lines = []
+
+for line in lines:
+    line_s = line.strip().rstrip('\r')
+
+    # Skip sequence blocks
+    if re.match(r'(AS integer|START WITH|INCREMENT BY|NO MINVALUE|NO MAXVALUE|CACHE \d+;)', line_s):
+        continue
+
+    # Skip PostgreSQL-specific commands
+    skip_prefixes = [
+        '--', 'SET ', 'SELECT pg_catalog', 'ALTER TABLE', 'ALTER SEQUENCE',
+        'CREATE SEQUENCE', 'CREATE INDEX', 'REVOKE', 'GRANT', '\\',
+        'COPY ', '\\.', 'SELECT setval', 'pg_dump', 'Dumped', 'Started',
+        'Completed', 'TOC', 'CONSTRAINT', 'ADD CONSTRAINT',
+        'CREATE UNIQUE INDEX', 'OWNER TO', 'nextval'
+    ]
+    if any(line_s.startswith(x) for x in skip_prefixes):
+        continue
+    if not line_s:
+        continue
+
+    # Convert PostgreSQL syntax → SQLite syntax
+    line_s = re.sub(r'CREATE TABLE public\.(\w+)',
+                    r'CREATE TABLE IF NOT EXISTS \1', line_s)
+    line_s = re.sub(r'INSERT INTO public\.(\w+)',
+                    r'INSERT OR IGNORE INTO \1', line_s)
+    line_s = re.sub(r"DEFAULT nextval\('[^']+'\)", '', line_s)
+    line_s = re.sub(r'::\w+(\s*\[\])?', '', line_s)
+    line_s = re.sub(r'character varying\(\d+\)', 'TEXT', line_s)
+    line_s = re.sub(r'character varying', 'TEXT', line_s)
+    line_s = line_s.replace('boolean', 'INTEGER')
+    line_s = re.sub(r'\bnumeric(\(\d+,\d+\))?', 'REAL', line_s)
+    line_s = line_s.replace('double precision', 'REAL')
+    line_s = re.sub(r'\btrue\b', '1', line_s)
+    line_s = re.sub(r'\bfalse\b', '0', line_s)
+
+    sqlite_lines.append(line_s)
+
+sqlite_script = '\n'.join(sqlite_lines)
+
+conn = sqlite3.connect(':memory:')
 conn.row_factory = sqlite3.Row
 
+try:
+    conn.executescript(sqlite_script)
+    conn.commit()
+except Exception as e:
+    raise RuntimeError(f"[ERROR] Gagal konversi SQL: {e}")
+
+# Verifikasi tabel
+tables = conn.execute(
+    "SELECT name FROM sqlite_master WHERE type='table' ORDER BY name"
+).fetchall()
+print(f"\n  Tabel tersedia:")
+for t in tables:
+    n = conn.execute(f"SELECT COUNT(*) FROM {t[0]}").fetchone()[0]
+    print(f"    {t[0]:<30} {n:>8} baris")
+print()
+
+
+# ── Helper: run query & simpan CSV ───────────────────────────
 def run_query(title, sql, outfile):
     print(f"\n{'='*60}")
     print(f"  {title}")
@@ -24,7 +98,8 @@ def run_query(title, sql, outfile):
             print('  ' + '  |  '.join(str(r[h]) for h in headers))
         if len(rows) > 10:
             print(f"  ... dan {len(rows)-10} baris lainnya")
-    # Save to CSV
+
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
     path = OUT_DIR / outfile
     with open(path, 'w', newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()) if rows else [])
@@ -32,6 +107,7 @@ def run_query(title, sql, outfile):
         w.writerows([dict(r) for r in rows])
     print(f"\n  Saved to: {outfile} ({len(rows)} baris)")
     return rows
+
 
 # ── KPI 1: Rasio Kelulusan Tepat Waktu per Prodi ─────────────
 run_query(
@@ -43,10 +119,10 @@ run_query(
         dw.tahun_akademik,
         COUNT(DISTINCT fk.sk_mahasiswa)  AS total_mahasiswa_lulus,
         COUNT(DISTINCT CASE WHEN fk.tepat_waktu_flag=1 THEN fk.sk_mahasiswa END)
-                                         AS lulus_tepat_waktu,
+                                            AS lulus_tepat_waktu,
         ROUND(
           COUNT(DISTINCT CASE WHEN fk.tepat_waktu_flag=1 THEN fk.sk_mahasiswa END) * 100.0
-          / MAX(COUNT(DISTINCT fk.sk_mahasiswa), 1)
+            / MAX(COUNT(DISTINCT fk.sk_mahasiswa), 1)
         , 2) AS rasio_tepat_waktu_pct
     FROM fact_kelulusan fk
     JOIN dim_prodi  dp ON fk.sk_prodi = dp.sk_prodi

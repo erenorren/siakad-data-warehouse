@@ -1,0 +1,45 @@
+akreditasi_sma,nama_prodi,rata_rata_ipk,rata_rata_nilai,jumlah_mahasiswa
+A,Pendidikan Matematika,3.131,75.12,45
+A,Ilmu Hukum,3.123,74.75,47
+A,Akuntansi,3.1,74.45,56
+A,Teknik Informatika,3.099,74.69,89
+A,Pendidikan Dokter,3.088,74.63,51
+A,Manajemen,3.075,74.7,57
+A,Sistem Informasi,3.068,74.94,35
+A,Matematika,3.039,73.63,64
+A,Kimia,3.024,73.9,41
+A,Teknik Elektro,3.012,73.21,43
+A,Pendidikan Bahasa Inggris,2.999,73.26,50
+B,Pendidikan Matematika,3.081,73.78,36
+B,Manajemen,3.033,73.14,51
+B,Teknik Informatika,3.027,73.25,104
+B,Akuntansi,3.022,73.04,35
+B,Kimia,3.008,72.84,52
+B,Pendidikan Bahasa Inggris,3.006,73.27,44
+B,Sistem Informasi,2.995,72.99,46
+B,Teknik Elektro,2.991,73.14,30
+B,Ilmu Hukum,2.989,72.93,47
+B,Matematika,2.946,72.59,45
+B,Pendidikan Dokter,2.937,71.87,42
+C,Kimia,2.89,71.39,13
+C,Akuntansi,2.883,70.57,13
+C,Matematika,2.843,70.35,22
+C,Pendidikan Bahasa Inggris,2.831,70.35,12
+C,Teknik Informatika,2.826,70.03,26
+C,Teknik Elektro,2.811,70.08,21
+C,Sistem Informasi,2.799,69.19,21
+C,Pendidikan Dokter,2.763,69.18,17
+C,Manajemen,2.761,69.81,16
+C,Pendidikan Matematika,2.693,68.84,19
+C,Ilmu Hukum,2.616,68.25,8
+TT,Akuntansi,2.88,70.5,14
+TT,Pendidikan Matematika,2.865,70.55,19
+TT,Matematika,2.852,69.66,18
+TT,Ilmu Hukum,2.817,69.95,13
+TT,Teknik Informatika,2.816,70.96,30
+TT,Teknik Elektro,2.788,70.28,16
+TT,Manajemen,2.774,69.98,15
+TT,Pendidikan Bahasa Inggris,2.753,68.6,19
+TT,Sistem Informasi,2.709,68.35,22
+TT,Kimia,2.684,69.15,24
+TT,Pendidikan Dokter,2.673,68.34,12
