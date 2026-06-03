@@ -1,6 +1,6 @@
 """
 analytical_queries.py
-Menjalankan 4 query analitik KPI untuk SIAKAD DW dan menyimpan hasilnya ke CSV
+Menjalankan 4 query analitik KPI dari SIAKAD DW dan menyimpan hasilnya ke CSV
 """
 import sqlite3, csv, re
 from pathlib import Path
